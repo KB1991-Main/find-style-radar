@@ -1,0 +1,30 @@
+{
+  "retailer": "Boozt",
+  "brand": "Samsøe Samsøe",
+  "gender": "men",
+  "source": "https://www.boozt.com/se/sv/samsoe-and-samsoe/men/klader-for-man/vaeskor",
+  "sourceChecked": "2026-10-19",
+  "note": "Four products visible in indexed Boozt category result; not a complete or necessarily current inventory. Benchmark only, not a coverage denominator for the entire retailer.",
+  "products": [
+    {
+      "name": "Damon X shirt 13072",
+      "price": 510,
+      "original": 1700
+    },
+    {
+      "name": "Stefan jean 5890",
+      "price": 560,
+      "original": 1400
+    },
+    {
+      "name": "Eddie jeans 15060",
+      "price": 800,
+      "original": 2000
+    },
+    {
+      "name": "Stefan jean 5891",
+      "price": 560,
+      "original": 1400
+    }
+  ]
+}
