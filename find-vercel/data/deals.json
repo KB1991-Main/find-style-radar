@@ -1,0 +1,13 @@
+{
+  "updatedAt": null,
+  "brands": [
+    "Acne Studios",
+    "J.Lindeberg",
+    "Samsøe Samsøe"
+  ],
+  "items": [],
+  "history": {},
+  "searchesAttempted": 0,
+  "searchesFailed": 0,
+  "limitations": "No scheduled scan completed yet. Configure GitHub Actions SERPAPI_KEY and run the workflow."
+}
