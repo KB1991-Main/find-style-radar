@@ -1,0 +1,29 @@
+name: FIND daily deal scan
+on:
+  schedule:
+    - cron: '23 6 * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Discover current deals
+        env:
+          SERPAPI_KEY: ${{ secrets.SERPAPI_KEY }}
+        run: node find-vercel/scripts/scan-deals.js
+      - name: Commit snapshot if changed
+        run: |
+          git config user.name "FIND bot"
+          git config user.email "find-bot@users.noreply.github.com"
+          git add find-vercel/data/deals.json
+          if ! git diff --cached --quiet; then
+            git commit -m "data: daily FIND deal snapshot"
+            git push
+          fi
