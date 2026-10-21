@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T11:53:34.514Z",
+  "updatedAt": "2026-10-21T12:05:52.154Z",
   "brands": [
     "Acne Studios",
     "J.Lindeberg",
@@ -7,105 +7,105 @@
   ],
   "items": [
     {
-      "id": "https://www.google.com/search?ibp=oshop&q=J.Lindeberg herr rea Boozt&prds=catalogid:13140431540567719490,productid:18039041921800348990,headlineOfferDocid:7276443305457834749,imageDocid:15539123300045065613,gpcid:2274959594566879082,mid:576462901783708293,pvt:a&hl=sv&gl=se&udm=28",
+      "id": "https://www.google.com/search?ibp=oshop&q=J.Lindeberg herr rea Boozt&prds=catalogid:3457918197004010822,productid:12531475638472499207,headlineOfferDocid:7030479515724978948,imageDocid:13465258564312925627,gpcid:13623827001490163421,mid:576462823659839435,pvt:a&hl=sv&gl=se&udm=28",
+      "brand": "J.Lindeberg",
+      "retailer": "Boozt",
+      "name": "J.Lindeberg Noah Drape Linen Pants Herr",
+      "price": 900,
+      "original": 1800,
+      "discount": 50,
+      "url": "https://www.google.com/search?ibp=oshop&q=J.Lindeberg herr rea Boozt&prds=catalogid:3457918197004010822,productid:12531475638472499207,headlineOfferDocid:7030479515724978948,imageDocid:13465258564312925627,gpcid:13623827001490163421,mid:576462823659839435,pvt:a&hl=sv&gl=se&udm=28",
+      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRowdRdMFb_mhTwqcjBpt396gjs4dp3wcsBevCAmAVAq2M7gl71D3WKN4FgyUQfxq_dWKYDHVQiC7SO54iBM7dJXQxuE5wmfdoDBjK8p1w3DufAXMBT6hwWfw",
+      "checkedAt": "2026-10-21T12:05:40.283Z",
+      "lowestObserved": 900,
+      "firstObserved": "2026-10-21T12:05:52.154Z"
+    },
+    {
+      "id": "https://www.google.com/search?ibp=oshop&q=J.Lindeberg herr rea Boozt&prds=catalogid:2211729126306086343,productid:8482394425318989034,headlineOfferDocid:5377059389010187441,imageDocid:15306806602094611047,gpcid:2274959594566879082,mid:576462901783708293,pvt:a&hl=sv&gl=se&udm=28",
       "brand": "J.Lindeberg",
       "retailer": "Boozt",
       "name": "J.Lindeberg Rylan Stripe Knit Golf Polo Herr",
       "price": 900,
       "original": 1500,
       "discount": 40,
-      "url": "https://www.google.com/search?ibp=oshop&q=J.Lindeberg herr rea Boozt&prds=catalogid:13140431540567719490,productid:18039041921800348990,headlineOfferDocid:7276443305457834749,imageDocid:15539123300045065613,gpcid:2274959594566879082,mid:576462901783708293,pvt:a&hl=sv&gl=se&udm=28",
-      "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQ_LaZ_QpZtYsSrNFdTue81A-zu0-ToDctW1UdxYskAFefOs_AjNp-96XZR2isgriUC_qsznWsYACHqg9yDK2h6IIODhlv2HPE4LsAvxyCM4naaK7hHEYqTsN4",
-      "checkedAt": "2026-10-20T11:53:30.107Z",
+      "url": "https://www.google.com/search?ibp=oshop&q=J.Lindeberg herr rea Boozt&prds=catalogid:2211729126306086343,productid:8482394425318989034,headlineOfferDocid:5377059389010187441,imageDocid:15306806602094611047,gpcid:2274959594566879082,mid:576462901783708293,pvt:a&hl=sv&gl=se&udm=28",
+      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRs3K2faOEaC6wB4FTSmFrKKx4mRoIYwCDumihx8lA1Dp0TTeETqmoR56hO_9ot7EfkGeUB7tNcn3T_Csw5qS5HcUg84CSpUToABVPv2F1RSF6QV2RvAgMwi1g",
+      "checkedAt": "2026-10-21T12:05:40.283Z",
       "lowestObserved": 900,
-      "firstObserved": "2026-10-19T21:05:26.183Z"
+      "firstObserved": "2026-10-21T12:05:52.154Z"
     },
     {
-      "id": "https://www.google.com/search?ibp=oshop&q=J.Lindeberg herr rea Boozt&prds=catalogid:18377108677479857174,productid:4716945148897261027,headlineOfferDocid:17058940226437365291,imageDocid:9160947019940093746,gpcid:4125111514406199852,mid:576462445979095331,pvt:a&hl=sv&gl=se&udm=28",
+      "id": "https://www.google.com/search?ibp=oshop&q=J.Lindeberg herr rea Boozt&prds=catalogid:1461618514208691287,productid:3861653151977042344,headlineOfferDocid:7152073674014518406,imageDocid:6744174617249505365,gpcid:7979389302054685949,mid:576462889255384026,pvt:a&hl=sv&gl=se&udm=28",
       "brand": "J.Lindeberg",
       "retailer": "Boozt",
-      "name": "J.Lindeberg Alex Half Zip Knitted Sweater Herr",
-      "price": 600,
-      "original": 900,
-      "discount": 33,
-      "url": "https://www.google.com/search?ibp=oshop&q=J.Lindeberg herr rea Boozt&prds=catalogid:18377108677479857174,productid:4716945148897261027,headlineOfferDocid:17058940226437365291,imageDocid:9160947019940093746,gpcid:4125111514406199852,mid:576462445979095331,pvt:a&hl=sv&gl=se&udm=28",
-      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTbn_NAeKocux7Zc_aQ9oLgAV1LAV4Q7vZjwmgKpsOOiqiIO47yHNssNN-00hjWpv5CQ2rb3CUMCfmmdVb7n1WHYw13hcK77nfPomjtf9qUrF8397Z1IO-g",
-      "checkedAt": "2026-10-20T11:53:30.107Z",
-      "lowestObserved": 600,
-      "firstObserved": "2026-10-19T21:05:26.183Z"
+      "name": "J. Lindeberg Gian Crinkle Zip Overshirt Herr",
+      "price": 1080,
+      "original": 1800,
+      "discount": 40,
+      "url": "https://www.google.com/search?ibp=oshop&q=J.Lindeberg herr rea Boozt&prds=catalogid:1461618514208691287,productid:3861653151977042344,headlineOfferDocid:7152073674014518406,imageDocid:6744174617249505365,gpcid:7979389302054685949,mid:576462889255384026,pvt:a&hl=sv&gl=se&udm=28",
+      "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRnrtUlbb47QSu8Wn7rDA01wlKIGxCJWwdd97nz95GYsEy4drv2JbVYx3rWKtU_olSeeI0X3y7ScE5GUuLR5nY_vsYFSkK21CyaCOspnCJ23bEXo0Aon1yoPYQ",
+      "checkedAt": "2026-10-21T12:05:40.283Z",
+      "lowestObserved": 1080,
+      "firstObserved": "2026-10-21T12:05:52.154Z"
     },
     {
-      "id": "https://www.google.com/search?ibp=oshop&q=Samsøe Samsøe herr rea Boozt&prds=catalogid:9268763617498382604,productid:11560527282543988437,headlineOfferDocid:422102075645369458,imageDocid:10717580810426905613,gpcid:9393047419599450686,mid:576462842945461192,pvt:a&hl=sv&gl=se&udm=28",
-      "brand": "Samsøe Samsøe",
+      "id": "https://www.google.com/search?ibp=oshop&q=J.Lindeberg herr rea Zalando&prds=catalogid:9481890011388155412,productid:1929220445489436589,headlineOfferDocid:2092833522187888669,imageDocid:1175981273708733706,gpcid:16083983511815887197,pvt:a&hl=sv&gl=se&udm=28",
+      "brand": "J.Lindeberg",
+      "retailer": "Zalando",
+      "name": "J.Lindeberg Kelvin Colorblock Crew Neck Jl Herr",
+      "price": 1009,
+      "original": 1399,
+      "discount": 28,
+      "url": "https://www.google.com/search?ibp=oshop&q=J.Lindeberg herr rea Zalando&prds=catalogid:9481890011388155412,productid:1929220445489436589,headlineOfferDocid:2092833522187888669,imageDocid:1175981273708733706,gpcid:16083983511815887197,pvt:a&hl=sv&gl=se&udm=28",
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRqEC1xW3-1viofbXoPcJ_0_6cywpemPfexudgyF8S8NlNRyaIZLZ1vZzZm7cI62NhOS-63JSw",
+      "checkedAt": "2026-10-21T12:05:39.451Z",
+      "lowestObserved": 1009,
+      "firstObserved": "2026-10-21T12:05:52.154Z"
+    },
+    {
+      "id": "https://www.google.com/search?ibp=oshop&q=J.Lindeberg herr rea Boozt&prds=catalogid:9951816278421886289,productid:16254253344604943681,headlineOfferDocid:15923599337012026251,imageDocid:15807922471217354164,gpcid:94380848059820626,mid:576462801283646568,pvt:a&hl=sv&gl=se&udm=28",
+      "brand": "J.Lindeberg",
       "retailer": "Boozt",
-      "name": "SAMSØE & SAMSØE Stefan Jean 5890 Svart - 32 - Herr > Jeans",
-      "price": 420,
-      "original": 560,
+      "name": "J.Lindeberg Howard Tech Fleece Overshirt Herr",
+      "price": 840,
+      "original": 1120,
       "discount": 25,
-      "url": "https://www.google.com/search?ibp=oshop&q=Samsøe Samsøe herr rea Boozt&prds=catalogid:9268763617498382604,productid:11560527282543988437,headlineOfferDocid:422102075645369458,imageDocid:10717580810426905613,gpcid:9393047419599450686,mid:576462842945461192,pvt:a&hl=sv&gl=se&udm=28",
-      "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcS3NJ4QfhLu2ge_3DbqUrd0IQPBfDOgfUp4B4QPic9hLx3f02KhUGlJVWQW_DTU1EK7qJ0o7UrD_Zby2rRWV73bubqoLx45hZ_zL7PyswElPem4MVYftWI6",
-      "checkedAt": "2026-10-20T11:53:34.514Z",
-      "lowestObserved": 420,
-      "firstObserved": "2026-10-19T21:05:26.183Z"
-    },
-    {
-      "id": "https://www.google.com/search?ibp=oshop&q=J.Lindeberg herr rea Boozt&prds=catalogid:14806364465156453287,productid:17961901818919100059,headlineOfferDocid:13392510177068679765,imageDocid:10560679876054718199,gpcid:13050779213121553386,mid:576462894288524079,pvt:a&hl=sv&gl=se&udm=28",
-      "brand": "J.Lindeberg",
-      "retailer": "Boozt",
-      "name": "J Lindeberg 30Y Nikolas Knit Sweater Herr",
-      "price": 999,
-      "original": 1299,
-      "discount": 23,
-      "url": "https://www.google.com/search?ibp=oshop&q=J.Lindeberg herr rea Boozt&prds=catalogid:14806364465156453287,productid:17961901818919100059,headlineOfferDocid:13392510177068679765,imageDocid:10560679876054718199,gpcid:13050779213121553386,mid:576462894288524079,pvt:a&hl=sv&gl=se&udm=28",
-      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQTOhjtzz0w9zblkagosAgb950JiTdgPshkI_Exl0emzy54DGAz0_RTgrsL1dYqL2aWiQ7JDql3lMlHE154HOKRYPI5xUpHb4i07ZJJba6B68hg_IowfIol",
-      "checkedAt": "2026-10-20T11:53:30.107Z",
-      "lowestObserved": 999,
-      "firstObserved": "2026-10-19T21:05:26.183Z"
-    },
-    {
-      "id": "https://www.google.com/search?ibp=oshop&q=J.Lindeberg herr rea Boozt&prds=catalogid:5337112728956958072,productid:9843921525330621108,headlineOfferDocid:17008887423308628931,imageDocid:2915397893961922727,rds:PC_11914159252343157199|PROD_PC_11914159252343157199,gpcid:11914159252343157199,mid:576462815349819090,pvt:a&hl=sv&gl=se&udm=28",
-      "brand": "J.Lindeberg",
-      "retailer": "Boozt",
-      "name": "Man J.Lindeberg Jarvis Mid Layer",
-      "price": 1120,
-      "original": 1400,
-      "discount": 20,
-      "url": "https://www.google.com/search?ibp=oshop&q=J.Lindeberg herr rea Boozt&prds=catalogid:5337112728956958072,productid:9843921525330621108,headlineOfferDocid:17008887423308628931,imageDocid:2915397893961922727,rds:PC_11914159252343157199|PROD_PC_11914159252343157199,gpcid:11914159252343157199,mid:576462815349819090,pvt:a&hl=sv&gl=se&udm=28",
-      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSuEEPPRWV_JmS8gEMUdloRewl43evgc7l3RkVd7MwDfvxgM9lCVcf-7qJtJrEnBMaSeypjfiuWu8douxTJ6SXYg2w0UU0lzufo7AIn97Dw7o9Ct6RgZElK",
-      "checkedAt": "2026-10-20T11:53:30.107Z",
-      "lowestObserved": 1120,
-      "firstObserved": "2026-10-19T21:05:26.183Z"
+      "url": "https://www.google.com/search?ibp=oshop&q=J.Lindeberg herr rea Boozt&prds=catalogid:9951816278421886289,productid:16254253344604943681,headlineOfferDocid:15923599337012026251,imageDocid:15807922471217354164,gpcid:94380848059820626,mid:576462801283646568,pvt:a&hl=sv&gl=se&udm=28",
+      "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRRwQcSFZ8EHh_4NycsIB-DUMJdWqMI_tWovbrE-JRsTkoPULQNzIoIRvQXhTd2KmzDrZulCEwx0a2DCgjvQ97kgHqF_YErAUedc19Vd9O-0nCUNyRqYBfgtA",
+      "checkedAt": "2026-10-21T12:05:40.283Z",
+      "lowestObserved": 840,
+      "firstObserved": "2026-10-21T12:05:52.154Z"
     }
   ],
   "history": {
-    "https://www.google.com/search?ibp=oshop&q=J.Lindeberg herr rea Boozt&prds=catalogid:13140431540567719490,productid:18039041921800348990,headlineOfferDocid:7276443305457834749,imageDocid:15539123300045065613,gpcid:2274959594566879082,mid:576462901783708293,pvt:a&hl=sv&gl=se&udm=28": [
+    "https://www.google.com/search?ibp=oshop&q=J.Lindeberg herr rea Boozt&prds=catalogid:3457918197004010822,productid:12531475638472499207,headlineOfferDocid:7030479515724978948,imageDocid:13465258564312925627,gpcid:13623827001490163421,mid:576462823659839435,pvt:a&hl=sv&gl=se&udm=28": [
       {
         "price": 900,
-        "at": "2026-10-19T21:05:26.183Z"
+        "at": "2026-10-21T12:05:52.154Z"
       }
     ],
-    "https://www.google.com/search?ibp=oshop&q=J.Lindeberg herr rea Boozt&prds=catalogid:18377108677479857174,productid:4716945148897261027,headlineOfferDocid:17058940226437365291,imageDocid:9160947019940093746,gpcid:4125111514406199852,mid:576462445979095331,pvt:a&hl=sv&gl=se&udm=28": [
+    "https://www.google.com/search?ibp=oshop&q=J.Lindeberg herr rea Boozt&prds=catalogid:2211729126306086343,productid:8482394425318989034,headlineOfferDocid:5377059389010187441,imageDocid:15306806602094611047,gpcid:2274959594566879082,mid:576462901783708293,pvt:a&hl=sv&gl=se&udm=28": [
       {
-        "price": 600,
-        "at": "2026-10-19T21:05:26.183Z"
+        "price": 900,
+        "at": "2026-10-21T12:05:52.154Z"
       }
     ],
-    "https://www.google.com/search?ibp=oshop&q=Samsøe Samsøe herr rea Boozt&prds=catalogid:9268763617498382604,productid:11560527282543988437,headlineOfferDocid:422102075645369458,imageDocid:10717580810426905613,gpcid:9393047419599450686,mid:576462842945461192,pvt:a&hl=sv&gl=se&udm=28": [
+    "https://www.google.com/search?ibp=oshop&q=J.Lindeberg herr rea Boozt&prds=catalogid:1461618514208691287,productid:3861653151977042344,headlineOfferDocid:7152073674014518406,imageDocid:6744174617249505365,gpcid:7979389302054685949,mid:576462889255384026,pvt:a&hl=sv&gl=se&udm=28": [
       {
-        "price": 420,
-        "at": "2026-10-19T21:05:26.183Z"
+        "price": 1080,
+        "at": "2026-10-21T12:05:52.154Z"
       }
     ],
-    "https://www.google.com/search?ibp=oshop&q=J.Lindeberg herr rea Boozt&prds=catalogid:14806364465156453287,productid:17961901818919100059,headlineOfferDocid:13392510177068679765,imageDocid:10560679876054718199,gpcid:13050779213121553386,mid:576462894288524079,pvt:a&hl=sv&gl=se&udm=28": [
+    "https://www.google.com/search?ibp=oshop&q=J.Lindeberg herr rea Zalando&prds=catalogid:9481890011388155412,productid:1929220445489436589,headlineOfferDocid:2092833522187888669,imageDocid:1175981273708733706,gpcid:16083983511815887197,pvt:a&hl=sv&gl=se&udm=28": [
       {
-        "price": 999,
-        "at": "2026-10-19T21:05:26.183Z"
+        "price": 1009,
+        "at": "2026-10-21T12:05:52.154Z"
       }
     ],
-    "https://www.google.com/search?ibp=oshop&q=J.Lindeberg herr rea Boozt&prds=catalogid:5337112728956958072,productid:9843921525330621108,headlineOfferDocid:17008887423308628931,imageDocid:2915397893961922727,rds:PC_11914159252343157199|PROD_PC_11914159252343157199,gpcid:11914159252343157199,mid:576462815349819090,pvt:a&hl=sv&gl=se&udm=28": [
+    "https://www.google.com/search?ibp=oshop&q=J.Lindeberg herr rea Boozt&prds=catalogid:9951816278421886289,productid:16254253344604943681,headlineOfferDocid:15923599337012026251,imageDocid:15807922471217354164,gpcid:94380848059820626,mid:576462801283646568,pvt:a&hl=sv&gl=se&udm=28": [
       {
-        "price": 1120,
-        "at": "2026-10-19T21:05:26.183Z"
+        "price": 840,
+        "at": "2026-10-21T12:05:52.154Z"
       }
     ]
   },
@@ -116,9 +116,10 @@
     "referenceSource": "https://www.boozt.com/se/sv/samsoe-and-samsoe/men/klader-for-man/vaeskor",
     "referenceDate": "2026-10-19",
     "sampleSize": 4,
-    "found": 1,
+    "found": 0,
     "missing": [
       "Damon X shirt 13072",
+      "Stefan jean 5890",
       "Eddie jeans 15060",
       "Stefan jean 5891"
     ],
@@ -130,8 +131,8 @@
       },
       {
         "reference": "Stefan jean 5890",
-        "found": true,
-        "matchedName": "SAMSØE & SAMSØE Stefan Jean 5890 Svart - 32 - Herr > Jeans"
+        "found": false,
+        "matchedName": null
       },
       {
         "reference": "Eddie jeans 15060",
