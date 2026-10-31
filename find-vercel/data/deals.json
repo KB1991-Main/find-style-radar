@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T13:14:48.224Z",
+  "updatedAt": "2026-10-31T12:51:42.716Z",
   "brands": [
     "Acne Studios",
     "J.Lindeberg",
@@ -16,7 +16,7 @@
       "discount": 40,
       "url": "https://www.google.com/search?ibp=oshop&q=J.Lindeberg herr rea Boozt&prds=catalogid:2211729126306086343,productid:8482394425318989034,headlineOfferDocid:5377059389010187441,imageDocid:15306806602094611047,gpcid:2274959594566879082,mid:576462901783708293,pvt:a&hl=sv&gl=se&udm=28",
       "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRs3K2faOEaC6wB4FTSmFrKKx4mRoIYwCDumihx8lA1Dp0TTeETqmoR56hO_9ot7EfkGeUB7tNcn3T_Csw5qS5HcUg84CSpUToABVPv2F1RSF6QV2RvAgMwi1g",
-      "checkedAt": "2026-10-30T13:14:46.555Z",
+      "checkedAt": "2026-10-31T12:51:41.160Z",
       "lowestObserved": 900,
       "firstObserved": "2026-10-30T13:14:48.224Z"
     },
@@ -25,26 +25,54 @@
       "brand": "Acne Studios",
       "retailer": "Boozt",
       "name": "Acne Studios Tröja",
-      "price": 2567.96,
+      "price": 2575.14,
       "original": 4200,
       "discount": 39,
       "url": "https://www.google.com/search?ibp=oshop&q=Acne Studios herr rea Boozt&prds=catalogid:9183504171942457017,productid:10786458167216151848,headlineOfferDocid:2618622771868668394,imageDocid:17315242525138356386,gpcid:8281932688590248419,mid:576462828351662297,pvt:a&hl=sv&gl=se&udm=28",
       "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcR2IUItEfeBZnpx00bjR7jw3I7-Rf0uk_-q_7nFx6TeO0d04jWWX9J9cn4MnQuFwnE1glzQmzWO1E1LTc-R6-7O30Ths7uDOol8gwQ6idn6kIMcKbe0DTPO",
-      "checkedAt": "2026-10-30T13:14:43.992Z",
+      "checkedAt": "2026-10-31T12:51:25.015Z",
       "lowestObserved": 2567.96,
       "firstObserved": "2026-10-30T13:14:48.224Z"
+    },
+    {
+      "id": "https://www.google.com/search?ibp=oshop&q=Acne Studios herr rea Boozt&prds=catalogid:3464482896681904790,productid:8134823365069119610,headlineOfferDocid:2032648781381880298,imageDocid:503349941889861123,gpcid:6002973338706398451,mid:576462834784200496,pvt:a&hl=sv&gl=se&udm=28",
+      "brand": "Acne Studios",
+      "retailer": "Boozt",
+      "name": "Acne Studios Shirt Men",
+      "price": 3631.6,
+      "original": 6000,
+      "discount": 39,
+      "url": "https://www.google.com/search?ibp=oshop&q=Acne Studios herr rea Boozt&prds=catalogid:3464482896681904790,productid:8134823365069119610,headlineOfferDocid:2032648781381880298,imageDocid:503349941889861123,gpcid:6002973338706398451,mid:576462834784200496,pvt:a&hl=sv&gl=se&udm=28",
+      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcS7sUI4hlpjeNUT9sIOrhAPngdM_AIZjcWF3d2GWmtb-AcObKL-uCYuVDskM5hJv6PPWARD7IxtcRmlIXp8CCevlufgXS3SZH51ymqy9E7hzuBkxRx8zFXJ",
+      "checkedAt": "2026-10-31T12:51:25.016Z",
+      "lowestObserved": 3631.6,
+      "firstObserved": "2026-10-31T12:51:42.716Z"
+    },
+    {
+      "id": "https://www.google.com/search?ibp=oshop&q=Samsøe Samsøe herr rea Zalando&prds=catalogid:10619116820295551836,productid:104474727104525442,headlineOfferDocid:6137851903994438181,imageDocid:9766423449242283373,gpcid:9928900848044296974,mid:576462887314831746,pvt:a&hl=sv&gl=se&udm=28",
+      "brand": "Samsøe Samsøe",
+      "retailer": "Zalando",
+      "name": "Samsøe Samsøe Pally Allvädersjacka Herr",
+      "price": 2447,
+      "original": 3495,
+      "discount": 30,
+      "url": "https://www.google.com/search?ibp=oshop&q=Samsøe Samsøe herr rea Zalando&prds=catalogid:10619116820295551836,productid:104474727104525442,headlineOfferDocid:6137851903994438181,imageDocid:9766423449242283373,gpcid:9928900848044296974,mid:576462887314831746,pvt:a&hl=sv&gl=se&udm=28",
+      "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTflkKa0iFZ8oGK5Wi8hZe4QPtokjLJYOODkBv2rNi0DPn97zPY2B6xjr7lJS_u6lyJXc01aRGE4rsdtWYiOBNfAE3hc4CSqX7qU9DmJALV4yN4J8j35BahFQ",
+      "checkedAt": "2026-10-31T12:51:41.995Z",
+      "lowestObserved": 2447,
+      "firstObserved": "2026-10-31T12:51:42.716Z"
     },
     {
       "id": "https://www.google.com/search?ibp=oshop&q=J.Lindeberg herr rea Zalando&prds=catalogid:9481890011388155412,productid:1929220445489436589,headlineOfferDocid:2092833522187888669,imageDocid:1175981273708733706,gpcid:1307049877570403612,mid:576462679409711874,pvt:a&hl=sv&gl=se&udm=28",
       "brand": "J.Lindeberg",
       "retailer": "Zalando",
-      "name": "J.Lindeberg Kelvin Colorblock Crew Neck Jl",
+      "name": "J.Lindeberg Kelvin Colorblock Crew Neck Jl Herr",
       "price": 1009,
       "original": 1399,
       "discount": 28,
       "url": "https://www.google.com/search?ibp=oshop&q=J.Lindeberg herr rea Zalando&prds=catalogid:9481890011388155412,productid:1929220445489436589,headlineOfferDocid:2092833522187888669,imageDocid:1175981273708733706,gpcid:1307049877570403612,mid:576462679409711874,pvt:a&hl=sv&gl=se&udm=28",
-      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTH1UOo2Zoz3Gc77QTOgQX17WRq5R2UeWoiD7lp0rFhUAbbC3PNibPlPKqB1Gqp9I81BrFHQKvUG45uNhWHDTEL08O9Zc5L9jSHnUm87fkHfZ_4GTEM_Zcf",
-      "checkedAt": "2026-10-30T13:14:45.213Z",
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTnxGgIgsrXBuUaCib19yzUQgRpyYdiae7ZTujRYkfQR77bB6jDEmGYvBPsk2_140JNe598LQWw86rZFhsxC_2uyhS0G4oAJUgYQDARnMvYx3GYAQWxuGiZ",
+      "checkedAt": "2026-10-31T12:51:40.304Z",
       "lowestObserved": 1009,
       "firstObserved": "2026-10-28T13:17:06.642Z"
     },
@@ -58,7 +86,7 @@
       "discount": 20,
       "url": "https://www.google.com/search?ibp=oshop&q=J.Lindeberg herr rea Boozt&prds=catalogid:18377108677479857174,productid:4716945148897261027,headlineOfferDocid:1218129524472351342,imageDocid:956137795104715371,gpcid:4125111514406199852,mid:576462916609421473,pvt:a&hl=sv&gl=se&udm=28",
       "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRkpbi0LzeJSbLDUAp56fzgqkvn8ChI486-59jxHN5liv2VOoIZZMR4YxqZsB7dCgtKvipvn1u9uROWhB_yfN8lBTIMYWMxAUEqFLhmVIRhlINBp812ilz7cw",
-      "checkedAt": "2026-10-30T13:14:46.556Z",
+      "checkedAt": "2026-10-31T12:51:41.160Z",
       "lowestObserved": 600,
       "firstObserved": "2026-10-28T13:17:06.642Z"
     }
@@ -86,6 +114,22 @@
       {
         "price": 2567.96,
         "at": "2026-10-30T13:14:48.224Z"
+      },
+      {
+        "price": 2575.14,
+        "at": "2026-10-31T12:51:42.716Z"
+      }
+    ],
+    "https://www.google.com/search?ibp=oshop&q=Acne Studios herr rea Boozt&prds=catalogid:3464482896681904790,productid:8134823365069119610,headlineOfferDocid:2032648781381880298,imageDocid:503349941889861123,gpcid:6002973338706398451,mid:576462834784200496,pvt:a&hl=sv&gl=se&udm=28": [
+      {
+        "price": 3631.6,
+        "at": "2026-10-31T12:51:42.716Z"
+      }
+    ],
+    "https://www.google.com/search?ibp=oshop&q=Samsøe Samsøe herr rea Zalando&prds=catalogid:10619116820295551836,productid:104474727104525442,headlineOfferDocid:6137851903994438181,imageDocid:9766423449242283373,gpcid:9928900848044296974,mid:576462887314831746,pvt:a&hl=sv&gl=se&udm=28": [
+      {
+        "price": 2447,
+        "at": "2026-10-31T12:51:42.716Z"
       }
     ]
   },
