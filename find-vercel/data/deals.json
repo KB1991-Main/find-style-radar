@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T14:49:45.690Z",
+  "updatedAt": "2026-11-06T14:27:48.293Z",
   "brands": [
     "Acne Studios",
     "J.Lindeberg",
@@ -7,18 +7,18 @@
   ],
   "items": [
     {
-      "id": "https://www.google.com/search?ibp=oshop&q=J.Lindeberg herr rea Boozt&prds=catalogid:14973122012519947548,productid:11125146195263155553,headlineOfferDocid:7146801239755701162,imageDocid:6744174617249505365,gpcid:7979389302054685949,mid:576462889255384026,pvt:a&hl=sv&gl=se&udm=28",
+      "id": "https://www.google.com/search?ibp=oshop&q=J.Lindeberg herr rea Boozt&prds=catalogid:2211729126306086343,productid:8482394425318989034,headlineOfferDocid:5377059389010187441,imageDocid:15306806602094611047,gpcid:2274959594566879082,mid:576462901783708293,pvt:a&hl=sv&gl=se&udm=28",
       "brand": "J.Lindeberg",
       "retailer": "Boozt",
-      "name": "J. Lindeberg Gian Crinkle Zip Overshirt Herr",
+      "name": "J.Lindeberg Rylan Stripe Knit Golf Polo Herr",
       "price": 900,
-      "original": 1800,
-      "discount": 50,
-      "url": "https://www.google.com/search?ibp=oshop&q=J.Lindeberg herr rea Boozt&prds=catalogid:14973122012519947548,productid:11125146195263155553,headlineOfferDocid:7146801239755701162,imageDocid:6744174617249505365,gpcid:7979389302054685949,mid:576462889255384026,pvt:a&hl=sv&gl=se&udm=28",
-      "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRnrtUlbb47QSu8Wn7rDA01wlKIGxCJWwdd97nz95GYsEy4drv2JbVYx3rWKtU_olSeeI0X3y7ScE5GUuLR5nY_vsYFSkK21CyaCOspnCJ23bEXo0Aon1yoPYQ",
-      "checkedAt": "2026-11-05T14:49:43.227Z",
+      "original": 1500,
+      "discount": 40,
+      "url": "https://www.google.com/search?ibp=oshop&q=J.Lindeberg herr rea Boozt&prds=catalogid:2211729126306086343,productid:8482394425318989034,headlineOfferDocid:5377059389010187441,imageDocid:15306806602094611047,gpcid:2274959594566879082,mid:576462901783708293,pvt:a&hl=sv&gl=se&udm=28",
+      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcT1vcN0U-YXZw9VaA0-7zEFNTnh5vTrFfcX4d3UbXFIorjZpSCgP60OwCA3R8zuUkNkrs6pcCMvYQ",
+      "checkedAt": "2026-11-06T14:27:47.041Z",
       "lowestObserved": 900,
-      "firstObserved": "2026-11-04T14:44:28.357Z"
+      "firstObserved": "2026-11-06T14:27:48.293Z"
     },
     {
       "id": "https://www.google.com/search?ibp=oshop&q=J.Lindeberg herr rea Zalando&prds=catalogid:9481890011388155412,productid:1929220445489436589,headlineOfferDocid:2092833522187888669,imageDocid:1175981273708733706,gpcid:1307049877570403612,mid:576462679409711874,pvt:a&hl=sv&gl=se&udm=28",
@@ -29,8 +29,8 @@
       "original": 1399,
       "discount": 28,
       "url": "https://www.google.com/search?ibp=oshop&q=J.Lindeberg herr rea Zalando&prds=catalogid:9481890011388155412,productid:1929220445489436589,headlineOfferDocid:2092833522187888669,imageDocid:1175981273708733706,gpcid:1307049877570403612,mid:576462679409711874,pvt:a&hl=sv&gl=se&udm=28",
-      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSxKr8TnUmdKinYZOaqX44c74d3iu3QynoFEFOzNqJaGUCxZLqBJ32lLXK1yma3W0gFtDqI68MYwyiipd-EIB5qZCrWHXkUVNIvrajuT35pjPl3rTRD7tF0",
-      "checkedAt": "2026-11-05T14:49:41.674Z",
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRqEC1xW3-1viofbXoPcJ_0_6cywpemPfexudgyF8S8NlNRyaIZLZ1vZzZm7cI62NhOS-63JSw",
+      "checkedAt": "2026-11-06T14:27:45.150Z",
       "lowestObserved": 1009,
       "firstObserved": "2026-10-28T13:17:06.642Z"
     }
@@ -42,10 +42,10 @@
         "at": "2026-10-28T13:17:06.642Z"
       }
     ],
-    "https://www.google.com/search?ibp=oshop&q=J.Lindeberg herr rea Boozt&prds=catalogid:14973122012519947548,productid:11125146195263155553,headlineOfferDocid:7146801239755701162,imageDocid:6744174617249505365,gpcid:7979389302054685949,mid:576462889255384026,pvt:a&hl=sv&gl=se&udm=28": [
+    "https://www.google.com/search?ibp=oshop&q=J.Lindeberg herr rea Boozt&prds=catalogid:2211729126306086343,productid:8482394425318989034,headlineOfferDocid:5377059389010187441,imageDocid:15306806602094611047,gpcid:2274959594566879082,mid:576462901783708293,pvt:a&hl=sv&gl=se&udm=28": [
       {
         "price": 900,
-        "at": "2026-11-04T14:44:28.357Z"
+        "at": "2026-11-06T14:27:48.293Z"
       }
     ]
   },
