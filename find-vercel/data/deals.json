@@ -1,25 +1,11 @@
 {
-  "updatedAt": "2026-11-06T14:27:48.293Z",
+  "updatedAt": "2026-11-07T13:22:00.868Z",
   "brands": [
     "Acne Studios",
     "J.Lindeberg",
     "Samsøe Samsøe"
   ],
   "items": [
-    {
-      "id": "https://www.google.com/search?ibp=oshop&q=J.Lindeberg herr rea Boozt&prds=catalogid:2211729126306086343,productid:8482394425318989034,headlineOfferDocid:5377059389010187441,imageDocid:15306806602094611047,gpcid:2274959594566879082,mid:576462901783708293,pvt:a&hl=sv&gl=se&udm=28",
-      "brand": "J.Lindeberg",
-      "retailer": "Boozt",
-      "name": "J.Lindeberg Rylan Stripe Knit Golf Polo Herr",
-      "price": 900,
-      "original": 1500,
-      "discount": 40,
-      "url": "https://www.google.com/search?ibp=oshop&q=J.Lindeberg herr rea Boozt&prds=catalogid:2211729126306086343,productid:8482394425318989034,headlineOfferDocid:5377059389010187441,imageDocid:15306806602094611047,gpcid:2274959594566879082,mid:576462901783708293,pvt:a&hl=sv&gl=se&udm=28",
-      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcT1vcN0U-YXZw9VaA0-7zEFNTnh5vTrFfcX4d3UbXFIorjZpSCgP60OwCA3R8zuUkNkrs6pcCMvYQ",
-      "checkedAt": "2026-11-06T14:27:47.041Z",
-      "lowestObserved": 900,
-      "firstObserved": "2026-11-06T14:27:48.293Z"
-    },
     {
       "id": "https://www.google.com/search?ibp=oshop&q=J.Lindeberg herr rea Zalando&prds=catalogid:9481890011388155412,productid:1929220445489436589,headlineOfferDocid:2092833522187888669,imageDocid:1175981273708733706,gpcid:1307049877570403612,mid:576462679409711874,pvt:a&hl=sv&gl=se&udm=28",
       "brand": "J.Lindeberg",
@@ -29,8 +15,8 @@
       "original": 1399,
       "discount": 28,
       "url": "https://www.google.com/search?ibp=oshop&q=J.Lindeberg herr rea Zalando&prds=catalogid:9481890011388155412,productid:1929220445489436589,headlineOfferDocid:2092833522187888669,imageDocid:1175981273708733706,gpcid:1307049877570403612,mid:576462679409711874,pvt:a&hl=sv&gl=se&udm=28",
-      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRqEC1xW3-1viofbXoPcJ_0_6cywpemPfexudgyF8S8NlNRyaIZLZ1vZzZm7cI62NhOS-63JSw",
-      "checkedAt": "2026-11-06T14:27:45.150Z",
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQDKbEt66KH3hsWUlRnWli29nofjkKfN-uuS4bRFYzaVzmJT4VvI1YBaHk2rq9BGP_qrFtJefo",
+      "checkedAt": "2026-11-07T13:21:26.791Z",
       "lowestObserved": 1009,
       "firstObserved": "2026-10-28T13:17:06.642Z"
     }
@@ -41,17 +27,13 @@
         "price": 1009,
         "at": "2026-10-28T13:17:06.642Z"
       }
-    ],
-    "https://www.google.com/search?ibp=oshop&q=J.Lindeberg herr rea Boozt&prds=catalogid:2211729126306086343,productid:8482394425318989034,headlineOfferDocid:5377059389010187441,imageDocid:15306806602094611047,gpcid:2274959594566879082,mid:576462901783708293,pvt:a&hl=sv&gl=se&udm=28": [
-      {
-        "price": 900,
-        "at": "2026-11-06T14:27:48.293Z"
-      }
     ]
   },
   "searchesAttempted": 6,
-  "searchesFailed": 0,
-  "errors": [],
+  "searchesFailed": 1,
+  "errors": [
+    "J.Lindeberg / Boozt: The operation was aborted due to timeout"
+  ],
   "coverageAudit": {
     "referenceSource": "https://www.boozt.com/se/sv/samsoe-and-samsoe/men/klader-for-man/vaeskor",
     "referenceDate": "2026-10-19",
