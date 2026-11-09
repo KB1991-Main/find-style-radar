@@ -1,11 +1,25 @@
 {
-  "updatedAt": "2026-11-08T13:41:18.072Z",
+  "updatedAt": "2026-11-09T16:42:06.794Z",
   "brands": [
     "Acne Studios",
     "J.Lindeberg",
     "Samsøe Samsøe"
   ],
   "items": [
+    {
+      "id": "https://www.google.com/search?ibp=oshop&q=Samsøe Samsøe herr rea Zalando&prds=catalogid:10812616991922621641,productid:9275403166147013256,headlineOfferDocid:13116638579532902689,imageDocid:12020407852731302629,gpcid:2266937909119569923,mid:576462820034934662,pvt:a&hl=sv&gl=se&udm=28",
+      "brand": "Samsøe Samsøe",
+      "retailer": "Zalando",
+      "name": "Herr Samsøe & Samsøe New Worker Jacket",
+      "price": 1537,
+      "original": 2195,
+      "discount": 30,
+      "url": "https://www.google.com/search?ibp=oshop&q=Samsøe Samsøe herr rea Zalando&prds=catalogid:10812616991922621641,productid:9275403166147013256,headlineOfferDocid:13116638579532902689,imageDocid:12020407852731302629,gpcid:2266937909119569923,mid:576462820034934662,pvt:a&hl=sv&gl=se&udm=28",
+      "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQMGDnCILhR5ry7Xb_xyhlZRbCU6XOe2Gemb5eE9U8PwywXa2C5JhM_CQvSxmOm_D_pdsr-F5kQhScx3CEITui_x_qYEYWj9Pge0nHYTC6kh9MgGLavlFssog",
+      "checkedAt": "2026-11-09T16:42:05.932Z",
+      "lowestObserved": 1537,
+      "firstObserved": "2026-11-09T16:42:06.794Z"
+    },
     {
       "id": "https://www.google.com/search?ibp=oshop&q=Samsøe Samsøe herr rea Zalando&prds=catalogid:12194614044833194841,productid:9457050046577976368,headlineOfferDocid:11131569026086804900,imageDocid:4607592350905223988,rds:PC_6773105528660316567|PROD_PC_6773105528660316567,gpcid:6773105528660316567,mid:576462892994355952,pvt:a&hl=sv&gl=se&udm=28",
       "brand": "Samsøe Samsøe",
@@ -16,9 +30,23 @@
       "discount": 30,
       "url": "https://www.google.com/search?ibp=oshop&q=Samsøe Samsøe herr rea Zalando&prds=catalogid:12194614044833194841,productid:9457050046577976368,headlineOfferDocid:11131569026086804900,imageDocid:4607592350905223988,rds:PC_6773105528660316567|PROD_PC_6773105528660316567,gpcid:6773105528660316567,mid:576462892994355952,pvt:a&hl=sv&gl=se&udm=28",
       "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRuWKjfkBatLgbwco-Cdzx5bwxLFqCEvUnVBcFBFlerTL9B3duiR3vob6nHMrrGtMr_TaVqRZ3US7Ja4X785U6gX4sFlB_o6JgMLsVYlh00VxDLs5PDqlcU",
-      "checkedAt": "2026-11-08T13:41:17.561Z",
+      "checkedAt": "2026-11-09T16:42:05.932Z",
       "lowestObserved": 2167,
       "firstObserved": "2026-11-08T13:41:18.072Z"
+    },
+    {
+      "id": "https://www.google.com/search?ibp=oshop&q=Samsøe Samsøe herr rea Zalando&prds=catalogid:2393858463299094634,productid:18209431326495885414,headlineOfferDocid:15758329327550219317,imageDocid:8727744997939333441,gpcid:9453389157393046650,mid:576462889264253303,pvt:a&hl=sv&gl=se&udm=28",
+      "brand": "Samsøe Samsøe",
+      "retailer": "Zalando",
+      "name": "Samsøe Samsøe Pouch Unisex Necessär",
+      "price": 699,
+      "original": 999,
+      "discount": 30,
+      "url": "https://www.google.com/search?ibp=oshop&q=Samsøe Samsøe herr rea Zalando&prds=catalogid:2393858463299094634,productid:18209431326495885414,headlineOfferDocid:15758329327550219317,imageDocid:8727744997939333441,gpcid:9453389157393046650,mid:576462889264253303,pvt:a&hl=sv&gl=se&udm=28",
+      "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcS3pTDXUW9mLoBayUvUDuSuwXSGeM7OhzKhLathRq7g834NrZNE4xgvaBV8cx-QY05eOxSAYDusJoM3ysY2BIBW8vR28iRt7chXzNCidioQzDkE9R0d52zD1X0",
+      "checkedAt": "2026-11-09T16:42:05.932Z",
+      "lowestObserved": 699,
+      "firstObserved": "2026-11-09T16:42:06.794Z"
     },
     {
       "id": "https://www.google.com/search?ibp=oshop&q=J.Lindeberg herr rea Zalando&prds=catalogid:9481890011388155412,productid:1929220445489436589,headlineOfferDocid:2092833522187888669,imageDocid:1175981273708733706,gpcid:1307049877570403612,mid:576462679409711874,pvt:a&hl=sv&gl=se&udm=28",
@@ -30,9 +58,51 @@
       "discount": 28,
       "url": "https://www.google.com/search?ibp=oshop&q=J.Lindeberg herr rea Zalando&prds=catalogid:9481890011388155412,productid:1929220445489436589,headlineOfferDocid:2092833522187888669,imageDocid:1175981273708733706,gpcid:1307049877570403612,mid:576462679409711874,pvt:a&hl=sv&gl=se&udm=28",
       "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTnxGgIgsrXBuUaCib19yzUQgRpyYdiae7ZTujRYkfQR77bB6jDEmGYvBPsk2_140JNe598LQWw86rZFhsxC_2uyhS0G4oAJUgYQDARnMvYx3GYAQWxuGiZ",
-      "checkedAt": "2026-11-08T13:41:15.703Z",
+      "checkedAt": "2026-11-09T16:41:40.708Z",
       "lowestObserved": 1009,
       "firstObserved": "2026-10-28T13:17:06.642Z"
+    },
+    {
+      "id": "https://www.google.com/search?ibp=oshop&q=Samsøe Samsøe herr rea Zalando&prds=catalogid:11671924078847942394,productid:8699995800673419237,headlineOfferDocid:13562074700164929753,imageDocid:5939303592884846185,gpcid:4133177691693026760,mid:576462887646714037,pvt:a&hl=sv&gl=se&udm=28",
+      "brand": "Samsøe Samsøe",
+      "retailer": "Zalando",
+      "name": "Samsøe Samsøe Sweatshirt Herr",
+      "price": 1271,
+      "original": 1695,
+      "discount": 25,
+      "url": "https://www.google.com/search?ibp=oshop&q=Samsøe Samsøe herr rea Zalando&prds=catalogid:11671924078847942394,productid:8699995800673419237,headlineOfferDocid:13562074700164929753,imageDocid:5939303592884846185,gpcid:4133177691693026760,mid:576462887646714037,pvt:a&hl=sv&gl=se&udm=28",
+      "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRJggTBi1dJzVbqm80nK4PcH9fH59tJR3Yib8uaYJTcsH5BGgOCvnjY1PPAjV9uRGKkfqwTQ24bylqY9GVSogRH2DaJIu-2P3TPsniJMCJiPGsxSca5dC1_",
+      "checkedAt": "2026-11-09T16:42:05.932Z",
+      "lowestObserved": 1271,
+      "firstObserved": "2026-11-08T13:41:18.072Z"
+    },
+    {
+      "id": "https://www.google.com/search?ibp=oshop&q=Samsøe Samsøe herr rea Zalando&prds=catalogid:11658568779405483362,productid:12479808969385573891,headlineOfferDocid:15544582216498998922,imageDocid:13959378394270525106,rds:PC_6969495066304917046|PROD_PC_6969495066304917046,gpcid:6969495066304917046,mid:576462898024138067,pvt:a&hl=sv&gl=se&udm=28",
+      "brand": "Samsøe Samsøe",
+      "retailer": "Zalando",
+      "name": "Samsøe Samsøe Sajoel T-shirt Herr 15489",
+      "price": 712,
+      "original": 949,
+      "discount": 25,
+      "url": "https://www.google.com/search?ibp=oshop&q=Samsøe Samsøe herr rea Zalando&prds=catalogid:11658568779405483362,productid:12479808969385573891,headlineOfferDocid:15544582216498998922,imageDocid:13959378394270525106,rds:PC_6969495066304917046|PROD_PC_6969495066304917046,gpcid:6969495066304917046,mid:576462898024138067,pvt:a&hl=sv&gl=se&udm=28",
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcS2rlrTlROOZXx5lokmMGotAvzY4zhqciNxj_Reg4BaV8HFrRrkmprsHqj-yqmxEMW52ttny4XPyC1DcNvzkQJKb4HbQVG3-nDZOMOS1EjUg0a3Ik7uksNDmDM",
+      "checkedAt": "2026-11-09T16:42:05.932Z",
+      "lowestObserved": 712,
+      "firstObserved": "2026-11-09T16:42:06.794Z"
+    },
+    {
+      "id": "https://www.google.com/search?ibp=oshop&q=Samsøe Samsøe herr rea Zalando&prds=catalogid:18370859710787863586,productid:17862768797860230733,headlineOfferDocid:17607512768241440984,imageDocid:6225990116497772481,gpcid:865466792364127484,mid:576462543440900535,pvt:a&hl=sv&gl=se&udm=28",
+      "brand": "Samsøe Samsøe",
+      "retailer": "Zalando",
+      "name": "Samsøe Samsøe Chore Allvädersjacka Herr",
+      "price": 2171,
+      "original": 2895,
+      "discount": 25,
+      "url": "https://www.google.com/search?ibp=oshop&q=Samsøe Samsøe herr rea Zalando&prds=catalogid:18370859710787863586,productid:17862768797860230733,headlineOfferDocid:17607512768241440984,imageDocid:6225990116497772481,gpcid:865466792364127484,mid:576462543440900535,pvt:a&hl=sv&gl=se&udm=28",
+      "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRNCukmZptUne_4QILcXSvZ-uM-Y_dPxIyf8cvXM9oAnVXJyV8K01HQwFg3dRZe-NWJ7o8t-uzUbhCt8FSpNF5vsCkMK9Cr8U8xQYOZ7V58K1f1Lf8an9wU9w",
+      "checkedAt": "2026-11-09T16:42:05.932Z",
+      "lowestObserved": 2171,
+      "firstObserved": "2026-11-08T13:41:18.072Z"
     },
     {
       "id": "https://www.google.com/search?ibp=oshop&q=Samsøe Samsøe herr rea Zalando&prds=catalogid:1953050105361640632,productid:824117759240114729,headlineOfferDocid:2954200283325391742,imageDocid:12939575985274394015,gpcid:14530171058482505896,mid:576462555444414516,pvt:a&hl=sv&gl=se&udm=28",
@@ -44,22 +114,8 @@
       "discount": 25,
       "url": "https://www.google.com/search?ibp=oshop&q=Samsøe Samsøe herr rea Zalando&prds=catalogid:1953050105361640632,productid:824117759240114729,headlineOfferDocid:2954200283325391742,imageDocid:12939575985274394015,gpcid:14530171058482505896,mid:576462555444414516,pvt:a&hl=sv&gl=se&udm=28",
       "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQdAvE2F3EWT-MUF6OVYG1lyG4Mc7kIk5p307oJEMxp-exMg0GDC_UE7vLBMsvOQ_5gFFUW6j34DGW6YiNXUP_TQ_R3Alm-JqgZ0ussXpdf3kNMB7n5YRWBGA",
-      "checkedAt": "2026-11-08T13:41:17.561Z",
+      "checkedAt": "2026-11-09T16:42:05.932Z",
       "lowestObserved": 1346,
-      "firstObserved": "2026-11-08T13:41:18.072Z"
-    },
-    {
-      "id": "https://www.google.com/search?ibp=oshop&q=Samsøe Samsøe herr rea Zalando&prds=catalogid:5106484345429459544,productid:9233431761057072762,headlineOfferDocid:4539334231905733237,imageDocid:12792256143566878432,rds:PC_6969495066304917046|PROD_PC_6969495066304917046,gpcid:489844154788559468,mid:576462898024138067,pvt:a&hl=sv&gl=se&udm=28",
-      "brand": "Samsøe Samsøe",
-      "retailer": "Zalando",
-      "name": "Samsøe & Samsøe Sajoel T-shirt 15489 Herr",
-      "price": 712,
-      "original": 949,
-      "discount": 25,
-      "url": "https://www.google.com/search?ibp=oshop&q=Samsøe Samsøe herr rea Zalando&prds=catalogid:5106484345429459544,productid:9233431761057072762,headlineOfferDocid:4539334231905733237,imageDocid:12792256143566878432,rds:PC_6969495066304917046|PROD_PC_6969495066304917046,gpcid:489844154788559468,mid:576462898024138067,pvt:a&hl=sv&gl=se&udm=28",
-      "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRbq6laGwjUIydlIV-k2pCJj9qp3RHDju7fciS6XfybKH1FglTmVnNVTPBMOlKJDtBSCdgMHj-yoKxG-OKFoDaaYm9hVs0wr80lj20yx1h1lQdpj5JOiZHb",
-      "checkedAt": "2026-11-08T13:41:17.561Z",
-      "lowestObserved": 712,
       "firstObserved": "2026-11-08T13:41:18.072Z"
     },
     {
@@ -72,65 +128,79 @@
       "discount": 25,
       "url": "https://www.google.com/search?ibp=oshop&q=Samsøe Samsøe herr rea Zalando&prds=catalogid:17962318868590493642,productid:18288996450164214442,headlineOfferDocid:10180313497276573604,imageDocid:15774578182649144042,gpcid:18147136525460983857,mid:576462555450658432,pvt:a&hl=sv&gl=se&udm=28",
       "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRc3zeC0tlWFWVIC9eIghsQT55Iv-J48WZHY-_OBJt0ze2BthwYhU6BOfxvfROfBFfr9tT5WxKLrNQ0EkEiESbf30ABAwnm4DbaGtXC7p1UXbvDML2qllb8_w",
-      "checkedAt": "2026-11-08T13:41:17.561Z",
+      "checkedAt": "2026-11-09T16:42:05.932Z",
       "lowestObserved": 821,
       "firstObserved": "2026-11-08T13:41:18.072Z"
     },
     {
-      "id": "https://www.google.com/search?ibp=oshop&q=Samsøe Samsøe herr rea Zalando&prds=catalogid:5563144008443402158,productid:1250403432304582397,headlineOfferDocid:15544582216498998922,imageDocid:12040614346896414925,rds:PC_6969495066304917046|PROD_PC_6969495066304917046,gpcid:6969495066304917046,mid:576462898024138067,pvt:a&hl=sv&gl=se&udm=28",
+      "id": "https://www.google.com/search?ibp=oshop&q=Samsøe Samsøe herr rea Zalando&prds=catalogid:8276778434567045814,productid:7378832420862604106,headlineOfferDocid:9671648629135676084,imageDocid:2236415822778066245,gpcid:4855026365295724591,mid:576462794941063769,pvt:a&hl=sv&gl=se&udm=28",
       "brand": "Samsøe Samsøe",
       "retailer": "Zalando",
-      "name": "Samsøe Samsøe Sajoel T-shirt Herr 15489",
-      "price": 712,
-      "original": 949,
-      "discount": 25,
-      "url": "https://www.google.com/search?ibp=oshop&q=Samsøe Samsøe herr rea Zalando&prds=catalogid:5563144008443402158,productid:1250403432304582397,headlineOfferDocid:15544582216498998922,imageDocid:12040614346896414925,rds:PC_6969495066304917046|PROD_PC_6969495066304917046,gpcid:6969495066304917046,mid:576462898024138067,pvt:a&hl=sv&gl=se&udm=28",
-      "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR_0eQZcwvb5t-1M6IEywEj3L0y2z_jpg1bpbL79sBTqTgXxI4edfhkoQA6GN_45_2Vv477vjl_ChbiEdF-9QzJJ5-lshJfXrKgJC265kZMY2EmvrISexp8Mw",
-      "checkedAt": "2026-11-08T13:41:17.561Z",
-      "lowestObserved": 712,
-      "firstObserved": "2026-11-08T13:41:18.072Z"
-    },
-    {
-      "id": "https://www.google.com/search?ibp=oshop&q=Samsøe Samsøe herr rea Zalando&prds=catalogid:11671924078847942394,productid:8699995800673419237,headlineOfferDocid:13562074700164929753,imageDocid:5939303592884846185,gpcid:4133177691693026760,mid:576462887646714037,pvt:a&hl=sv&gl=se&udm=28",
-      "brand": "Samsøe Samsøe",
-      "retailer": "Zalando",
-      "name": "Samsøe Samsøe Sweatshirt Herr",
-      "price": 1271,
-      "original": 1695,
-      "discount": 25,
-      "url": "https://www.google.com/search?ibp=oshop&q=Samsøe Samsøe herr rea Zalando&prds=catalogid:11671924078847942394,productid:8699995800673419237,headlineOfferDocid:13562074700164929753,imageDocid:5939303592884846185,gpcid:4133177691693026760,mid:576462887646714037,pvt:a&hl=sv&gl=se&udm=28",
-      "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRJggTBi1dJzVbqm80nK4PcH9fH59tJR3Yib8uaYJTcsH5BGgOCvnjY1PPAjV9uRGKkfqwTQ24bylqY9GVSogRH2DaJIu-2P3TPsniJMCJiPGsxSca5dC1_",
-      "checkedAt": "2026-11-08T13:41:17.561Z",
-      "lowestObserved": 1271,
-      "firstObserved": "2026-11-08T13:41:18.072Z"
-    },
-    {
-      "id": "https://www.google.com/search?ibp=oshop&q=Samsøe Samsøe herr rea Zalando&prds=productid:11285011716755139175,headlineOfferDocid:11285011716755139175,imageDocid:8862738593600376200,pvt:a&hl=sv&gl=se&udm=28",
-      "brand": "Samsøe Samsøe",
-      "retailer": "Zalando",
-      "name": "Samsøe Samsøe Trousers Tygbyxor, Herr, Storlek: 44, Beige",
+      "name": "Herr Samsøe Samsøe Sadamon JS Overshirt",
       "price": 1346,
       "original": 1795,
       "discount": 25,
-      "url": "https://www.google.com/search?ibp=oshop&q=Samsøe Samsøe herr rea Zalando&prds=productid:11285011716755139175,headlineOfferDocid:11285011716755139175,imageDocid:8862738593600376200,pvt:a&hl=sv&gl=se&udm=28",
-      "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSYz1lTRG9E-Qd78zKib8lv3oi2WyMFnLngDANo1IqT7kYyNsFdt3r0ErcRlHuDBCDOMxNfo2bG3fxlPHcHA-Fv94rVdcmwcovkarL9Gut5inxQegR2lpFcCQ",
-      "checkedAt": "2026-11-08T13:41:17.561Z",
+      "url": "https://www.google.com/search?ibp=oshop&q=Samsøe Samsøe herr rea Zalando&prds=catalogid:8276778434567045814,productid:7378832420862604106,headlineOfferDocid:9671648629135676084,imageDocid:2236415822778066245,gpcid:4855026365295724591,mid:576462794941063769,pvt:a&hl=sv&gl=se&udm=28",
+      "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQu4CWMGG3Rl0Hv-AKoy4ZfHKN991Hwf1niO7A2-lX3bie0LCe2xrfiQjUAiXvxclMeeuntR_bFFoRGdIYsONjO9Lia1ijSWTHXMbxz482CLaWAda7g_Czs",
+      "checkedAt": "2026-11-09T16:42:05.932Z",
       "lowestObserved": 1346,
-      "firstObserved": "2026-11-08T13:41:18.072Z"
+      "firstObserved": "2026-11-09T16:42:06.794Z"
     },
     {
-      "id": "https://www.google.com/search?ibp=oshop&q=Samsøe Samsøe herr rea Zalando&prds=catalogid:18370859710787863586,productid:17862768797860230733,headlineOfferDocid:17607512768241440984,imageDocid:6225990116497772481,gpcid:865466792364127484,mid:576462543440900535,pvt:a&hl=sv&gl=se&udm=28",
+      "id": "https://www.google.com/search?ibp=oshop&q=Samsøe Samsøe herr rea Zalando&prds=catalogid:4566172011127203596,productid:14789606260745180448,headlineOfferDocid:12645306143329017704,imageDocid:4386053640720729063,gpcid:12602446755246798759,mid:576462897671408041,pvt:a&hl=sv&gl=se&udm=28",
       "brand": "Samsøe Samsøe",
       "retailer": "Zalando",
-      "name": "Samsøe Samsøe Chore Allvädersjacka Herr",
-      "price": 2171,
-      "original": 2895,
+      "name": "Samsøe Samsøe Saoscar Shirt Skjorta multicoloured Herr",
+      "price": 1046,
+      "original": 1395,
       "discount": 25,
-      "url": "https://www.google.com/search?ibp=oshop&q=Samsøe Samsøe herr rea Zalando&prds=catalogid:18370859710787863586,productid:17862768797860230733,headlineOfferDocid:17607512768241440984,imageDocid:6225990116497772481,gpcid:865466792364127484,mid:576462543440900535,pvt:a&hl=sv&gl=se&udm=28",
-      "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRNCukmZptUne_4QILcXSvZ-uM-Y_dPxIyf8cvXM9oAnVXJyV8K01HQwFg3dRZe-NWJ7o8t-uzUbhCt8FSpNF5vsCkMK9Cr8U8xQYOZ7V58K1f1Lf8an9wU9w",
-      "checkedAt": "2026-11-08T13:41:17.561Z",
-      "lowestObserved": 2171,
-      "firstObserved": "2026-11-08T13:41:18.072Z"
+      "url": "https://www.google.com/search?ibp=oshop&q=Samsøe Samsøe herr rea Zalando&prds=catalogid:4566172011127203596,productid:14789606260745180448,headlineOfferDocid:12645306143329017704,imageDocid:4386053640720729063,gpcid:12602446755246798759,mid:576462897671408041,pvt:a&hl=sv&gl=se&udm=28",
+      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQgprG0uZjuzS28oykTSW-0sz8VtGgfNRkYSlcaHn2uHqRXfKK5OmkZ9a4Yyhfv559a4j7f1o_jRC3SROnJ8nbl4EbUDFPR2G68e2Jc1uABLVkR2BWwVuzI",
+      "checkedAt": "2026-11-09T16:42:05.932Z",
+      "lowestObserved": 1046,
+      "firstObserved": "2026-11-09T16:42:06.794Z"
+    },
+    {
+      "id": "https://www.google.com/search?ibp=oshop&q=Samsøe Samsøe herr rea Zalando&prds=catalogid:3819694414016718666,productid:11613875989055814605,headlineOfferDocid:5142507112904051974,imageDocid:11722310106668128737,gpcid:6024384709290420194,mid:576462893170941578,pvt:a&hl=sv&gl=se&udm=28",
+      "brand": "Samsøe Samsøe",
+      "retailer": "Zalando",
+      "name": "Samsøe Samsøe Sarico ZIP Shirt Skjorta Herr",
+      "price": 1196,
+      "original": 1595,
+      "discount": 25,
+      "url": "https://www.google.com/search?ibp=oshop&q=Samsøe Samsøe herr rea Zalando&prds=catalogid:3819694414016718666,productid:11613875989055814605,headlineOfferDocid:5142507112904051974,imageDocid:11722310106668128737,gpcid:6024384709290420194,mid:576462893170941578,pvt:a&hl=sv&gl=se&udm=28",
+      "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcS0k-nK-sLoa3BsTcIh74iDjLThqJYoFypasvwgxHTdFob1JFefk5PvNt4RELMrpPwJ6FFuj7nunby0x8evwPArppapsHnJzgQ0FGmRyVspCAqcYwrJXY0ftlQ",
+      "checkedAt": "2026-11-09T16:42:05.932Z",
+      "lowestObserved": 1196,
+      "firstObserved": "2026-11-09T16:42:06.794Z"
+    },
+    {
+      "id": "https://www.google.com/search?ibp=oshop&q=Samsøe Samsøe herr rea Zalando&prds=productid:9360426855201978720,headlineOfferDocid:9360426855201978720,imageDocid:3641447289435319602,pvt:a&hl=sv&gl=se&udm=28",
+      "brand": "Samsøe Samsøe",
+      "retailer": "Zalando",
+      "name": "Samsøe Samsøe Saotto Basic Tshirt, Men's, Size: Small, Dusky green",
+      "price": 524,
+      "original": 699,
+      "discount": 25,
+      "url": "https://www.google.com/search?ibp=oshop&q=Samsøe Samsøe herr rea Zalando&prds=productid:9360426855201978720,headlineOfferDocid:9360426855201978720,imageDocid:3641447289435319602,pvt:a&hl=sv&gl=se&udm=28",
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTb40m0jzpoMXH0spKDbwcacwHL3CGbV_HxaAGMwVPnLv9NQnzgjbHXTKgJlL15-WTJJ2gMT27zNuptZ8beX8ek9wimydZCVKMyA4MwUo3Kr18a0eaNNlT6NQ",
+      "checkedAt": "2026-11-09T16:42:05.932Z",
+      "lowestObserved": 524,
+      "firstObserved": "2026-11-09T16:42:06.794Z"
+    },
+    {
+      "id": "https://www.google.com/search?ibp=oshop&q=Acne Studios herr rea Boozt&prds=catalogid:10179039432059521629,productid:5580401678847528333,headlineOfferDocid:339656168221636708,imageDocid:9228126080691927348,gpcid:16546565243297347846,mid:576462566984526799,pvt:a&hl=sv&gl=se&udm=28",
+      "brand": "Acne Studios",
+      "retailer": "Boozt",
+      "name": "Merino Wool V-Neck Sweater Cedar Green",
+      "price": 3686.21,
+      "original": 4600,
+      "discount": 20,
+      "url": "https://www.google.com/search?ibp=oshop&q=Acne Studios herr rea Boozt&prds=catalogid:10179039432059521629,productid:5580401678847528333,headlineOfferDocid:339656168221636708,imageDocid:9228126080691927348,gpcid:16546565243297347846,mid:576462566984526799,pvt:a&hl=sv&gl=se&udm=28",
+      "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRs0738tRuZJdKUXkCyU2tuDv8DRi96mn1QiiGrV5yNg0xQPWIwkkfMLKKW_OAcafXl1zLzlHAf5pwS6yW09zfOERv0YmW0J1t_QUav4RiSUFhMgc6TYFGTaQ",
+      "checkedAt": "2026-11-09T16:41:37.024Z",
+      "lowestObserved": 3686.21,
+      "firstObserved": "2026-11-09T16:42:06.794Z"
     },
     {
       "id": "https://www.google.com/search?ibp=oshop&q=J.Lindeberg herr rea Zalando&prds=catalogid:13324145857769408667,productid:8673160134227897203,headlineOfferDocid:1619537271393034653,imageDocid:17248313567702551402,gpcid:11600725517388287428,mid:576462575785768080,pvt:a&hl=sv&gl=se&udm=28",
@@ -142,7 +212,7 @@
       "discount": 20,
       "url": "https://www.google.com/search?ibp=oshop&q=J.Lindeberg herr rea Zalando&prds=catalogid:13324145857769408667,productid:8673160134227897203,headlineOfferDocid:1619537271393034653,imageDocid:17248313567702551402,gpcid:11600725517388287428,mid:576462575785768080,pvt:a&hl=sv&gl=se&udm=28",
       "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQ-AsCydNiW-KnTyH_3-x6NFrPsg6N_JbmC9hlvoAN1Hx3dYKm37wqBoC0_8jlL5aIclVyzgYFlteLvCC9oG__emK15fZhuxVOWNXg1GMRHraTuADqFx7C3RA",
-      "checkedAt": "2026-11-08T13:41:15.703Z",
+      "checkedAt": "2026-11-09T16:41:40.708Z",
       "lowestObserved": 559.2,
       "firstObserved": "2026-11-08T13:41:18.072Z"
     }
@@ -166,33 +236,15 @@
         "at": "2026-11-08T13:41:18.072Z"
       }
     ],
-    "https://www.google.com/search?ibp=oshop&q=Samsøe Samsøe herr rea Zalando&prds=catalogid:5106484345429459544,productid:9233431761057072762,headlineOfferDocid:4539334231905733237,imageDocid:12792256143566878432,rds:PC_6969495066304917046|PROD_PC_6969495066304917046,gpcid:489844154788559468,mid:576462898024138067,pvt:a&hl=sv&gl=se&udm=28": [
-      {
-        "price": 712,
-        "at": "2026-11-08T13:41:18.072Z"
-      }
-    ],
     "https://www.google.com/search?ibp=oshop&q=Samsøe Samsøe herr rea Zalando&prds=catalogid:17962318868590493642,productid:18288996450164214442,headlineOfferDocid:10180313497276573604,imageDocid:15774578182649144042,gpcid:18147136525460983857,mid:576462555450658432,pvt:a&hl=sv&gl=se&udm=28": [
       {
         "price": 821,
         "at": "2026-11-08T13:41:18.072Z"
       }
     ],
-    "https://www.google.com/search?ibp=oshop&q=Samsøe Samsøe herr rea Zalando&prds=catalogid:5563144008443402158,productid:1250403432304582397,headlineOfferDocid:15544582216498998922,imageDocid:12040614346896414925,rds:PC_6969495066304917046|PROD_PC_6969495066304917046,gpcid:6969495066304917046,mid:576462898024138067,pvt:a&hl=sv&gl=se&udm=28": [
-      {
-        "price": 712,
-        "at": "2026-11-08T13:41:18.072Z"
-      }
-    ],
     "https://www.google.com/search?ibp=oshop&q=Samsøe Samsøe herr rea Zalando&prds=catalogid:11671924078847942394,productid:8699995800673419237,headlineOfferDocid:13562074700164929753,imageDocid:5939303592884846185,gpcid:4133177691693026760,mid:576462887646714037,pvt:a&hl=sv&gl=se&udm=28": [
       {
         "price": 1271,
-        "at": "2026-11-08T13:41:18.072Z"
-      }
-    ],
-    "https://www.google.com/search?ibp=oshop&q=Samsøe Samsøe herr rea Zalando&prds=productid:11285011716755139175,headlineOfferDocid:11285011716755139175,imageDocid:8862738593600376200,pvt:a&hl=sv&gl=se&udm=28": [
-      {
-        "price": 1346,
         "at": "2026-11-08T13:41:18.072Z"
       }
     ],
@@ -207,11 +259,61 @@
         "price": 559.2,
         "at": "2026-11-08T13:41:18.072Z"
       }
+    ],
+    "https://www.google.com/search?ibp=oshop&q=Samsøe Samsøe herr rea Zalando&prds=catalogid:10812616991922621641,productid:9275403166147013256,headlineOfferDocid:13116638579532902689,imageDocid:12020407852731302629,gpcid:2266937909119569923,mid:576462820034934662,pvt:a&hl=sv&gl=se&udm=28": [
+      {
+        "price": 1537,
+        "at": "2026-11-09T16:42:06.794Z"
+      }
+    ],
+    "https://www.google.com/search?ibp=oshop&q=Samsøe Samsøe herr rea Zalando&prds=catalogid:2393858463299094634,productid:18209431326495885414,headlineOfferDocid:15758329327550219317,imageDocid:8727744997939333441,gpcid:9453389157393046650,mid:576462889264253303,pvt:a&hl=sv&gl=se&udm=28": [
+      {
+        "price": 699,
+        "at": "2026-11-09T16:42:06.794Z"
+      }
+    ],
+    "https://www.google.com/search?ibp=oshop&q=Samsøe Samsøe herr rea Zalando&prds=catalogid:11658568779405483362,productid:12479808969385573891,headlineOfferDocid:15544582216498998922,imageDocid:13959378394270525106,rds:PC_6969495066304917046|PROD_PC_6969495066304917046,gpcid:6969495066304917046,mid:576462898024138067,pvt:a&hl=sv&gl=se&udm=28": [
+      {
+        "price": 712,
+        "at": "2026-11-09T16:42:06.794Z"
+      }
+    ],
+    "https://www.google.com/search?ibp=oshop&q=Samsøe Samsøe herr rea Zalando&prds=catalogid:8276778434567045814,productid:7378832420862604106,headlineOfferDocid:9671648629135676084,imageDocid:2236415822778066245,gpcid:4855026365295724591,mid:576462794941063769,pvt:a&hl=sv&gl=se&udm=28": [
+      {
+        "price": 1346,
+        "at": "2026-11-09T16:42:06.794Z"
+      }
+    ],
+    "https://www.google.com/search?ibp=oshop&q=Samsøe Samsøe herr rea Zalando&prds=catalogid:4566172011127203596,productid:14789606260745180448,headlineOfferDocid:12645306143329017704,imageDocid:4386053640720729063,gpcid:12602446755246798759,mid:576462897671408041,pvt:a&hl=sv&gl=se&udm=28": [
+      {
+        "price": 1046,
+        "at": "2026-11-09T16:42:06.794Z"
+      }
+    ],
+    "https://www.google.com/search?ibp=oshop&q=Samsøe Samsøe herr rea Zalando&prds=catalogid:3819694414016718666,productid:11613875989055814605,headlineOfferDocid:5142507112904051974,imageDocid:11722310106668128737,gpcid:6024384709290420194,mid:576462893170941578,pvt:a&hl=sv&gl=se&udm=28": [
+      {
+        "price": 1196,
+        "at": "2026-11-09T16:42:06.794Z"
+      }
+    ],
+    "https://www.google.com/search?ibp=oshop&q=Samsøe Samsøe herr rea Zalando&prds=productid:9360426855201978720,headlineOfferDocid:9360426855201978720,imageDocid:3641447289435319602,pvt:a&hl=sv&gl=se&udm=28": [
+      {
+        "price": 524,
+        "at": "2026-11-09T16:42:06.794Z"
+      }
+    ],
+    "https://www.google.com/search?ibp=oshop&q=Acne Studios herr rea Boozt&prds=catalogid:10179039432059521629,productid:5580401678847528333,headlineOfferDocid:339656168221636708,imageDocid:9228126080691927348,gpcid:16546565243297347846,mid:576462566984526799,pvt:a&hl=sv&gl=se&udm=28": [
+      {
+        "price": 3686.21,
+        "at": "2026-11-09T16:42:06.794Z"
+      }
     ]
   },
   "searchesAttempted": 6,
-  "searchesFailed": 0,
-  "errors": [],
+  "searchesFailed": 1,
+  "errors": [
+    "J.Lindeberg / Boozt: The operation was aborted due to timeout"
+  ],
   "coverageAudit": {
     "referenceSource": "https://www.boozt.com/se/sv/samsoe-and-samsoe/men/klader-for-man/vaeskor",
     "referenceDate": "2026-10-19",
