@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-15T14:09:12.256Z",
+  "updatedAt": "2026-11-16T16:10:48.591Z",
   "brands": [
     "Acne Studios",
     "J.Lindeberg",
@@ -11,27 +11,13 @@
       "brand": "Acne Studios",
       "retailer": "Boozt",
       "name": "Acne Studios Gothic Logo T-shirt",
-      "price": 3609.34,
+      "price": 3607.09,
       "original": 5771,
       "discount": 37,
       "url": "https://www.google.com/search?ibp=oshop&q=Acne Studios herr rea Boozt&prds=catalogid:2379500941385907788,productid:10445329569467409883,headlineOfferDocid:8131829210528104533,imageDocid:11465600650146548775,gpcid:78156966081806378,mid:576462888401701267,pvt:a&hl=sv&gl=se&udm=28",
       "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQsCZD4UXvaFWRW8zICNagEWc4tgYvCiwaYP52IH7UMtDr28Z7725X7l9Zjq_zyxlrkAJ8HcMtckhK53EB700-SHFivNp38KKNh8CPTepALNxX8m1icuhnO",
-      "checkedAt": "2026-11-15T14:09:08.014Z",
-      "lowestObserved": 3609.34,
-      "firstObserved": "2026-11-15T14:09:12.256Z"
-    },
-    {
-      "id": "https://www.google.com/search?ibp=oshop&q=J.Lindeberg herr rea Boozt&prds=catalogid:14833177922220249119,productid:17378881851479200299,headlineOfferDocid:6512925320906184247,imageDocid:8766837378792308348,gpcid:15804960335118336424,mid:576462823337191214,pvt:a&hl=sv&gl=se&udm=28",
-      "brand": "J.Lindeberg",
-      "retailer": "Boozt",
-      "name": "J.Lindeberg Novo Pro Pack Pant Herr",
-      "price": 420,
-      "original": 560,
-      "discount": 25,
-      "url": "https://www.google.com/search?ibp=oshop&q=J.Lindeberg herr rea Boozt&prds=catalogid:14833177922220249119,productid:17378881851479200299,headlineOfferDocid:6512925320906184247,imageDocid:8766837378792308348,gpcid:15804960335118336424,mid:576462823337191214,pvt:a&hl=sv&gl=se&udm=28",
-      "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRa9tD6-QYcWtuvYfbLwm_JmAYJpuZbx8UaTVhJiYNEK04MCgmQBorHXQNftjUIuzSDMG1ln3xRy3-L47Bw6wBG3Pcw1Cq32lHL7_0P1B3hsF7lbA0wXsjezA",
-      "checkedAt": "2026-11-15T14:09:10.309Z",
-      "lowestObserved": 420,
+      "checkedAt": "2026-11-16T16:10:44.835Z",
+      "lowestObserved": 3607.09,
       "firstObserved": "2026-11-15T14:09:12.256Z"
     }
   ],
@@ -40,19 +26,18 @@
       {
         "price": 3609.34,
         "at": "2026-11-15T14:09:12.256Z"
-      }
-    ],
-    "https://www.google.com/search?ibp=oshop&q=J.Lindeberg herr rea Boozt&prds=catalogid:14833177922220249119,productid:17378881851479200299,headlineOfferDocid:6512925320906184247,imageDocid:8766837378792308348,gpcid:15804960335118336424,mid:576462823337191214,pvt:a&hl=sv&gl=se&udm=28": [
+      },
       {
-        "price": 420,
-        "at": "2026-11-15T14:09:12.256Z"
+        "price": 3607.09,
+        "at": "2026-11-16T16:10:48.591Z"
       }
     ]
   },
   "searchesAttempted": 6,
-  "searchesFailed": 1,
+  "searchesFailed": 2,
   "errors": [
-    "Acne Studios / Zalando: Google hasn't returned any results for this query."
+    "Acne Studios / Zalando: Google hasn't returned any results for this query.",
+    "J.Lindeberg / Zalando: Google hasn't returned any results for this query."
   ],
   "coverageAudit": {
     "referenceSource": "https://www.boozt.com/se/sv/samsoe-and-samsoe/men/klader-for-man/vaeskor",
