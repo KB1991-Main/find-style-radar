@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T16:51:43.319Z",
+  "updatedAt": "2026-11-28T15:42:47.633Z",
   "brands": [
     "Acne Studios",
     "J.Lindeberg",
@@ -7,18 +7,32 @@
   ],
   "items": [
     {
-      "id": "https://www.google.com/search?ibp=oshop&q=J.Lindeberg herr rea Zalando&prds=catalogid:1663011503000845309,productid:8749451837741874163,headlineOfferDocid:17185159878900291005,imageDocid:8561098645799295233,rds:PC_5861244234261199085|PROD_PC_5861244234261199085,gpcid:5861244234261199085,mid:576462550041944949,pvt:a&hl=sv&gl=se&udm=28",
-      "brand": "J.Lindeberg",
+      "id": "https://www.google.com/search?ibp=oshop&q=Samsøe Samsøe herr rea Boozt&prds=catalogid:14339554396446723072,productid:9843417296429454686,headlineOfferDocid:3886082666415603662,imageDocid:18108919592101739807,gpcid:4720843763346193023,mid:576462896460884187,pvt:a&hl=sv&gl=se&udm=28",
+      "brand": "Samsøe Samsøe",
       "retailer": "Zalando",
-      "name": "gorilla wear Devon Training Pants Hög komfort Herr",
-      "price": 239,
-      "original": 599,
-      "discount": 60,
-      "url": "https://www.google.com/search?ibp=oshop&q=J.Lindeberg herr rea Zalando&prds=catalogid:1663011503000845309,productid:8749451837741874163,headlineOfferDocid:17185159878900291005,imageDocid:8561098645799295233,rds:PC_5861244234261199085|PROD_PC_5861244234261199085,gpcid:5861244234261199085,mid:576462550041944949,pvt:a&hl=sv&gl=se&udm=28",
-      "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcT9cdcQLuADFFg3eudKFnM-JMSPX0BjjoGnfxh-l5rQ4_oCW4PR_vVy7YBBAI9J14pohTChA7nWzk60dMmZiu4NP_n2d0b0yi-EHInkjHaGNBZE-GJO2rc53A",
-      "checkedAt": "2026-11-27T16:51:35.093Z",
-      "lowestObserved": 239,
-      "firstObserved": "2026-11-27T16:51:43.319Z"
+      "name": "faina Fodralklänning Dam",
+      "price": 512,
+      "original": 1896,
+      "discount": 73,
+      "url": "https://www.google.com/search?ibp=oshop&q=Samsøe Samsøe herr rea Boozt&prds=catalogid:14339554396446723072,productid:9843417296429454686,headlineOfferDocid:3886082666415603662,imageDocid:18108919592101739807,gpcid:4720843763346193023,mid:576462896460884187,pvt:a&hl=sv&gl=se&udm=28",
+      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTbwOd815o_kZaBVAIXAqFa7ypDl6HIFWc0yGb6j2ooPpWXVkLzZVloN9LkF0YaK6irMB4M-Okl1cnCCFfMsCzCkyE48S-0YZZsMk110Jf7oGcqfBthtHQV",
+      "checkedAt": "2026-11-28T15:42:47.633Z",
+      "lowestObserved": 512,
+      "firstObserved": "2026-11-28T15:42:47.633Z"
+    },
+    {
+      "id": "https://www.google.com/search?ibp=oshop&q=Samsøe Samsøe herr rea Zalando&prds=catalogid:5861405329269375298,productid:11114917596001686935,headlineOfferDocid:10659819440483599636,imageDocid:9091382140865029584,gpcid:1955552156799380456,mid:576462917253972945,pvt:a&hl=sv&gl=se&udm=28",
+      "brand": "Samsøe Samsøe",
+      "retailer": "Zalando",
+      "name": "Samsøe Samsøe Saayo X Shirt Skjorta Herr",
+      "price": 628,
+      "original": 1710,
+      "discount": 63,
+      "url": "https://www.google.com/search?ibp=oshop&q=Samsøe Samsøe herr rea Zalando&prds=catalogid:5861405329269375298,productid:11114917596001686935,headlineOfferDocid:10659819440483599636,imageDocid:9091382140865029584,gpcid:1955552156799380456,mid:576462917253972945,pvt:a&hl=sv&gl=se&udm=28",
+      "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTQuDslJlo3mHX0jAd1sxjEtX5D1qCVhMvPqdDl-wdplfXsU8l0HB7g68FYbLVu9qMWo_h_7iddkJUsVUcHpoSTqqPsyU25LfwgsB7Tz1YnM8ojydC7hEM9",
+      "checkedAt": "2026-11-28T15:42:46.554Z",
+      "lowestObserved": 628,
+      "firstObserved": "2026-11-28T15:42:47.633Z"
     },
     {
       "id": "https://www.google.com/search?ibp=oshop&q=J.Lindeberg herr rea Zalando&prds=catalogid:17247240568166715238,productid:4194119804436887416,headlineOfferDocid:16780526922141689700,imageDocid:11292303028403510858,rds:PC_12314721823526898147|PROD_PC_12314721823526898147,gpcid:12314721823526898147,mid:576462917439487494,pvt:a&hl=sv&gl=se&udm=28",
@@ -30,107 +44,219 @@
       "discount": 60,
       "url": "https://www.google.com/search?ibp=oshop&q=J.Lindeberg herr rea Zalando&prds=catalogid:17247240568166715238,productid:4194119804436887416,headlineOfferDocid:16780526922141689700,imageDocid:11292303028403510858,rds:PC_12314721823526898147|PROD_PC_12314721823526898147,gpcid:12314721823526898147,mid:576462917439487494,pvt:a&hl=sv&gl=se&udm=28",
       "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRqn_ARXGT0Jg9xiXEv7QdOyPcWDLOUI7MxXw3WUSGC2xLrhK_8LqiMYYaGvAS9OQBqA2fbq-wn0tfXC5l3E_jDsof0OqofrVm_V-O_6uQhlfWkrHc7x8SuCA",
-      "checkedAt": "2026-11-27T16:51:35.093Z",
+      "checkedAt": "2026-11-28T15:42:42.989Z",
       "lowestObserved": 279.6,
       "firstObserved": "2026-11-27T16:51:43.319Z"
     },
     {
-      "id": "https://www.google.com/search?ibp=oshop&q=Acne Studios herr rea Zalando&prds=catalogid:88015358755988446,productid:12655695403909932212,headlineOfferDocid:12204060678371888796,imageDocid:16075437005737279915,rds:PC_17748074257577572887|PROD_PC_17748074257577572887,gpcid:17748074257577572887,mid:576462574924766847,pvt:a&hl=sv&gl=se&udm=28",
+      "id": "https://www.google.com/search?ibp=oshop&q=Acne Studios herr rea Zalando&prds=catalogid:13443569414637238959,productid:9969428423428810437,headlineOfferDocid:14843157374621380532,imageDocid:7754473870845642429,gpcid:3482386444253387072,mid:576462915369158288,pvt:a&hl=sv&gl=se&udm=28",
       "brand": "Acne Studios",
       "retailer": "Zalando",
+      "name": "Arket Skjortklänning Dam",
+      "price": 495,
+      "original": 990,
+      "discount": 50,
+      "url": "https://www.google.com/search?ibp=oshop&q=Acne Studios herr rea Zalando&prds=catalogid:13443569414637238959,productid:9969428423428810437,headlineOfferDocid:14843157374621380532,imageDocid:7754473870845642429,gpcid:3482386444253387072,mid:576462915369158288,pvt:a&hl=sv&gl=se&udm=28",
+      "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSbJrwTWhCotioHsfmJFGpC6skSJWm7RQC3MQ7U1-S4fbKQjMdftpiHGugk2xYXfXybFGW5Ue1kBXTZVavSOagEltXe3NBAhywR0QSq_C1fq3yv2vXAPGo0",
+      "checkedAt": "2026-11-28T15:42:40.239Z",
+      "lowestObserved": 495,
+      "firstObserved": "2026-11-28T15:42:47.633Z"
+    },
+    {
+      "id": "https://www.google.com/search?ibp=oshop&q=J.Lindeberg herr rea Boozt&prds=catalogid:5276633306570722000,productid:11887397906315443366,headlineOfferDocid:3683932731040912232,imageDocid:12683304098028474528,rds:PC_12892828167602829432|PROD_PC_12892828167602829432,gpcid:12892828167602829432,mid:576462879836480298,pvt:a&hl=sv&gl=se&udm=28",
+      "brand": "J.Lindeberg",
+      "retailer": "Boozt",
+      "name": "J Lindeberg Herr Bo Polo",
+      "price": 449,
+      "original": 899,
+      "discount": 50,
+      "url": "https://www.google.com/search?ibp=oshop&q=J.Lindeberg herr rea Boozt&prds=catalogid:5276633306570722000,productid:11887397906315443366,headlineOfferDocid:3683932731040912232,imageDocid:12683304098028474528,rds:PC_12892828167602829432|PROD_PC_12892828167602829432,gpcid:12892828167602829432,mid:576462879836480298,pvt:a&hl=sv&gl=se&udm=28",
+      "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQ6nUBB-v7mVtogJcG_sotz7NLYbrthbkO_xmqnsJW3gCNx18NSigbEgLe77Xbj2x6D4fJl09H7nWoJvF7r84IytBodyffvSl2Eg9YHMqfeKAx6T0OzzZU6HLI",
+      "checkedAt": "2026-11-28T15:42:44.303Z",
+      "lowestObserved": 449,
+      "firstObserved": "2026-11-28T15:42:47.633Z"
+    },
+    {
+      "id": "https://www.google.com/search?ibp=oshop&q=Samsøe Samsøe herr rea Zalando&prds=catalogid:9980856488879322470,productid:12793040134993784129,headlineOfferDocid:16524983969424389969,imageDocid:1182402584790445334,gpcid:752292611222646984,mid:576462889936329641,pvt:a&hl=sv&gl=se&udm=28",
+      "brand": "Samsøe Samsøe",
+      "retailer": "Zalando",
+      "name": "Herr Samsøe Samsøe Saemerson P Shirt 16067",
+      "price": 648,
+      "original": 1295,
+      "discount": 50,
+      "url": "https://www.google.com/search?ibp=oshop&q=Samsøe Samsøe herr rea Zalando&prds=catalogid:9980856488879322470,productid:12793040134993784129,headlineOfferDocid:16524983969424389969,imageDocid:1182402584790445334,gpcid:752292611222646984,mid:576462889936329641,pvt:a&hl=sv&gl=se&udm=28",
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSDAyS0lj3zC1egjr91RMV66jcqPy9BTX81iTSJyPFSWLq3iS2kLoaEM0cnOxhc5oKqQD1GRiEVGS3tpa2mmCUnplcc6-j7VqElrfOf6OQGloQlHTFUsljF",
+      "checkedAt": "2026-11-28T15:42:46.554Z",
+      "lowestObserved": 648,
+      "firstObserved": "2026-11-28T15:42:47.633Z"
+    },
+    {
+      "id": "https://www.google.com/search?ibp=oshop&q=Samsøe Samsøe herr rea Zalando&prds=catalogid:3819694414016718666,productid:11613875989055814605,headlineOfferDocid:5142507112904051974,imageDocid:4454040723699779632,gpcid:6024384709290420194,mid:576462893170941578,pvt:a&hl=sv&gl=se&udm=28",
+      "brand": "Samsøe Samsøe",
+      "retailer": "Zalando",
+      "name": "Samsøe Samsøe Sarico ZIP Shirt Skjorta Herr",
+      "price": 798,
+      "original": 1595,
+      "discount": 50,
+      "url": "https://www.google.com/search?ibp=oshop&q=Samsøe Samsøe herr rea Zalando&prds=catalogid:3819694414016718666,productid:11613875989055814605,headlineOfferDocid:5142507112904051974,imageDocid:4454040723699779632,gpcid:6024384709290420194,mid:576462893170941578,pvt:a&hl=sv&gl=se&udm=28",
+      "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSPIjvAKPWKeNFgV14Vk1DfauqvbHvsA-Ldvb9cba5OA9cB3lLvqhKE4miZFTJhJ-cyNO5DGjohf4jja9XXo__czyLswA7eidOrR8dLiF7oJk6sUTjkP-RoEQ",
+      "checkedAt": "2026-11-28T15:42:46.554Z",
+      "lowestObserved": 798,
+      "firstObserved": "2026-11-28T15:42:47.633Z"
+    },
+    {
+      "id": "https://www.google.com/search?ibp=oshop&q=Samsøe Samsøe herr rea Zalando&prds=productid:11285011716755139175,headlineOfferDocid:11285011716755139175,imageDocid:8862738593600376200,pvt:a&hl=sv&gl=se&udm=28",
+      "brand": "Samsøe Samsøe",
+      "retailer": "Zalando",
+      "name": "Samsøe Samsøe Trousers Tygbyxor, Herr, Storlek: 44, Beige",
+      "price": 898,
+      "original": 1795,
+      "discount": 50,
+      "url": "https://www.google.com/search?ibp=oshop&q=Samsøe Samsøe herr rea Zalando&prds=productid:11285011716755139175,headlineOfferDocid:11285011716755139175,imageDocid:8862738593600376200,pvt:a&hl=sv&gl=se&udm=28",
+      "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSYz1lTRG9E-Qd78zKib8lv3oi2WyMFnLngDANo1IqT7kYyNsFdt3r0ErcRlHuDBCDOMxNfo2bG3fxlPHcHA-Fv94rVdcmwcovkarL9Gut5inxQegR2lpFcCQ",
+      "checkedAt": "2026-11-28T15:42:46.554Z",
+      "lowestObserved": 628,
+      "firstObserved": "2026-11-27T16:51:43.319Z"
+    },
+    {
+      "id": "https://www.google.com/search?ibp=oshop&q=Samsøe Samsøe herr rea Zalando&prds=catalogid:14418200483795933032,productid:12370983423557521568,headlineOfferDocid:3521886481434750789,imageDocid:8107020558507633508,rds:PC_6773105528660316567|PROD_PC_6773105528660316567,gpcid:6773105528660316567,mid:576462892994355952,pvt:a&hl=sv&gl=se&udm=28",
+      "brand": "Samsøe Samsøe",
+      "retailer": "Zalando",
+      "name": "Samsøe Samsøe Sapally Z Shirt Jacket Herr 14163",
+      "price": 1648,
+      "original": 3295,
+      "discount": 50,
+      "url": "https://www.google.com/search?ibp=oshop&q=Samsøe Samsøe herr rea Zalando&prds=catalogid:14418200483795933032,productid:12370983423557521568,headlineOfferDocid:3521886481434750789,imageDocid:8107020558507633508,rds:PC_6773105528660316567|PROD_PC_6773105528660316567,gpcid:6773105528660316567,mid:576462892994355952,pvt:a&hl=sv&gl=se&udm=28",
+      "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQ25Y3eysnR4h4VwZ4DVHZrW-0FDmattaoh05L5QiYwxLP3nfQEVVQxA5NHZ9Yuiz2bz8MbTVqpXgDoFpN-I2p7XZGwjTeJKBP9EA_YpkN8v-oEKkAmzp_8sw",
+      "checkedAt": "2026-11-28T15:42:46.554Z",
+      "lowestObserved": 1648,
+      "firstObserved": "2026-11-28T15:42:47.633Z"
+    },
+    {
+      "id": "https://www.google.com/search?ibp=oshop&q=Samsøe Samsøe herr rea Zalando&prds=catalogid:1953050105361640632,productid:824117759240114729,headlineOfferDocid:2954200283325391742,imageDocid:11105205891837484022,gpcid:14530171058482505896,mid:576462555444414516,pvt:a&hl=sv&gl=se&udm=28",
+      "brand": "Samsøe Samsøe",
+      "retailer": "Zalando",
+      "name": "Samsøe Samsøe Messenger Axelremsväska",
+      "price": 898,
+      "original": 1795,
+      "discount": 50,
+      "url": "https://www.google.com/search?ibp=oshop&q=Samsøe Samsøe herr rea Zalando&prds=catalogid:1953050105361640632,productid:824117759240114729,headlineOfferDocid:2954200283325391742,imageDocid:11105205891837484022,gpcid:14530171058482505896,mid:576462555444414516,pvt:a&hl=sv&gl=se&udm=28",
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQ-M-n3b6a0rLt5lk7g9NAvjmH-NQmTC-W5ghb8KeaJcwwR9QHrMqee-Z-4jqwlDCmGVh9ageDn4APs1vgeE2TghrQkj-QsvwWtE6rtFSTW7pFqj8SAM-6tDTg",
+      "checkedAt": "2026-11-28T15:42:46.554Z",
+      "lowestObserved": 898,
+      "firstObserved": "2026-11-28T15:42:47.633Z"
+    },
+    {
+      "id": "https://www.google.com/search?ibp=oshop&q=Samsøe Samsøe herr rea Zalando&prds=catalogid:2393858463299094634,productid:18209431326495885414,headlineOfferDocid:15758329327550219317,imageDocid:8727744997939333441,gpcid:9453389157393046650,mid:576462889264253303,pvt:a&hl=sv&gl=se&udm=28",
+      "brand": "Samsøe Samsøe",
+      "retailer": "Zalando",
+      "name": "Samsøe Samsøe Pouch Unisex Necessär",
+      "price": 500,
+      "original": 999,
+      "discount": 50,
+      "url": "https://www.google.com/search?ibp=oshop&q=Samsøe Samsøe herr rea Zalando&prds=catalogid:2393858463299094634,productid:18209431326495885414,headlineOfferDocid:15758329327550219317,imageDocid:8727744997939333441,gpcid:9453389157393046650,mid:576462889264253303,pvt:a&hl=sv&gl=se&udm=28",
+      "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcS3pTDXUW9mLoBayUvUDuSuwXSGeM7OhzKhLathRq7g834NrZNE4xgvaBV8cx-QY05eOxSAYDusJoM3ysY2BIBW8vR28iRt7chXzNCidioQzDkE9R0d52zD1X0",
+      "checkedAt": "2026-11-28T15:42:46.554Z",
+      "lowestObserved": 400,
+      "firstObserved": "2026-11-27T16:51:43.319Z"
+    },
+    {
+      "id": "https://www.google.com/search?ibp=oshop&q=Samsøe Samsøe herr rea Boozt&prds=catalogid:17811980875867622303,productid:15474003700122879695,headlineOfferDocid:17138546288152800672,imageDocid:14663626152653350101,rds:PC_6567739931799695396|PROD_PC_6567739931799695396,gpcid:6567739931799695396,mid:576462476445853775,pvt:a&hl=sv&gl=se&udm=28",
+      "brand": "Samsøe Samsøe",
+      "retailer": "Boozt",
+      "name": "Herr Skechers Go Dri All Day Tee",
+      "price": 199.5,
+      "original": 399,
+      "discount": 50,
+      "url": "https://www.google.com/search?ibp=oshop&q=Samsøe Samsøe herr rea Boozt&prds=catalogid:17811980875867622303,productid:15474003700122879695,headlineOfferDocid:17138546288152800672,imageDocid:14663626152653350101,rds:PC_6567739931799695396|PROD_PC_6567739931799695396,gpcid:6567739931799695396,mid:576462476445853775,pvt:a&hl=sv&gl=se&udm=28",
+      "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSu-3hRC_i7OQrOfcr-ZHDlhQLXwmAnpcvZSQj8kOQB4F4iJyp1EAwAGXaGtWsohGUFhNm4r-YfXO2QV-BRAFmym1BpTfzwdimZlWvo0IvEzVhHJlKz5BaU",
+      "checkedAt": "2026-11-28T15:42:47.633Z",
+      "lowestObserved": 199.5,
+      "firstObserved": "2026-11-28T15:42:47.633Z"
+    },
+    {
+      "id": "https://www.google.com/search?ibp=oshop&q=Acne Studios herr rea Zalando&prds=catalogid:1027559202791732082,productid:1018898118325630868,headlineOfferDocid:8968724239636949786,imageDocid:18214798768727646767,gpcid:10185634523290407699,mid:576462576505813606,pvt:a&hl=sv&gl=se&udm=28",
+      "brand": "Acne Studios",
+      "retailer": "Zalando",
+      "name": "Herr Stranger Things T-shirt Vecna Horror",
+      "price": 161,
+      "original": 299,
+      "discount": 46,
+      "url": "https://www.google.com/search?ibp=oshop&q=Acne Studios herr rea Zalando&prds=catalogid:1027559202791732082,productid:1018898118325630868,headlineOfferDocid:8968724239636949786,imageDocid:18214798768727646767,gpcid:10185634523290407699,mid:576462576505813606,pvt:a&hl=sv&gl=se&udm=28",
+      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQQCpTjv7Ed_PYoPKqClQcG74_WNap0baQ99kYewFUYh-OzxBZr4qP1ujPNZK8VrlMVctw0FnO_MM0qmp_Jl49AgfUeae1f8uYvIpNoril6bJIQOJ_wyNHQ",
+      "checkedAt": "2026-11-28T15:42:40.239Z",
+      "lowestObserved": 161,
+      "firstObserved": "2026-11-28T15:42:47.633Z"
+    },
+    {
+      "id": "https://www.google.com/search?ibp=oshop&q=J.Lindeberg herr rea Zalando&prds=catalogid:15428782484673765873,productid:9739838675273322952,headlineOfferDocid:16222005988522743210,imageDocid:10018872203769057656,rds:PC_15420358582768354106|PROD_PC_15420358582768354106,gpcid:15420358582768354106,mid:576462562434504695,pvt:a&hl=sv&gl=se&udm=28",
+      "brand": "J.Lindeberg",
+      "retailer": "Zalando",
+      "name": "Ellos Studio Träningstights Studio Tights Flat Front Core",
+      "price": 239,
+      "original": 399,
+      "discount": 40,
+      "url": "https://www.google.com/search?ibp=oshop&q=J.Lindeberg herr rea Zalando&prds=catalogid:15428782484673765873,productid:9739838675273322952,headlineOfferDocid:16222005988522743210,imageDocid:10018872203769057656,rds:PC_15420358582768354106|PROD_PC_15420358582768354106,gpcid:15420358582768354106,mid:576462562434504695,pvt:a&hl=sv&gl=se&udm=28",
+      "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRUnIoFZkyKSjn3RtDA7io7rO2Eki5uoWlHn_eIFSj6vITf2pKqiN82cGhKD7sDwnTktcZXeUa_b1IyX8PD8l7tNWDDh9_HxFEdwYF6ADMvFl9XMKbUYPhPyg",
+      "checkedAt": "2026-11-28T15:42:42.989Z",
+      "lowestObserved": 239,
+      "firstObserved": "2026-11-28T15:42:47.633Z"
+    },
+    {
+      "id": "https://www.google.com/search?ibp=oshop&q=J.Lindeberg herr rea Zalando&prds=catalogid:7880108206127517448,productid:12034583936899738697,headlineOfferDocid:13355834115860657934,imageDocid:1399909011798260164,rds:PC_820464720490124899|PROD_PC_820464720490124899,gpcid:820464720490124899,mid:576462916361680263,pvt:a&hl=sv&gl=se&udm=28",
+      "brand": "J.Lindeberg",
+      "retailer": "Zalando",
+      "name": "Aura Seamless Scrunch Tights - Aqua L / Petite",
+      "price": 419.4,
+      "original": 699,
+      "discount": 40,
+      "url": "https://www.google.com/search?ibp=oshop&q=J.Lindeberg herr rea Zalando&prds=catalogid:7880108206127517448,productid:12034583936899738697,headlineOfferDocid:13355834115860657934,imageDocid:1399909011798260164,rds:PC_820464720490124899|PROD_PC_820464720490124899,gpcid:820464720490124899,mid:576462916361680263,pvt:a&hl=sv&gl=se&udm=28",
+      "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSUYihhx6fBA3L9SqC7AfJWIB1aFtCUYQc1xTkXJF-6WZbUtqf137wTQeZhYDvUm5qAXDD-DkVYFM9d05ODmllDVXnWuqh6X-JJ_APpasBoyMv3YSXv3tR1giU",
+      "checkedAt": "2026-11-28T15:42:42.989Z",
+      "lowestObserved": 419.4,
+      "firstObserved": "2026-11-28T15:42:47.633Z"
+    },
+    {
+      "id": "https://www.google.com/search?ibp=oshop&q=J.Lindeberg herr rea Zalando&prds=catalogid:15891950559012549085,productid:1852445309891017938,headlineOfferDocid:17437425663458232556,imageDocid:8349161142507406118,gpcid:3386987935112099269,mid:576462917245006203,pvt:a&hl=sv&gl=se&udm=28",
+      "brand": "J.Lindeberg",
+      "retailer": "Zalando",
+      "name": "Peach Tights Lila Ignite Scrunch Tights Dam",
+      "price": 389,
+      "original": 649,
+      "discount": 40,
+      "url": "https://www.google.com/search?ibp=oshop&q=J.Lindeberg herr rea Zalando&prds=catalogid:15891950559012549085,productid:1852445309891017938,headlineOfferDocid:17437425663458232556,imageDocid:8349161142507406118,gpcid:3386987935112099269,mid:576462917245006203,pvt:a&hl=sv&gl=se&udm=28",
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQlf_vHRHczdqbgF0bR-uaP2gDAg0rFTQ1lsm17Y-VhCXZOgYDebrwtk69uq8vPDl5gdEwiXzcqUbEnfMTiqD2qUR-4sH7Qx_TOb3f6iMcb5MT4tYH2TVMCxQ",
+      "checkedAt": "2026-11-28T15:42:42.989Z",
+      "lowestObserved": 389,
+      "firstObserved": "2026-11-28T15:42:47.633Z"
+    },
+    {
+      "id": "https://www.google.com/search?ibp=oshop&q=J.Lindeberg herr rea Boozt&prds=catalogid:10561029871684958270,productid:406395040035096616,headlineOfferDocid:3185693532465927521,imageDocid:9432372451154048177,gpcid:499756230467375003,mid:576462567986181006,pvt:a&hl=sv&gl=se&udm=28",
+      "brand": "J.Lindeberg",
+      "retailer": "Boozt",
+      "name": "Herr J.Lindeberg Jevin Brushed Twill Jacket",
+      "price": 2279,
+      "original": 3799,
+      "discount": 40,
+      "url": "https://www.google.com/search?ibp=oshop&q=J.Lindeberg herr rea Boozt&prds=catalogid:10561029871684958270,productid:406395040035096616,headlineOfferDocid:3185693532465927521,imageDocid:9432372451154048177,gpcid:499756230467375003,mid:576462567986181006,pvt:a&hl=sv&gl=se&udm=28",
+      "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRMHR61jPT56jgxwSWI8SyLySJ1iAufGm_ToFJ3sxR3Bj82McgmxDadrD3AQhGFQBuO91RTUn7_nIQOuByN5HOF0a3dvWanSCy4d4CDgeoxlrXjukHRc8JZ",
+      "checkedAt": "2026-11-28T15:42:44.303Z",
+      "lowestObserved": 2279,
+      "firstObserved": "2026-11-28T15:42:47.633Z"
+    },
+    {
+      "id": "https://www.google.com/search?ibp=oshop&q=Samsøe Samsøe herr rea Boozt&prds=catalogid:88015358755988446,productid:12655695403909932212,headlineOfferDocid:12204060678371888796,imageDocid:16075437005737279915,rds:PC_17748074257577572887|PROD_PC_17748074257577572887,gpcid:17748074257577572887,mid:576462574924766847,pvt:a&hl=sv&gl=se&udm=28",
+      "brand": "Samsøe Samsøe",
+      "retailer": "Boozt",
       "name": "Zizzi Plus Size Cardigan med paljetter och knappar Koftor",
       "price": 509.97,
       "original": 850,
       "discount": 40,
-      "url": "https://www.google.com/search?ibp=oshop&q=Acne Studios herr rea Zalando&prds=catalogid:88015358755988446,productid:12655695403909932212,headlineOfferDocid:12204060678371888796,imageDocid:16075437005737279915,rds:PC_17748074257577572887|PROD_PC_17748074257577572887,gpcid:17748074257577572887,mid:576462574924766847,pvt:a&hl=sv&gl=se&udm=28",
+      "url": "https://www.google.com/search?ibp=oshop&q=Samsøe Samsøe herr rea Boozt&prds=catalogid:88015358755988446,productid:12655695403909932212,headlineOfferDocid:12204060678371888796,imageDocid:16075437005737279915,rds:PC_17748074257577572887|PROD_PC_17748074257577572887,gpcid:17748074257577572887,mid:576462574924766847,pvt:a&hl=sv&gl=se&udm=28",
       "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTMJWQ0s4RQtfQH3BWdtMmlfm2LJBs9u9rIrDEfFg0uLdmqUzjEp2dCiKpHbKNFXyZyJeDKLPM3HrILPf5RMuAC0Bycak5-HUhBknfKFUwVamE460QfqalsSA",
-      "checkedAt": "2026-11-27T16:51:32.096Z",
+      "checkedAt": "2026-11-28T15:42:47.633Z",
       "lowestObserved": 509.97,
-      "firstObserved": "2026-11-27T16:51:43.319Z"
-    },
-    {
-      "id": "https://www.google.com/search?ibp=oshop&q=J.Lindeberg herr rea Zalando&prds=catalogid:4579115761372338839,productid:17908244626390950412,headlineOfferDocid:8054190882473382534,imageDocid:17321175366120037447,gpcid:17790742363962292217,mid:576462912339295022,pvt:a&hl=sv&gl=se&udm=28",
-      "brand": "J.Lindeberg",
-      "retailer": "Zalando",
-      "name": "Peach Tights Sculpting T-shirt Dam",
-      "price": 269,
-      "original": 449,
-      "discount": 40,
-      "url": "https://www.google.com/search?ibp=oshop&q=J.Lindeberg herr rea Zalando&prds=catalogid:4579115761372338839,productid:17908244626390950412,headlineOfferDocid:8054190882473382534,imageDocid:17321175366120037447,gpcid:17790742363962292217,mid:576462912339295022,pvt:a&hl=sv&gl=se&udm=28",
-      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcT52tNEHcgvPGPSW6As1RxhP3aeSpRdFjiqXdGYXZIbUuRRG6jjrxEVCimip6b4SqvN0uJASBrY7W_7Np8T4R01yQnsNSvLVq3rySfiIxGIR8i0EQFNn6ATfg",
-      "checkedAt": "2026-11-27T16:51:35.093Z",
-      "lowestObserved": 269,
-      "firstObserved": "2026-11-27T16:51:43.319Z"
-    },
-    {
-      "id": "https://www.google.com/search?ibp=oshop&q=J.Lindeberg herr rea Zalando&prds=catalogid:6772287453699565770,productid:10910011018127520439,headlineOfferDocid:2791682470134733656,imageDocid:6617154094715823947,gpcid:4073249982464434695,mid:576462875916306767,pvt:a&hl=sv&gl=se&udm=28",
-      "brand": "J.Lindeberg",
-      "retailer": "Zalando",
-      "name": "Peach Tights Align Tights Dam",
-      "price": 389,
-      "original": 649,
-      "discount": 40,
-      "url": "https://www.google.com/search?ibp=oshop&q=J.Lindeberg herr rea Zalando&prds=catalogid:6772287453699565770,productid:10910011018127520439,headlineOfferDocid:2791682470134733656,imageDocid:6617154094715823947,gpcid:4073249982464434695,mid:576462875916306767,pvt:a&hl=sv&gl=se&udm=28",
-      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRMwLL7aRJjWjMBcEqjQJUDUgdafF-JMyS-Y57rHB6B9kbSFsl1jTJY4w-NbJrfj-Fpl_YGUomY22kQKFf9bEnNpN0KsupSDZV3rW-VHNvE0_B24UkNrcBV",
-      "checkedAt": "2026-11-27T16:51:35.093Z",
-      "lowestObserved": 389,
-      "firstObserved": "2026-11-27T16:51:43.319Z"
-    },
-    {
-      "id": "https://www.google.com/search?ibp=oshop&q=J.Lindeberg herr rea Zalando&prds=catalogid:5867158972140370148,productid:7485047744718912721,headlineOfferDocid:13657129389744053809,imageDocid:15180007561467538676,gpcid:392629158188677505,mid:576462549176301627,pvt:a&hl=sv&gl=se&udm=28",
-      "brand": "J.Lindeberg",
-      "retailer": "Zalando",
-      "name": "Peach Tights Aura Sport-BH Dam",
-      "price": 257,
-      "original": 429,
-      "discount": 40,
-      "url": "https://www.google.com/search?ibp=oshop&q=J.Lindeberg herr rea Zalando&prds=catalogid:5867158972140370148,productid:7485047744718912721,headlineOfferDocid:13657129389744053809,imageDocid:15180007561467538676,gpcid:392629158188677505,mid:576462549176301627,pvt:a&hl=sv&gl=se&udm=28",
-      "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR2PXZhideJzYkp6tQXCUPsEm64SC-h7v3PPAATX0qVBaBDAdMj-0-gLhK_TaR67yguS3VwdudJ69AZ4tU12wC_SUIWrd4B-flXXOrqyuIL847qD6aogSfZ8g",
-      "checkedAt": "2026-11-27T16:51:35.093Z",
-      "lowestObserved": 257,
-      "firstObserved": "2026-11-27T16:51:43.319Z"
-    },
-    {
-      "id": "https://www.google.com/search?ibp=oshop&q=J.Lindeberg herr rea Zalando&prds=catalogid:12818976122226287011,productid:7696738389395035208,headlineOfferDocid:11377834706816040008,imageDocid:6634744038523269672,rds:PC_10210947737543391939|PROD_PC_10210947737543391939,gpcid:10210947737543391939,mid:576462503228136076,pvt:a&hl=sv&gl=se&udm=28",
-      "brand": "J.Lindeberg",
-      "retailer": "Zalando",
-      "name": "Casall Soft Touch High Waist Tights",
-      "price": 599,
-      "original": 999,
-      "discount": 40,
-      "url": "https://www.google.com/search?ibp=oshop&q=J.Lindeberg herr rea Zalando&prds=catalogid:12818976122226287011,productid:7696738389395035208,headlineOfferDocid:11377834706816040008,imageDocid:6634744038523269672,rds:PC_10210947737543391939|PROD_PC_10210947737543391939,gpcid:10210947737543391939,mid:576462503228136076,pvt:a&hl=sv&gl=se&udm=28",
-      "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQpuIZJheIzC4QUrHQSewbTOLNkMfYKHdyuRZcDClwMRc_zHPbc3GUfsq0WBiXVn0IfvRMyRpNL7EbkTHGADKoT0xqcL8EaQYRuKPaOZwfjS75sp7Db2rQk",
-      "checkedAt": "2026-11-27T16:51:35.093Z",
-      "lowestObserved": 599,
-      "firstObserved": "2026-11-27T16:51:43.319Z"
-    },
-    {
-      "id": "https://www.google.com/search?ibp=oshop&q=J.Lindeberg herr rea Boozt&prds=catalogid:6474661371543429508,productid:1539683674062983039,headlineOfferDocid:5357506530015427123,imageDocid:6454874617557538303,rds:PC_8286848601965960200|PROD_PC_8286848601965960200,gpcid:8286848601965960200,mid:576462913759659924,pvt:a&hl=sv&gl=se&udm=28",
-      "brand": "J.Lindeberg",
-      "retailer": "Boozt",
-      "name": "Men J Lindeberg Bridge Golf Sneaker",
-      "price": 960,
-      "original": 1600,
-      "discount": 40,
-      "url": "https://www.google.com/search?ibp=oshop&q=J.Lindeberg herr rea Boozt&prds=catalogid:6474661371543429508,productid:1539683674062983039,headlineOfferDocid:5357506530015427123,imageDocid:6454874617557538303,rds:PC_8286848601965960200|PROD_PC_8286848601965960200,gpcid:8286848601965960200,mid:576462913759659924,pvt:a&hl=sv&gl=se&udm=28",
-      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTBS59Cfc448bOVsDvd2LJDUmFt-ptkmtAEsuA4S1s9sSb0bF1k0lhUe3iXEmeKG040lHnEWUH-KWq5UwQz_h6ksgdY1XpK_9E9mAmSHrjL-L8Oo1E8Bq-0LtM",
-      "checkedAt": "2026-11-27T16:51:36.693Z",
-      "lowestObserved": 960,
-      "firstObserved": "2026-11-27T16:51:43.319Z"
-    },
-    {
-      "id": "https://www.google.com/search?ibp=oshop&q=Samsøe Samsøe herr rea Zalando&prds=catalogid:5563144008443402158,productid:1250403432304582397,headlineOfferDocid:2204879597599221319,imageDocid:12040614346896414925,rds:PC_6969495066304917046|PROD_PC_6969495066304917046,gpcid:6969495066304917046,mid:576462898024138067,pvt:a&hl=sv&gl=se&udm=28",
-      "brand": "Samsøe Samsøe",
-      "retailer": "Zalando",
-      "name": "Samsøe Samsøe Sajoel T-shirt Herr 15489",
-      "price": 573.3,
-      "original": 915,
-      "discount": 37,
-      "url": "https://www.google.com/search?ibp=oshop&q=Samsøe Samsøe herr rea Zalando&prds=catalogid:5563144008443402158,productid:1250403432304582397,headlineOfferDocid:2204879597599221319,imageDocid:12040614346896414925,rds:PC_6969495066304917046|PROD_PC_6969495066304917046,gpcid:6969495066304917046,mid:576462898024138067,pvt:a&hl=sv&gl=se&udm=28",
-      "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR_0eQZcwvb5t-1M6IEywEj3L0y2z_jpg1bpbL79sBTqTgXxI4edfhkoQA6GN_45_2Vv477vjl_ChbiEdF-9QzJJ5-lshJfXrKgJC265kZMY2EmvrISexp8Mw",
-      "checkedAt": "2026-11-27T16:51:42.177Z",
-      "lowestObserved": 573.3,
-      "firstObserved": "2026-11-27T16:51:43.319Z"
+      "firstObserved": "2026-11-28T15:42:47.633Z"
     },
     {
       "id": "https://www.google.com/search?ibp=oshop&q=J.Lindeberg herr rea Zalando&prds=productid:11726860181634598414,headlineOfferDocid:11726860181634598414,imageDocid:7378039712273209833,rds:LO_11726860181634598414|PROD_LO_11726860181634598414,pvt:a&hl=sv&gl=se&udm=28",
@@ -142,93 +268,107 @@
       "discount": 35,
       "url": "https://www.google.com/search?ibp=oshop&q=J.Lindeberg herr rea Zalando&prds=productid:11726860181634598414,headlineOfferDocid:11726860181634598414,imageDocid:7378039712273209833,rds:LO_11726860181634598414|PROD_LO_11726860181634598414,pvt:a&hl=sv&gl=se&udm=28",
       "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcS1yxSpY_uLt5fmeBeFPbU00HIKQHa8lB0T0ryHClNL4MImDKuXsxOOyk-CRK7KHvlHGBH_rxWRwlSDaAAqUlittITfUjgmbvY3YA11Vpq25xR4yrra1qkr",
-      "checkedAt": "2026-11-27T16:51:35.093Z",
+      "checkedAt": "2026-11-28T15:42:42.989Z",
       "lowestObserved": 129,
       "firstObserved": "2026-11-27T16:51:43.319Z"
     },
     {
-      "id": "https://www.google.com/search?ibp=oshop&q=J.Lindeberg herr rea Zalando&prds=productid:14525913080162529295,headlineOfferDocid:14525913080162529295,imageDocid:7378039712273209833,rds:LO_14525913080162529295|PROD_LO_14525913080162529295,pvt:a&hl=sv&gl=se&udm=28",
-      "brand": "J.Lindeberg",
+      "id": "https://www.google.com/search?ibp=oshop&q=Samsøe Samsøe herr rea Zalando&prds=catalogid:5140857791495345417,productid:10259495662375709601,headlineOfferDocid:2742680684936128391,imageDocid:944078031383969184,gpcid:96772076134121066,mid:576462890359481480,pvt:a&hl=sv&gl=se&udm=28",
+      "brand": "Samsøe Samsøe",
       "retailer": "Zalando",
-      "name": "SOC - Base Tights - Träningstights - Dam - Brun Slate - Stl. Large",
-      "price": 129,
-      "original": 199,
+      "name": "Samsøe Samsøe Sapilou Sneakers Herr",
+      "price": 1557,
+      "original": 2395,
       "discount": 35,
-      "url": "https://www.google.com/search?ibp=oshop&q=J.Lindeberg herr rea Zalando&prds=productid:14525913080162529295,headlineOfferDocid:14525913080162529295,imageDocid:7378039712273209833,rds:LO_14525913080162529295|PROD_LO_14525913080162529295,pvt:a&hl=sv&gl=se&udm=28",
-      "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcS1yxSpY_uLt5fmeBeFPbU00HIKQHa8lB0T0ryHClNL4MImDKuXsxOOyk-CRK7KHvlHGBH_rxWRwlSDaAAqUlittITfUjgmbvY3YA11Vpq25xR4yrra1qkr",
-      "checkedAt": "2026-11-27T16:51:35.093Z",
-      "lowestObserved": 129,
-      "firstObserved": "2026-11-27T16:51:43.319Z"
+      "url": "https://www.google.com/search?ibp=oshop&q=Samsøe Samsøe herr rea Zalando&prds=catalogid:5140857791495345417,productid:10259495662375709601,headlineOfferDocid:2742680684936128391,imageDocid:944078031383969184,gpcid:96772076134121066,mid:576462890359481480,pvt:a&hl=sv&gl=se&udm=28",
+      "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTNz86lH9xzh3OYJvtK1SQXYpTCN8U9GZYAoc7cX8h0aaEROeDY1zn5G9iTBJG77OtAtEfInN3HNPB-5xzuKMdN_xdB3_Wghw8r0sW_UuJ9xYRR3chSY025Rg",
+      "checkedAt": "2026-11-28T15:42:46.554Z",
+      "lowestObserved": 1557,
+      "firstObserved": "2026-11-28T15:42:47.633Z"
     },
     {
-      "id": "https://www.google.com/search?ibp=oshop&q=J.Lindeberg herr rea Boozt&prds=catalogid:242830752613892089,productid:13817976135521350420,headlineOfferDocid:18435677969407104728,imageDocid:12515763580500364280,rds:PC_25475620941723451|PROD_PC_25475620941723451,gpcid:25475620941723451,mid:576462556857596484,pvt:a&hl=sv&gl=se&udm=28",
-      "brand": "J.Lindeberg",
+      "id": "https://www.google.com/search?ibp=oshop&q=Samsøe Samsøe herr rea Zalando&prds=catalogid:2828867699890254340,productid:15475505548083464871,headlineOfferDocid:4008007865634615103,imageDocid:12101947594105566353,gpcid:15467550921346263496,mid:576462555610818352,pvt:a&hl=sv&gl=se&udm=28",
+      "brand": "Samsøe Samsøe",
+      "retailer": "Zalando",
+      "name": "Samsøe Samsøe Papil Sneakers Herr 6724 Sneakers",
+      "price": 1297,
+      "original": 1995,
+      "discount": 35,
+      "url": "https://www.google.com/search?ibp=oshop&q=Samsøe Samsøe herr rea Zalando&prds=catalogid:2828867699890254340,productid:15475505548083464871,headlineOfferDocid:4008007865634615103,imageDocid:12101947594105566353,gpcid:15467550921346263496,mid:576462555610818352,pvt:a&hl=sv&gl=se&udm=28",
+      "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSI3vx_5_Gz3XwB3cWlvTrcjfxKTk8KpLziRkg1lMxb5j65LXE24NJ10SszK5zkmixmDYjMwXx5GsD5jilqNdXhAEPx-cy2if5aa9mBNY0ISZHre9JHCp0J_OM",
+      "checkedAt": "2026-11-28T15:42:46.554Z",
+      "lowestObserved": 1297,
+      "firstObserved": "2026-11-28T15:42:47.633Z"
+    },
+    {
+      "id": "https://www.google.com/search?ibp=oshop&q=Samsøe Samsøe herr rea Zalando&prds=catalogid:9590427910248125619,productid:1119847411522240869,headlineOfferDocid:5373333399077887823,imageDocid:6484859980858548695,gpcid:11098296265928993832,mid:576462893592930062,pvt:a&hl=sv&gl=se&udm=28",
+      "brand": "Samsøe Samsøe",
+      "retailer": "Zalando",
+      "name": "Samsøe Samsøe Sageorgie Desert Slipins silvercoloured fern Herr",
+      "price": 1817,
+      "original": 2795,
+      "discount": 35,
+      "url": "https://www.google.com/search?ibp=oshop&q=Samsøe Samsøe herr rea Zalando&prds=catalogid:9590427910248125619,productid:1119847411522240869,headlineOfferDocid:5373333399077887823,imageDocid:6484859980858548695,gpcid:11098296265928993832,mid:576462893592930062,pvt:a&hl=sv&gl=se&udm=28",
+      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQXls3f1NvZOMFk-cCHIOdgEEPXvOLDQEydnXvajfglygHMcXDjlvAxAV0ezaN_AAe8Mc07hCZrJux1SNRrqkUoprWSIJqVCIO4TignztSvGUdBgnUuDvQbRes",
+      "checkedAt": "2026-11-28T15:42:46.554Z",
+      "lowestObserved": 1817,
+      "firstObserved": "2026-11-28T15:42:47.633Z"
+    },
+    {
+      "id": "https://www.google.com/search?ibp=oshop&q=Acne Studios herr rea Zalando&prds=catalogid:7341785674232676658,productid:15367320292671527098,headlineOfferDocid:13250293526251657035,imageDocid:14837115640859614219,rds:PC_17632591277102828977|PROD_PC_17632591277102828977,gpcid:17632591277102828977,mid:576462568256300061,pvt:a&hl=sv&gl=se&udm=28",
+      "brand": "Acne Studios",
+      "retailer": "Zalando",
+      "name": "Even&Odd by Zalando Maxikjol",
+      "price": 195,
+      "original": 292,
+      "discount": 33,
+      "url": "https://www.google.com/search?ibp=oshop&q=Acne Studios herr rea Zalando&prds=catalogid:7341785674232676658,productid:15367320292671527098,headlineOfferDocid:13250293526251657035,imageDocid:14837115640859614219,rds:PC_17632591277102828977|PROD_PC_17632591277102828977,gpcid:17632591277102828977,mid:576462568256300061,pvt:a&hl=sv&gl=se&udm=28",
+      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTxwtnT3tLibAXCv2m4F3YS1Yj_xKR01L_vgKKqtVTfuAyqpi9IQWiJyLAyR9Vmm9HFcrTHhjiS6RX7W9exq7kJOq_vCYyzL3HguWnqGfqlt0PvUx8FZ7Qzqw",
+      "checkedAt": "2026-11-28T15:42:40.240Z",
+      "lowestObserved": 195,
+      "firstObserved": "2026-11-28T15:42:47.633Z"
+    },
+    {
+      "id": "https://www.google.com/search?ibp=oshop&q=Acne Studios herr rea Boozt&prds=catalogid:7341785674232676658,productid:15367320292671527098,headlineOfferDocid:13250293526251657035,imageDocid:14837115640859614219,rds:PC_17632591277102828977|PROD_PC_17632591277102828977,gpcid:17632591277102828977,mid:576462568256300061,pvt:a&hl=sv&gl=se&udm=28",
+      "brand": "Acne Studios",
+      "retailer": "Zalando",
+      "name": "Even&Odd by Zalando Maxikjol",
+      "price": 195,
+      "original": 292,
+      "discount": 33,
+      "url": "https://www.google.com/search?ibp=oshop&q=Acne Studios herr rea Boozt&prds=catalogid:7341785674232676658,productid:15367320292671527098,headlineOfferDocid:13250293526251657035,imageDocid:14837115640859614219,rds:PC_17632591277102828977|PROD_PC_17632591277102828977,gpcid:17632591277102828977,mid:576462568256300061,pvt:a&hl=sv&gl=se&udm=28",
+      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSS1dXHyi1iILLr4zXhKS57ud3MxSsSEdkUA6iMVYAglMhGGFb_kCTebVdfRdD8wG6oLKxTST-OmXci8NSjq0QSjvbXZrAQ0DIYdVITKrRcWXYplz76Af37MQ",
+      "checkedAt": "2026-11-28T15:42:41.335Z",
+      "lowestObserved": 195,
+      "firstObserved": "2026-11-28T15:42:47.633Z"
+    },
+    {
+      "id": "https://www.google.com/search?ibp=oshop&q=Samsøe Samsøe herr rea Boozt&prds=catalogid:14546619458254948739,productid:5882109326192255310,headlineOfferDocid:11344217255725905535,imageDocid:8680338440594621770,rds:PC_18318459099293233100|PROD_PC_18318459099293233100,gpcid:6971108962539503407,mid:576462918869599874,pvt:a&hl=sv&gl=se&udm=28",
+      "brand": "Samsøe Samsøe",
       "retailer": "Boozt",
-      "name": "J.Lindeberg 30Y Matthew Midlayer Herr",
-      "price": 975,
-      "original": 1500,
-      "discount": 35,
-      "url": "https://www.google.com/search?ibp=oshop&q=J.Lindeberg herr rea Boozt&prds=catalogid:242830752613892089,productid:13817976135521350420,headlineOfferDocid:18435677969407104728,imageDocid:12515763580500364280,rds:PC_25475620941723451|PROD_PC_25475620941723451,gpcid:25475620941723451,mid:576462556857596484,pvt:a&hl=sv&gl=se&udm=28",
-      "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSWUP82TXP3Q6TqAXDlHAFESxoCyCA2GbT26FFlPdAserQk1Wa4vkkADoTT6PZ9xWAHSyOt630GbQZHO3hLgerU8UkesAHEwp8JBmzG1d6lB1IfxrM5Xqts",
-      "checkedAt": "2026-11-27T16:51:36.693Z",
-      "lowestObserved": 975,
-      "firstObserved": "2026-11-26T17:08:38.693Z"
+      "name": "Tiger of Sweden Jela",
+      "price": 199,
+      "original": 299,
+      "discount": 33,
+      "url": "https://www.google.com/search?ibp=oshop&q=Samsøe Samsøe herr rea Boozt&prds=catalogid:14546619458254948739,productid:5882109326192255310,headlineOfferDocid:11344217255725905535,imageDocid:8680338440594621770,rds:PC_18318459099293233100|PROD_PC_18318459099293233100,gpcid:6971108962539503407,mid:576462918869599874,pvt:a&hl=sv&gl=se&udm=28",
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSPZYvrMcvO5-Ue2-2berai2_vOSejrOe8-pkTuzdbFbeFNHR6twooDWXG4fI6xu8otNuFCcoqDtbcc50cIDUmkMON6Aw4NFYYboxtfc09HBp0G0Zczo6DOwg",
+      "checkedAt": "2026-11-28T15:42:47.633Z",
+      "lowestObserved": 199,
+      "firstObserved": "2026-11-28T15:42:47.633Z"
     },
     {
-      "id": "https://www.google.com/search?ibp=oshop&q=Acne Studios herr rea Zalando&prds=catalogid:1041649991005886789,productid:16173560846246786452,headlineOfferDocid:6661581796260450616,imageDocid:17748786623068235174,gpcid:9333510004113641140,pvt:a&hl=sv&gl=se&udm=28",
+      "id": "https://www.google.com/search?ibp=oshop&q=Acne Studios herr rea Zalando&prds=catalogid:1041649991005886789,productid:16173560846246786452,headlineOfferDocid:6661581796260450616,imageDocid:17748786623068235174,gpcid:4248148343631614386,pvt:a&hl=sv&gl=se&udm=28",
       "brand": "Acne Studios",
       "retailer": "Zalando",
       "name": "Knowledge Cotton Apparel Dune Regular Corduroy Shirt Herr",
       "price": 840,
       "original": 1200,
       "discount": 30,
-      "url": "https://www.google.com/search?ibp=oshop&q=Acne Studios herr rea Zalando&prds=catalogid:1041649991005886789,productid:16173560846246786452,headlineOfferDocid:6661581796260450616,imageDocid:17748786623068235174,gpcid:9333510004113641140,pvt:a&hl=sv&gl=se&udm=28",
+      "url": "https://www.google.com/search?ibp=oshop&q=Acne Studios herr rea Zalando&prds=catalogid:1041649991005886789,productid:16173560846246786452,headlineOfferDocid:6661581796260450616,imageDocid:17748786623068235174,gpcid:4248148343631614386,pvt:a&hl=sv&gl=se&udm=28",
       "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTzfojPm-ubK-zzMc0HqZiiB3jq9AQk9rvhbEtm27cakwDcARpJr5Y5zpz8vU_lfP9WxedsCIiA_4Yyb0gMDxLPwdlFS7-gZEfSMBEl4ua1gRZO_4CRhYh4lg",
-      "checkedAt": "2026-11-27T16:51:32.096Z",
+      "checkedAt": "2026-11-28T15:42:40.239Z",
       "lowestObserved": 840,
-      "firstObserved": "2026-11-27T16:51:43.319Z"
-    },
-    {
-      "id": "https://www.google.com/search?ibp=oshop&q=Acne Studios herr rea Zalando&prds=catalogid:5126894356689214663,productid:8307119700594868616,headlineOfferDocid:15437109809536106876,imageDocid:9742567532286811162,rds:PC_17977404540651990920|PROD_PC_17977404540651990920,gpcid:17977404540651990920,mid:576462704037028973,pvt:a&hl=sv&gl=se&udm=28",
-      "brand": "Acne Studios",
-      "retailer": "Zalando",
-      "name": "Bergans Finnsnes Fleece Jacket Herr",
-      "price": 699,
-      "original": 999,
-      "discount": 30,
-      "url": "https://www.google.com/search?ibp=oshop&q=Acne Studios herr rea Zalando&prds=catalogid:5126894356689214663,productid:8307119700594868616,headlineOfferDocid:15437109809536106876,imageDocid:9742567532286811162,rds:PC_17977404540651990920|PROD_PC_17977404540651990920,gpcid:17977404540651990920,mid:576462704037028973,pvt:a&hl=sv&gl=se&udm=28",
-      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSaiEIIh7rc0uw6zJZvTYf60OK1SIvkBk7sjQtq75w8GQO8Gz25idC_2SMwHFBqboxbMRczDIKocnnOY1LpECGQL3QlMWtI1_QY8VU5UvhYQiYijcyE6ShH",
-      "checkedAt": "2026-11-27T16:51:32.096Z",
-      "lowestObserved": 699,
-      "firstObserved": "2026-11-27T16:51:43.319Z"
-    },
-    {
-      "id": "https://www.google.com/search?ibp=oshop&q=J.Lindeberg herr rea Zalando&prds=catalogid:16448539305214153162,productid:4921006507373048287,headlineOfferDocid:363981414036036376,imageDocid:13732792681255772587,rds:PC_18245330592273053301|PROD_PC_18245330592273053301,gpcid:18245330592273053301,mid:576462917242442424,pvt:a&hl=sv&gl=se&udm=28",
-      "brand": "J.Lindeberg",
-      "retailer": "Zalando",
-      "name": "RevolutionRace Vindbyxor Tempo Active Pants",
-      "price": 559,
-      "original": 799,
-      "discount": 30,
-      "url": "https://www.google.com/search?ibp=oshop&q=J.Lindeberg herr rea Zalando&prds=catalogid:16448539305214153162,productid:4921006507373048287,headlineOfferDocid:363981414036036376,imageDocid:13732792681255772587,rds:PC_18245330592273053301|PROD_PC_18245330592273053301,gpcid:18245330592273053301,mid:576462917242442424,pvt:a&hl=sv&gl=se&udm=28",
-      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRFnXL6YgJY7ZZeUhnW_xTvxn5BPvQJzmnbAucCAYtcYzDbwVzoC6hlxKrPcWTa2sUEaEaoRHgx3mr1yVjY8dyAirmPr6r5EKBmztAQt595oo6NWnwMEtTELg",
-      "checkedAt": "2026-11-27T16:51:35.093Z",
-      "lowestObserved": 559,
-      "firstObserved": "2026-11-27T16:51:43.319Z"
-    },
-    {
-      "id": "https://www.google.com/search?ibp=oshop&q=J.Lindeberg herr rea Zalando&prds=catalogid:6685119715435754546,productid:15863330985834614414,headlineOfferDocid:15249270562194470573,imageDocid:2595673516869624378,gpcid:13515711458424750911,mid:576462879585633039,pvt:a&hl=sv&gl=se&udm=28",
-      "brand": "J.Lindeberg",
-      "retailer": "Zalando",
-      "name": "Gavelo Pace Tee",
-      "price": 279,
-      "original": 399,
-      "discount": 30,
-      "url": "https://www.google.com/search?ibp=oshop&q=J.Lindeberg herr rea Zalando&prds=catalogid:6685119715435754546,productid:15863330985834614414,headlineOfferDocid:15249270562194470573,imageDocid:2595673516869624378,gpcid:13515711458424750911,mid:576462879585633039,pvt:a&hl=sv&gl=se&udm=28",
-      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQnho6rjPuYs-V9Fgzp3xfRPA-UQFf3RQ3JQHXhUlJ840mRjDHN-NArim0nmvB9InWYQTJrYcWpvY07w5hFKWQtefE6Q8vtnHhtixFlKdfWEzqacFeRRMQj",
-      "checkedAt": "2026-11-27T16:51:35.093Z",
-      "lowestObserved": 279,
-      "firstObserved": "2026-11-27T16:51:43.319Z"
+      "firstObserved": "2026-11-28T15:42:47.633Z"
     },
     {
       "id": "https://www.google.com/search?ibp=oshop&q=J.Lindeberg herr rea Zalando&prds=catalogid:2503114848740616174,productid:7389225759857664882,headlineOfferDocid:18115073367534318414,imageDocid:16916177629338101440,rds:PC_9377876379328743554|PROD_PC_9377876379328743554,gpcid:9377876379328743554,mid:576462898021028205,pvt:a&hl=sv&gl=se&udm=28",
@@ -240,51 +380,93 @@
       "discount": 30,
       "url": "https://www.google.com/search?ibp=oshop&q=J.Lindeberg herr rea Zalando&prds=catalogid:2503114848740616174,productid:7389225759857664882,headlineOfferDocid:18115073367534318414,imageDocid:16916177629338101440,rds:PC_9377876379328743554|PROD_PC_9377876379328743554,gpcid:9377876379328743554,mid:576462898021028205,pvt:a&hl=sv&gl=se&udm=28",
       "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQNpAygGeugX1z5fQPa4aUM8Cd0JIYnoFKu4ZPfAZEwGTXAk2LyWuMcm04ZcsHtdwSVuU_3Sy2Yi_eBItITwRCHTbeakX8Xd6QYA6wyK4g-mSrwQYIi5JyLFw",
-      "checkedAt": "2026-11-27T16:51:35.093Z",
+      "checkedAt": "2026-11-28T15:42:42.989Z",
       "lowestObserved": 385,
       "firstObserved": "2026-11-27T16:51:43.319Z"
     },
     {
-      "id": "https://www.google.com/search?ibp=oshop&q=J.Lindeberg herr rea Boozt&prds=catalogid:3476420402625894828,productid:10139515722931647832,headlineOfferDocid:9967724481065307726,imageDocid:8351500912817672862,rds:PC_14399070457698920053|PROD_PC_14399070457698920053,gpcid:14399070457698920053,mid:576462876190409089,pvt:a&hl=sv&gl=se&udm=28",
+      "id": "https://www.google.com/search?ibp=oshop&q=J.Lindeberg herr rea Zalando&prds=catalogid:6211145207572836108,productid:15216063453789140426,headlineOfferDocid:6485107295216145860,imageDocid:14429445572448423103,rds:PC_10049617394822724391|PROD_PC_10049617394822724391,gpcid:13135371487650174956,pvt:a&hl=sv&gl=se&udm=28",
+      "brand": "J.Lindeberg",
+      "retailer": "Zalando",
+      "name": "Herr Gorilla Wear Broxton T-shirt",
+      "price": 279,
+      "original": 399,
+      "discount": 30,
+      "url": "https://www.google.com/search?ibp=oshop&q=J.Lindeberg herr rea Zalando&prds=catalogid:6211145207572836108,productid:15216063453789140426,headlineOfferDocid:6485107295216145860,imageDocid:14429445572448423103,rds:PC_10049617394822724391|PROD_PC_10049617394822724391,gpcid:13135371487650174956,pvt:a&hl=sv&gl=se&udm=28",
+      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQ_PmWJUOMDa8OekIeW7HTXZ_YerSLxkfVLlri1HszwuHoT1_knmHXxGrQK3T-R1wwS_ZseCkEgsDmSktFIdODI9OJqS419O8WBFRcW0brDFMFr2jwfT_G5Cw",
+      "checkedAt": "2026-11-28T15:42:42.989Z",
+      "lowestObserved": 279,
+      "firstObserved": "2026-11-28T15:42:47.633Z"
+    },
+    {
+      "id": "https://www.google.com/search?ibp=oshop&q=J.Lindeberg herr rea Zalando&prds=catalogid:3510492306641190622,productid:2329916874851918924,headlineOfferDocid:16864307549422544900,imageDocid:10870847831111857918,rds:PC_8251419794063869521|PROD_PC_8251419794063869521,gpcid:8251419794063869521,mid:576462524665071862,pvt:a&hl=sv&gl=se&udm=28",
+      "brand": "J.Lindeberg",
+      "retailer": "Zalando",
+      "name": "Herr Gorilla Wear Arcata Seamless T-Shirt",
+      "price": 279,
+      "original": 399,
+      "discount": 30,
+      "url": "https://www.google.com/search?ibp=oshop&q=J.Lindeberg herr rea Zalando&prds=catalogid:3510492306641190622,productid:2329916874851918924,headlineOfferDocid:16864307549422544900,imageDocid:10870847831111857918,rds:PC_8251419794063869521|PROD_PC_8251419794063869521,gpcid:8251419794063869521,mid:576462524665071862,pvt:a&hl=sv&gl=se&udm=28",
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSGBk1jMthN_thZIwuDs9aPtn_XFfIxX5j-Ci_1SbONleiLueOhdU8MIjRl1sg_UJCAe9VMb_Ls4VEHWoonmQ5m8bLDXbHkBV0Y63Bsk97LI24kR8fVCA_Kerc",
+      "checkedAt": "2026-11-28T15:42:42.989Z",
+      "lowestObserved": 279,
+      "firstObserved": "2026-11-28T15:42:47.633Z"
+    },
+    {
+      "id": "https://www.google.com/search?ibp=oshop&q=J.Lindeberg herr rea Boozt&prds=catalogid:10153953520108770316,productid:1119202781767537079,headlineOfferDocid:227734585803586802,imageDocid:4791824804004011671,rds:PC_6849344093081301302|PROD_PC_6849344093081301302,gpcid:6849344093081301302,mid:576462882663965440,pvt:a&hl=sv&gl=se&udm=28",
+      "brand": "J.Lindeberg",
+      "retailer": "Boozt",
+      "name": "J.Lindeberg Heyden Quilt Hybrid Hood Herr",
+      "price": 1540,
+      "original": 2200,
+      "discount": 30,
+      "url": "https://www.google.com/search?ibp=oshop&q=J.Lindeberg herr rea Boozt&prds=catalogid:10153953520108770316,productid:1119202781767537079,headlineOfferDocid:227734585803586802,imageDocid:4791824804004011671,rds:PC_6849344093081301302|PROD_PC_6849344093081301302,gpcid:6849344093081301302,mid:576462882663965440,pvt:a&hl=sv&gl=se&udm=28",
+      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTz7ZlYjEsvlNbU8S0bKnYnfGXBQzA_NYszjds5Z26slrZMfOlvoCcyx2TKQgeG8RCp57DoMISNJ-Im94uNpNJAbJAITKosoRiXTc5vivtpYW_Dn1eQtHxr",
+      "checkedAt": "2026-11-28T15:42:44.303Z",
+      "lowestObserved": 1540,
+      "firstObserved": "2026-11-28T15:42:47.633Z"
+    },
+    {
+      "id": "https://www.google.com/search?ibp=oshop&q=J.Lindeberg herr rea Boozt&prds=catalogid:14465040058509154805,productid:8546715361717659870,headlineOfferDocid:6515507018940029273,imageDocid:8351500912817672862,rds:PC_14399070457698920053|PROD_PC_14399070457698920053,gpcid:14399070457698920053,mid:576462876190409089,pvt:a&hl=sv&gl=se&udm=28",
       "brand": "J.Lindeberg",
       "retailer": "Boozt",
       "name": "J.Lindeberg Club Pants Herr",
       "price": 910,
       "original": 1300,
       "discount": 30,
-      "url": "https://www.google.com/search?ibp=oshop&q=J.Lindeberg herr rea Boozt&prds=catalogid:3476420402625894828,productid:10139515722931647832,headlineOfferDocid:9967724481065307726,imageDocid:8351500912817672862,rds:PC_14399070457698920053|PROD_PC_14399070457698920053,gpcid:14399070457698920053,mid:576462876190409089,pvt:a&hl=sv&gl=se&udm=28",
-      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcS9p9wAM5f5kk1A0zosjruKf7anyug0RBHpH64o3HF9L14PG_QcIVv9N2HT9-fOm13P6w51HT-fGdKF6cs3o8ZyEq7C2nxHh877KZfw5aRHvgWc0ae8HMUpDg",
-      "checkedAt": "2026-11-27T16:51:36.693Z",
+      "url": "https://www.google.com/search?ibp=oshop&q=J.Lindeberg herr rea Boozt&prds=catalogid:14465040058509154805,productid:8546715361717659870,headlineOfferDocid:6515507018940029273,imageDocid:8351500912817672862,rds:PC_14399070457698920053|PROD_PC_14399070457698920053,gpcid:14399070457698920053,mid:576462876190409089,pvt:a&hl=sv&gl=se&udm=28",
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTPBX9wGAkU79YrnzywVFAFleOp8V8HXPO1Lo2FD0DXwpssHw6OYzEyL_hWBglhZp3QhLJp3Kx4AB37fJDIxvoBfPwITsonIYTsERMfvaIL3leX-GOTmJqhOg",
+      "checkedAt": "2026-11-28T15:42:44.303Z",
       "lowestObserved": 910,
-      "firstObserved": "2026-11-26T17:08:38.693Z"
+      "firstObserved": "2026-11-28T15:42:47.633Z"
     },
     {
-      "id": "https://www.google.com/search?ibp=oshop&q=J.Lindeberg herr rea Boozt&prds=catalogid:10307290199576015059,productid:17258555409725470940,headlineOfferDocid:714887267863780629,imageDocid:8791193673256716082,gpcid:14159755231128531058,mid:576462896374849929,pvt:a&hl=sv&gl=se&udm=28",
-      "brand": "J.Lindeberg",
-      "retailer": "Boozt",
-      "name": "J Lindeberg Maclean Zip Herr Hood",
-      "price": 1189.3,
-      "original": 1699,
-      "discount": 30,
-      "url": "https://www.google.com/search?ibp=oshop&q=J.Lindeberg herr rea Boozt&prds=catalogid:10307290199576015059,productid:17258555409725470940,headlineOfferDocid:714887267863780629,imageDocid:8791193673256716082,gpcid:14159755231128531058,mid:576462896374849929,pvt:a&hl=sv&gl=se&udm=28",
-      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcR8ml_B11J1CXTUqH5byNifnVYwpzqGqhMppxmr83rvePkZP3GGi6v89D1cMvW3BseU8Z_zYMqk_3bmvlhxrIvKWwOGJE33IWW1hZNDbUp7vNA4VRQmS50D",
-      "checkedAt": "2026-11-27T16:51:36.693Z",
-      "lowestObserved": 1189.3,
-      "firstObserved": "2026-11-27T16:51:43.319Z"
-    },
-    {
-      "id": "https://www.google.com/search?ibp=oshop&q=Samsøe Samsøe herr rea Zalando&prds=productid:11285011716755139175,headlineOfferDocid:11285011716755139175,imageDocid:8862738593600376200,pvt:a&hl=sv&gl=se&udm=28",
+      "id": "https://www.google.com/search?ibp=oshop&q=Samsøe Samsøe herr rea Boozt&prds=catalogid:1041649991005886789,productid:16173560846246786452,headlineOfferDocid:6661581796260450616,imageDocid:17748786623068235174,gpcid:4248148343631614386,pvt:a&hl=sv&gl=se&udm=28",
       "brand": "Samsøe Samsøe",
-      "retailer": "Zalando",
-      "name": "Samsøe Samsøe Trousers Tygbyxor, Herr, Storlek: 44, Beige",
-      "price": 628,
-      "original": 898,
+      "retailer": "Boozt",
+      "name": "Knowledge Cotton Apparel Dune Regular Corduroy Shirt Herr",
+      "price": 840,
+      "original": 1200,
       "discount": 30,
-      "url": "https://www.google.com/search?ibp=oshop&q=Samsøe Samsøe herr rea Zalando&prds=productid:11285011716755139175,headlineOfferDocid:11285011716755139175,imageDocid:8862738593600376200,pvt:a&hl=sv&gl=se&udm=28",
-      "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSYz1lTRG9E-Qd78zKib8lv3oi2WyMFnLngDANo1IqT7kYyNsFdt3r0ErcRlHuDBCDOMxNfo2bG3fxlPHcHA-Fv94rVdcmwcovkarL9Gut5inxQegR2lpFcCQ",
-      "checkedAt": "2026-11-27T16:51:42.177Z",
-      "lowestObserved": 628,
-      "firstObserved": "2026-11-27T16:51:43.319Z"
+      "url": "https://www.google.com/search?ibp=oshop&q=Samsøe Samsøe herr rea Boozt&prds=catalogid:1041649991005886789,productid:16173560846246786452,headlineOfferDocid:6661581796260450616,imageDocid:17748786623068235174,gpcid:4248148343631614386,pvt:a&hl=sv&gl=se&udm=28",
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTzfojPm-ubK-zzMc0HqZiiB3jq9AQk9rvhbEtm27cakwDcARpJr5Y5zpz8vU_lfP9WxedsCIiA_4Yyb0gMDxLPwdlFS7-gZEfSMBEl4ua1gRZO_4CRhYh4lg",
+      "checkedAt": "2026-11-28T15:42:47.633Z",
+      "lowestObserved": 840,
+      "firstObserved": "2026-11-28T15:42:47.633Z"
+    },
+    {
+      "id": "https://www.google.com/search?ibp=oshop&q=Samsøe Samsøe herr rea Boozt&prds=catalogid:13984575121223703294,productid:1822036090839071597,headlineOfferDocid:9314482880976753047,imageDocid:5589217289456985566,gpcid:10403494809826011038,mid:576462881110659087,pvt:a&hl=sv&gl=se&udm=28",
+      "brand": "Samsøe Samsøe",
+      "retailer": "Boozt",
+      "name": "Co'couture tassy SS Blus",
+      "price": 664.3,
+      "original": 949,
+      "discount": 30,
+      "url": "https://www.google.com/search?ibp=oshop&q=Samsøe Samsøe herr rea Boozt&prds=catalogid:13984575121223703294,productid:1822036090839071597,headlineOfferDocid:9314482880976753047,imageDocid:5589217289456985566,gpcid:10403494809826011038,mid:576462881110659087,pvt:a&hl=sv&gl=se&udm=28",
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTXZ3UvZfhx0SUNuHnLm7rUc0azRDbN4cAi-nT4_uq3L1tFDGiATyjNaoooi6daROk6CWSz81id4ApUrjRsSRbaVYZXE_eIezcJZ6WMdBO8zJqxsXVbXc0SBQ",
+      "checkedAt": "2026-11-28T15:42:47.633Z",
+      "lowestObserved": 664.3,
+      "firstObserved": "2026-11-28T15:42:47.633Z"
     },
     {
       "id": "https://www.google.com/search?ibp=oshop&q=Samsøe Samsøe herr rea Zalando&prds=catalogid:1927646286634341212,productid:655680346833383011,headlineOfferDocid:206990179661077945,imageDocid:9086293897358385165,gpcid:21849385332140062,mid:576462894469799190,pvt:a&hl=sv&gl=se&udm=28",
@@ -296,37 +478,93 @@
       "discount": 29,
       "url": "https://www.google.com/search?ibp=oshop&q=Samsøe Samsøe herr rea Zalando&prds=catalogid:1927646286634341212,productid:655680346833383011,headlineOfferDocid:206990179661077945,imageDocid:9086293897358385165,gpcid:21849385332140062,mid:576462894469799190,pvt:a&hl=sv&gl=se&udm=28",
       "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTCCk4eifv7f2BFgBRBpLDlvH_N3LwvAp1bPzlBVfAk7GVhw0bHQPoJgSzP9rlg7fVoGflhgB_tA9yCn_TNWKCbzQ8jssCQ-iFxivQJeqifCoGawzr9Ygs0",
-      "checkedAt": "2026-11-27T16:51:42.177Z",
+      "checkedAt": "2026-11-28T15:42:46.554Z",
       "lowestObserved": 3048,
       "firstObserved": "2026-11-27T16:51:43.319Z"
     },
     {
-      "id": "https://www.google.com/search?ibp=oshop&q=J.Lindeberg herr rea Zalando&prds=catalogid:4449751877805972368,productid:10318345957416402938,headlineOfferDocid:17018978092106482620,imageDocid:5418702972618674873,rds:PC_9576226411046050516|PROD_PC_9576226411046050516,gpcid:9576226411046050516,mid:576462916823860698,pvt:a&hl=sv&gl=se&udm=28",
-      "brand": "J.Lindeberg",
+      "id": "https://www.google.com/search?ibp=oshop&q=Acne Studios herr rea Zalando&prds=catalogid:10333633578094137787,productid:8126610647329849261,headlineOfferDocid:6661296794079624736,imageDocid:15422490353172903855,rds:PC_8881306088115887141|PROD_PC_8881306088115887141,gpcid:8881306088115887141,mid:576462917475564294,pvt:a&hl=sv&gl=se&udm=28",
+      "brand": "Acne Studios",
       "retailer": "Zalando",
-      "name": "Björn Borg Borg Sports T-Shirt",
-      "price": 246.75,
-      "original": 329,
+      "name": "Herr Denim Factory Henley Shirt",
+      "price": 149.25,
+      "original": 199,
       "discount": 25,
-      "url": "https://www.google.com/search?ibp=oshop&q=J.Lindeberg herr rea Zalando&prds=catalogid:4449751877805972368,productid:10318345957416402938,headlineOfferDocid:17018978092106482620,imageDocid:5418702972618674873,rds:PC_9576226411046050516|PROD_PC_9576226411046050516,gpcid:9576226411046050516,mid:576462916823860698,pvt:a&hl=sv&gl=se&udm=28",
-      "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcS9kSTw4byvK3I58pZ6K6C96j4rs39SH790vs4WWxDL3MQx20PCq9OdpW1ryjvuYpaW0ZeLt6SPKEiomjXa2ZPyj80gpVS9R1bKE04s7QOUcpshYehcGQVf4w",
-      "checkedAt": "2026-11-27T16:51:35.093Z",
-      "lowestObserved": 246.75,
-      "firstObserved": "2026-11-27T16:51:43.319Z"
+      "url": "https://www.google.com/search?ibp=oshop&q=Acne Studios herr rea Zalando&prds=catalogid:10333633578094137787,productid:8126610647329849261,headlineOfferDocid:6661296794079624736,imageDocid:15422490353172903855,rds:PC_8881306088115887141|PROD_PC_8881306088115887141,gpcid:8881306088115887141,mid:576462917475564294,pvt:a&hl=sv&gl=se&udm=28",
+      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTBQzpJhxlKR6HDBKWvMxxwDPK9QN7eDFc7P9g0gOm-dKZV8as-lPuILIr_20IfS9-LvohoPl9W5Z8S4RoWt_CNDYRvedQJ-jxuStxN-_l97m9e5IzWTo9Z",
+      "checkedAt": "2026-11-28T15:42:40.240Z",
+      "lowestObserved": 149.25,
+      "firstObserved": "2026-11-28T15:42:47.633Z"
     },
     {
-      "id": "https://www.google.com/search?ibp=oshop&q=J.Lindeberg herr rea Zalando&prds=catalogid:14064503588571833713,productid:2286747993394732932,headlineOfferDocid:14050677531084952751,imageDocid:1365229190965509388,rds:PC_122958909359945191|PROD_PC_122958909359945191,gpcid:122958909359945191,mid:576462913479053088,pvt:a&hl=sv&gl=se&udm=28",
+      "id": "https://www.google.com/search?ibp=oshop&q=Acne Studios herr rea Zalando&prds=catalogid:2689538615432506569,productid:5924033485911551505,headlineOfferDocid:10440136775457948750,imageDocid:14445940309681293706,gpcid:3994153955662404654,mid:576462916510606808,pvt:a&hl=sv&gl=se&udm=28",
+      "brand": "Acne Studios",
+      "retailer": "Zalando",
+      "name": "Zizzi Plus Size Löst stickad tröja med framträdande sömmar",
+      "price": 412.46,
+      "original": 550,
+      "discount": 25,
+      "url": "https://www.google.com/search?ibp=oshop&q=Acne Studios herr rea Zalando&prds=catalogid:2689538615432506569,productid:5924033485911551505,headlineOfferDocid:10440136775457948750,imageDocid:14445940309681293706,gpcid:3994153955662404654,mid:576462916510606808,pvt:a&hl=sv&gl=se&udm=28",
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcS5ueUz4s-OcnIG8GNo6VBMTAa8_yBtg5HgJ263ndzqSNO3P7mehHO83T6D2YRVc4qXsZriO3SE-ucrOthhDSPs2rMnmDSAPjS7DfUwXil2mfm8oT2dgsO6",
+      "checkedAt": "2026-11-28T15:42:40.240Z",
+      "lowestObserved": 412.46,
+      "firstObserved": "2026-11-28T15:42:47.633Z"
+    },
+    {
+      "id": "https://www.google.com/search?ibp=oshop&q=Acne Studios herr rea Boozt&prds=catalogid:10333633578094137787,productid:8126610647329849261,headlineOfferDocid:6661296794079624736,imageDocid:15422490353172903855,rds:PC_8881306088115887141|PROD_PC_8881306088115887141,gpcid:8881306088115887141,mid:576462917475564294,pvt:a&hl=sv&gl=se&udm=28",
+      "brand": "Acne Studios",
+      "retailer": "Boozt",
+      "name": "Herr Denim Factory Henley Shirt",
+      "price": 149.25,
+      "original": 199,
+      "discount": 25,
+      "url": "https://www.google.com/search?ibp=oshop&q=Acne Studios herr rea Boozt&prds=catalogid:10333633578094137787,productid:8126610647329849261,headlineOfferDocid:6661296794079624736,imageDocid:15422490353172903855,rds:PC_8881306088115887141|PROD_PC_8881306088115887141,gpcid:8881306088115887141,mid:576462917475564294,pvt:a&hl=sv&gl=se&udm=28",
+      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQw_Vb-NGyw6gRiUz6hW_drAygULgOd-2W2jmtO-wB4Tls5qslc-L7CI4xs3okfQwbJAsyBUDSEDzMp-JHVPloZQlhUwPKOnJrBNo7L3LvKLQlUJNjLTEcS",
+      "checkedAt": "2026-11-28T15:42:41.335Z",
+      "lowestObserved": 149.25,
+      "firstObserved": "2026-11-28T15:42:47.633Z"
+    },
+    {
+      "id": "https://www.google.com/search?ibp=oshop&q=J.Lindeberg herr rea Zalando&prds=productid:2049237910793510310,headlineOfferDocid:2049237910793510310,imageDocid:3820852156561596666,pvt:a&hl=sv&gl=se&udm=28",
       "brand": "J.Lindeberg",
       "retailer": "Zalando",
-      "name": "CLN Athletics Fuse v3 tights",
-      "price": 524,
-      "original": 699,
+      "name": "SOC - Base Shorts - Träningsshorts - Herr - Blå Slate - Stl. Small",
+      "price": 149.25,
+      "original": 199,
       "discount": 25,
-      "url": "https://www.google.com/search?ibp=oshop&q=J.Lindeberg herr rea Zalando&prds=catalogid:14064503588571833713,productid:2286747993394732932,headlineOfferDocid:14050677531084952751,imageDocid:1365229190965509388,rds:PC_122958909359945191|PROD_PC_122958909359945191,gpcid:122958909359945191,mid:576462913479053088,pvt:a&hl=sv&gl=se&udm=28",
-      "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTkxNAzyh2XdbLDeaE_Py1U_xyEFHAtxgOyoDN5Lt70lBHHZx81jCGOkyylO_1_w15JuczyBt5KtgxKtQ-xmuucr8z_pu75iewd-9E7-Q9oJNa8oqyHNVqk",
-      "checkedAt": "2026-11-27T16:51:35.093Z",
-      "lowestObserved": 524,
-      "firstObserved": "2026-11-27T16:51:43.319Z"
+      "url": "https://www.google.com/search?ibp=oshop&q=J.Lindeberg herr rea Zalando&prds=productid:2049237910793510310,headlineOfferDocid:2049237910793510310,imageDocid:3820852156561596666,pvt:a&hl=sv&gl=se&udm=28",
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRnoPS0nd9_2dtM2Oao_sbJYi3P67QKItMVgHVSnSUDGqKn2SBpHOufIh9lOMONp5AT_-9kjAbNMUschoKu6sGLgC7a7j4FeKPLCtCGuW7mxEuu_PdtTYz9zg",
+      "checkedAt": "2026-11-28T15:42:42.989Z",
+      "lowestObserved": 149.25,
+      "firstObserved": "2026-11-28T15:42:47.633Z"
+    },
+    {
+      "id": "https://www.google.com/search?ibp=oshop&q=J.Lindeberg herr rea Zalando&prds=catalogid:1761781824663118472,productid:8609646955530549219,headlineOfferDocid:8991816629581649338,imageDocid:225762808272416906,rds:PC_10825448966223155021|PROD_PC_10825448966223155021,gpcid:10825448966223155021,mid:576462835833321823,pvt:a&hl=sv&gl=se&udm=28",
+      "brand": "J.Lindeberg",
+      "retailer": "Zalando",
+      "name": "män Nike Pro Training",
+      "price": 336.75,
+      "original": 449,
+      "discount": 25,
+      "url": "https://www.google.com/search?ibp=oshop&q=J.Lindeberg herr rea Zalando&prds=catalogid:1761781824663118472,productid:8609646955530549219,headlineOfferDocid:8991816629581649338,imageDocid:225762808272416906,rds:PC_10825448966223155021|PROD_PC_10825448966223155021,gpcid:10825448966223155021,mid:576462835833321823,pvt:a&hl=sv&gl=se&udm=28",
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTPGEHvKzxLMQ7VfNHGwmGpUtjhaeqW_UXe8PztDiDdyMVHfFyXnILEQBsFC60EpKDujAypk86oVkV1ZyOt-e4d4hg1dq0fpRfbn5r0kd8yIKvUnmh0PVnA",
+      "checkedAt": "2026-11-28T15:42:42.989Z",
+      "lowestObserved": 336.75,
+      "firstObserved": "2026-11-28T15:42:47.633Z"
+    },
+    {
+      "id": "https://www.google.com/search?ibp=oshop&q=J.Lindeberg herr rea Zalando&prds=catalogid:12853261946380866419,productid:14643855154269818103,headlineOfferDocid:12854385116286040703,imageDocid:17282936555320093531,gpcid:16417110095793332602,mid:576462914515153487,pvt:a&hl=sv&gl=se&udm=28",
+      "brand": "J.Lindeberg",
+      "retailer": "Zalando",
+      "name": "Herr Icaniwill Everyday Oversized T-Shirt Print M",
+      "price": 374.25,
+      "original": 499,
+      "discount": 25,
+      "url": "https://www.google.com/search?ibp=oshop&q=J.Lindeberg herr rea Zalando&prds=catalogid:12853261946380866419,productid:14643855154269818103,headlineOfferDocid:12854385116286040703,imageDocid:17282936555320093531,gpcid:16417110095793332602,mid:576462914515153487,pvt:a&hl=sv&gl=se&udm=28",
+      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQHjCcpgsyktD_zW-JP6QugGbabm7FMu7fm0oN2GFt1u9vJyQIcR0alGkKNT4MnC3uVT1rt7p-z2LKjiny7wFBpbCw4Fam67KQCo6_nOr0ey-1M7hNE8JFYOg",
+      "checkedAt": "2026-11-28T15:42:42.989Z",
+      "lowestObserved": 374.25,
+      "firstObserved": "2026-11-28T15:42:47.633Z"
     },
     {
       "id": "https://www.google.com/search?ibp=oshop&q=J.Lindeberg herr rea Zalando&prds=catalogid:2745509298166574566,productid:16341873660896370185,headlineOfferDocid:9402733283323471726,imageDocid:3647049120575289153,rds:PC_9157657105208804428|PROD_PC_9157657105208804428,gpcid:9157657105208804428,mid:576462848399930113,pvt:a&hl=sv&gl=se&udm=28",
@@ -338,9 +576,23 @@
       "discount": 25,
       "url": "https://www.google.com/search?ibp=oshop&q=J.Lindeberg herr rea Zalando&prds=catalogid:2745509298166574566,productid:16341873660896370185,headlineOfferDocid:9402733283323471726,imageDocid:3647049120575289153,rds:PC_9157657105208804428|PROD_PC_9157657105208804428,gpcid:9157657105208804428,mid:576462848399930113,pvt:a&hl=sv&gl=se&udm=28",
       "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcS4eG7bPaGh9OMeEFg_ZNEz4PkJVzqp75YDXc9sS4JgNatrRIiOI3sD9K8pchoeZLFhg6mO-esyAPPi5wO3cVn35ZrrIR7vyjbvo4Oa16QYM8wfioxHwNGXFg",
-      "checkedAt": "2026-11-27T16:51:35.093Z",
+      "checkedAt": "2026-11-28T15:42:42.989Z",
       "lowestObserved": 299.25,
       "firstObserved": "2026-11-27T16:51:43.319Z"
+    },
+    {
+      "id": "https://www.google.com/search?ibp=oshop&q=J.Lindeberg herr rea Zalando&prds=catalogid:3110282421905954182,productid:15031319809778461105,headlineOfferDocid:792716875618718805,imageDocid:7394189611720661541,rds:PC_15233581324859710052|PROD_PC_15233581324859710052,gpcid:15233581324859710052,mid:576462770065305559,pvt:a&hl=sv&gl=se&udm=28",
+      "brand": "J.Lindeberg",
+      "retailer": "Zalando",
+      "name": "Ellos STUDIO Träningsbyxor Loose Pants Soft",
+      "price": 374,
+      "original": 499,
+      "discount": 25,
+      "url": "https://www.google.com/search?ibp=oshop&q=J.Lindeberg herr rea Zalando&prds=catalogid:3110282421905954182,productid:15031319809778461105,headlineOfferDocid:792716875618718805,imageDocid:7394189611720661541,rds:PC_15233581324859710052|PROD_PC_15233581324859710052,gpcid:15233581324859710052,mid:576462770065305559,pvt:a&hl=sv&gl=se&udm=28",
+      "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRFhTk2m4HCDysT7NOl7x5dSny5pMc6wTgMX_9-K9bFyzA5ZlrMuh-iSfvmSOMP9fRvgGC2MWIo4XjobxLXWigcj993oHW79oTmc08lVenAdVrOHy_AffLDSw",
+      "checkedAt": "2026-11-28T15:42:42.989Z",
+      "lowestObserved": 374,
+      "firstObserved": "2026-11-28T15:42:47.633Z"
     },
     {
       "id": "https://www.google.com/search?ibp=oshop&q=J.Lindeberg herr rea Boozt&prds=catalogid:12871801119853874593,productid:1336185550660153682,headlineOfferDocid:7158208918158944771,imageDocid:17313644916412798045,gpcid:10021416872128384580,mid:576462916873398218,pvt:a&hl=sv&gl=se&udm=28",
@@ -352,79 +604,121 @@
       "discount": 25,
       "url": "https://www.google.com/search?ibp=oshop&q=J.Lindeberg herr rea Boozt&prds=catalogid:12871801119853874593,productid:1336185550660153682,headlineOfferDocid:7158208918158944771,imageDocid:17313644916412798045,gpcid:10021416872128384580,mid:576462916873398218,pvt:a&hl=sv&gl=se&udm=28",
       "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQDh_NMOqcl11sOvzB5Slh6_9x0BWkJlIR87lngUap7X4mJxWWZSmJU8DXvByA9h1iG1VsQZopwQ-6pUTJ6Dk8jE9ECIMxzMoxGuVBBh5zdd8fvq-XBtRKIJQ",
-      "checkedAt": "2026-11-27T16:51:36.693Z",
+      "checkedAt": "2026-11-28T15:42:44.303Z",
       "lowestObserved": 3375,
       "firstObserved": "2026-11-26T17:08:38.693Z"
     },
     {
-      "id": "https://www.google.com/search?ibp=oshop&q=J.Lindeberg herr rea Boozt&prds=catalogid:4984960056351362757,productid:10032331846648724636,headlineOfferDocid:18289681592568274056,imageDocid:5084778158927643560,gpcid:14004832814584328027,mid:576462915364769881,pvt:a&hl=sv&gl=se&udm=28",
+      "id": "https://www.google.com/search?ibp=oshop&q=J.Lindeberg herr rea Boozt&prds=catalogid:4443139925299818849,productid:6512933349678538060,headlineOfferDocid:12098536394083395945,imageDocid:5030321213983676495,gpcid:8172093763904764547,mid:576462894545927264,pvt:a&hl=sv&gl=se&udm=28",
       "brand": "J.Lindeberg",
       "retailer": "Boozt",
-      "name": "Herr J Lindeberg Carrington Jacket",
-      "price": 3749.25,
-      "original": 5000,
-      "discount": 25,
-      "url": "https://www.google.com/search?ibp=oshop&q=J.Lindeberg herr rea Boozt&prds=catalogid:4984960056351362757,productid:10032331846648724636,headlineOfferDocid:18289681592568274056,imageDocid:5084778158927643560,gpcid:14004832814584328027,mid:576462915364769881,pvt:a&hl=sv&gl=se&udm=28",
-      "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTtKvFXI9azsyCOt5ESRtUgvXvSdXp0hzfpM7GjJ54_WoTzynlIZp_Ur_JOeDsrXxNbQtHzDLYfLO5M4LkbC7-HqGnaEimhWZjqBNfVTiuxc3Pm7OLx2Kcd",
-      "checkedAt": "2026-11-27T16:51:36.693Z",
-      "lowestObserved": 3749.25,
-      "firstObserved": "2026-11-27T16:51:43.319Z"
-    },
-    {
-      "id": "https://www.google.com/search?ibp=oshop&q=J.Lindeberg herr rea Boozt&prds=catalogid:6035638499552454905,productid:7611344766908583681,headlineOfferDocid:11583926019830571773,imageDocid:6028744107833819510,rds:PC_12892828167602829432|PROD_PC_12892828167602829432,gpcid:12892828167602829432,mid:576462879836480298,pvt:a&hl=sv&gl=se&udm=28",
-      "brand": "J.Lindeberg",
-      "retailer": "Boozt",
-      "name": "J Lindeberg Herr Bo Polo",
-      "price": 449.25,
-      "original": 599,
-      "discount": 25,
-      "url": "https://www.google.com/search?ibp=oshop&q=J.Lindeberg herr rea Boozt&prds=catalogid:6035638499552454905,productid:7611344766908583681,headlineOfferDocid:11583926019830571773,imageDocid:6028744107833819510,rds:PC_12892828167602829432|PROD_PC_12892828167602829432,gpcid:12892828167602829432,mid:576462879836480298,pvt:a&hl=sv&gl=se&udm=28",
-      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTm_CU6dyJMU8UnOy156kxZ9OyjnIA0h1RNawYjqQ0SJ1kiaOkg3owCqCf7YA-7ZDgqh35O-YdUoveIOYNCAE-GgTvkOsCacFUWJgemYGnGZ1998MObpFCKWw",
-      "checkedAt": "2026-11-27T16:51:36.693Z",
-      "lowestObserved": 449.25,
-      "firstObserved": "2026-11-26T17:08:38.693Z"
-    },
-    {
-      "id": "https://www.google.com/search?ibp=oshop&q=Samsøe Samsøe herr rea Zalando&prds=catalogid:8120990605650310459,productid:9719977659380359571,headlineOfferDocid:17816869864815188970,imageDocid:7883256145967623749,gpcid:11514209723696762800,mid:576462543438919374,pvt:a&hl=sv&gl=se&udm=28",
-      "brand": "Samsøe Samsøe",
-      "retailer": "Zalando",
-      "name": "Herr Samsøe Samsøe Savalentin Trousers 16068",
-      "price": 898,
-      "original": 1167,
-      "discount": 23,
-      "url": "https://www.google.com/search?ibp=oshop&q=Samsøe Samsøe herr rea Zalando&prds=catalogid:8120990605650310459,productid:9719977659380359571,headlineOfferDocid:17816869864815188970,imageDocid:7883256145967623749,gpcid:11514209723696762800,mid:576462543438919374,pvt:a&hl=sv&gl=se&udm=28",
-      "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTEiEx0P1NmxuQ3E9LSl6SOWIdBafQA9ufxzgYV_qbOAVAmcTlnOG1fNd713FF0dl2zlhVjwJ6P-Zy2SJwP5aLgd-8YsYhy_p-zznK9rEvTYSjYgqQCpj0M",
-      "checkedAt": "2026-11-27T16:51:42.177Z",
-      "lowestObserved": 898,
-      "firstObserved": "2026-11-27T16:51:43.319Z"
-    },
-    {
-      "id": "https://www.google.com/search?ibp=oshop&q=J.Lindeberg herr rea Boozt&prds=catalogid:8162798477587203586,productid:13838540994454592965,headlineOfferDocid:9730682499654485265,imageDocid:411429674217224132,gpcid:15670972260201804674,mid:576462566251484358,pvt:a&hl=sv&gl=se&udm=28",
-      "brand": "J.Lindeberg",
-      "retailer": "Boozt",
-      "name": "Men J.Lindeberg Maclean Quarter Zip Mid Layer",
+      "name": "Herr J Lindeberg Bexter Track Jacket",
       "price": 1162.2,
       "original": 1490,
       "discount": 22,
-      "url": "https://www.google.com/search?ibp=oshop&q=J.Lindeberg herr rea Boozt&prds=catalogid:8162798477587203586,productid:13838540994454592965,headlineOfferDocid:9730682499654485265,imageDocid:411429674217224132,gpcid:15670972260201804674,mid:576462566251484358,pvt:a&hl=sv&gl=se&udm=28",
-      "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQ3xlQnW_MsZe7WjsjViMYMxwZu6C2y3VDzArTa-P1bTn2ev_682tYWeeMzg6Y6EMftZSHVf96BnR2v_fHxEjObD4djS6aecSk9UmGSFvGSFhdEQuuQ6fVlTw",
-      "checkedAt": "2026-11-27T16:51:36.693Z",
+      "url": "https://www.google.com/search?ibp=oshop&q=J.Lindeberg herr rea Boozt&prds=catalogid:4443139925299818849,productid:6512933349678538060,headlineOfferDocid:12098536394083395945,imageDocid:5030321213983676495,gpcid:8172093763904764547,mid:576462894545927264,pvt:a&hl=sv&gl=se&udm=28",
+      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQlc0hbmxvP0Q7pm4xrXBUnGldVxvp1amsGl-c-NFo4yIzIMSKnxsfBgj1Yp4N8YIMPH5Kg3i02lfbKuGHkRAur-qnF-wNRL1hbZEshgogxwMl4ek5zXeZY4w",
+      "checkedAt": "2026-11-28T15:42:44.303Z",
       "lowestObserved": 1162.2,
-      "firstObserved": "2026-11-27T16:51:43.319Z"
+      "firstObserved": "2026-11-28T15:42:47.633Z"
     },
     {
-      "id": "https://www.google.com/search?ibp=oshop&q=Acne Studios herr rea Zalando&prds=catalogid:2562337017729463656,productid:5988447261328398772,headlineOfferDocid:13248102923957823877,imageDocid:4043695391322027066,gpcid:18121648332814011683,mid:576462898022172566,pvt:a&hl=sv&gl=se&udm=28",
+      "id": "https://www.google.com/search?ibp=oshop&q=J.Lindeberg herr rea Boozt&prds=catalogid:15665918649627198608,productid:14352360833656591902,headlineOfferDocid:5343289496730361297,imageDocid:17902617624689526121,rds:PC_11914159252343157199|PROD_PC_11914159252343157199,gpcid:7225735964676556052,mid:576462917393097171,pvt:a&hl=sv&gl=se&udm=28",
+      "brand": "J.Lindeberg",
+      "retailer": "Boozt",
+      "name": "J.Lindeberg Jarvis Mid Layer Herr",
+      "price": 1084.2,
+      "original": 1390,
+      "discount": 22,
+      "url": "https://www.google.com/search?ibp=oshop&q=J.Lindeberg herr rea Boozt&prds=catalogid:15665918649627198608,productid:14352360833656591902,headlineOfferDocid:5343289496730361297,imageDocid:17902617624689526121,rds:PC_11914159252343157199|PROD_PC_11914159252343157199,gpcid:7225735964676556052,mid:576462917393097171,pvt:a&hl=sv&gl=se&udm=28",
+      "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR3c3vfaprRMrox9VT4R1wVDRoqUs0H33edBb6LFF-sYaNeDCb0__ALoyZv5P543SA4SXEH6kB8k9OXFp1EMsKjpaihTMlgA9nYpr17dtV5djyDulh8VH0Lmw",
+      "checkedAt": "2026-11-28T15:42:44.303Z",
+      "lowestObserved": 1084.2,
+      "firstObserved": "2026-11-28T15:42:47.633Z"
+    },
+    {
+      "id": "https://www.google.com/search?ibp=oshop&q=J.Lindeberg herr rea Boozt&prds=catalogid:9902478114567962081,productid:3310201892364757954,headlineOfferDocid:8920042416937274491,imageDocid:2382032931587355042,gpcid:1104964464141155083,mid:576462537662549712,pvt:a&hl=sv&gl=se&udm=28",
+      "brand": "J.Lindeberg",
+      "retailer": "Boozt",
+      "name": "J.Lindeberg Heyden Quilt Hybrid Jacket Herr",
+      "price": 1474.2,
+      "original": 1890,
+      "discount": 22,
+      "url": "https://www.google.com/search?ibp=oshop&q=J.Lindeberg herr rea Boozt&prds=catalogid:9902478114567962081,productid:3310201892364757954,headlineOfferDocid:8920042416937274491,imageDocid:2382032931587355042,gpcid:1104964464141155083,mid:576462537662549712,pvt:a&hl=sv&gl=se&udm=28",
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQmQtH4aTbJ8qKPYwZ1xluTscbS9Ck1OoOcknYMw2w5gPyQkM5TsDtzTx3Kifw7T9f2708U8HGVyLEe7WO8YqtXnDtepzD94c6Nal1cI5NQ-obWQ7YFPI6Z",
+      "checkedAt": "2026-11-28T15:42:44.303Z",
+      "lowestObserved": 1474.2,
+      "firstObserved": "2026-11-28T15:42:47.633Z"
+    },
+    {
+      "id": "https://www.google.com/search?ibp=oshop&q=Samsøe Samsøe herr rea Zalando&prds=catalogid:8276778434567045814,productid:7378832420862604106,headlineOfferDocid:9671648629135676084,imageDocid:2236415822778066245,gpcid:4855026365295724591,mid:576462794941063769,pvt:a&hl=sv&gl=se&udm=28",
+      "brand": "Samsøe Samsøe",
+      "retailer": "Zalando",
+      "name": "Herr Samsøe Samsøe Sadamon JS Shirt",
+      "price": 1257,
+      "original": 1616,
+      "discount": 22,
+      "url": "https://www.google.com/search?ibp=oshop&q=Samsøe Samsøe herr rea Zalando&prds=catalogid:8276778434567045814,productid:7378832420862604106,headlineOfferDocid:9671648629135676084,imageDocid:2236415822778066245,gpcid:4855026365295724591,mid:576462794941063769,pvt:a&hl=sv&gl=se&udm=28",
+      "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQu4CWMGG3Rl0Hv-AKoy4ZfHKN991Hwf1niO7A2-lX3bie0LCe2xrfiQjUAiXvxclMeeuntR_bFFoRGdIYsONjO9Lia1ijSWTHXMbxz482CLaWAda7g_Czs",
+      "checkedAt": "2026-11-28T15:42:46.554Z",
+      "lowestObserved": 1257,
+      "firstObserved": "2026-11-28T15:42:47.633Z"
+    },
+    {
+      "id": "https://www.google.com/search?ibp=oshop&q=Acne Studios herr rea Boozt&prds=catalogid:1705385309779381801,productid:525904201843732859,headlineOfferDocid:13502009054902180751,imageDocid:8860913622333968385,rds:PC_5749322082533538947|PROD_PC_5749322082533538947,gpcid:5749322082533538947,mid:576462575675635801,pvt:a&hl=sv&gl=se&udm=28",
+      "brand": "Acne Studios",
+      "retailer": "Boozt",
+      "name": "Byxa Blåkläder 14781514",
+      "price": 1926,
+      "original": 2444,
+      "discount": 21,
+      "url": "https://www.google.com/search?ibp=oshop&q=Acne Studios herr rea Boozt&prds=catalogid:1705385309779381801,productid:525904201843732859,headlineOfferDocid:13502009054902180751,imageDocid:8860913622333968385,rds:PC_5749322082533538947|PROD_PC_5749322082533538947,gpcid:5749322082533538947,mid:576462575675635801,pvt:a&hl=sv&gl=se&udm=28",
+      "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcT4xS_XyckoxRQjtGtzqKBQ2hzFRfCZ_fZDvxH3RjCaYKEkHPwifAzS1Fjxgsqtwb0Bnnd1OmTbowA54ipRo4ub9BaySTVlLSlo3qcVRj5aBRHjcNrOlgSv",
+      "checkedAt": "2026-11-28T15:42:41.335Z",
+      "lowestObserved": 1926,
+      "firstObserved": "2026-11-28T15:42:47.633Z"
+    },
+    {
+      "id": "https://www.google.com/search?ibp=oshop&q=J.Lindeberg herr rea Zalando&prds=catalogid:5084172980436625143,productid:11733903194811771691,headlineOfferDocid:13498954278494612715,imageDocid:18123848714002742895,rds:PC_6123373416352931397|PROD_PC_6123373416352931397,gpcid:6123373416352931397,mid:576462839717673349,pvt:a&hl=sv&gl=se&udm=28",
+      "brand": "J.Lindeberg",
+      "retailer": "Zalando",
+      "name": "Björn Borg Studio Ribbed Flare Tights Regular",
+      "price": 670,
+      "original": 849,
+      "discount": 21,
+      "url": "https://www.google.com/search?ibp=oshop&q=J.Lindeberg herr rea Zalando&prds=catalogid:5084172980436625143,productid:11733903194811771691,headlineOfferDocid:13498954278494612715,imageDocid:18123848714002742895,rds:PC_6123373416352931397|PROD_PC_6123373416352931397,gpcid:6123373416352931397,mid:576462839717673349,pvt:a&hl=sv&gl=se&udm=28",
+      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQcDrteK2a3xLN4-0LNgcNTz8ANWEPGzCmm0C02cgIdEXRWZ-WSaWMQzxerOVl4nanJqr-IoTU-OWHQ6K7Ur577qochRpCPr34z_Ye78YU-EFmQKiaLbpq3MA",
+      "checkedAt": "2026-11-28T15:42:42.989Z",
+      "lowestObserved": 670,
+      "firstObserved": "2026-11-28T15:42:47.633Z"
+    },
+    {
+      "id": "https://www.google.com/search?ibp=oshop&q=Acne Studios herr rea Zalando&prds=productid:1750367048593602931,headlineOfferDocid:1750367048593602931,imageDocid:10962109187453737578,pvt:a&hl=sv&gl=se&udm=28",
       "brand": "Acne Studios",
       "retailer": "Zalando",
-      "name": "Forplay Jule Halternecks",
-      "price": 263,
-      "original": 329,
+      "name": "Magasin Cindi 11 Blouse Alpakamix RWS Dam Stickade Tröjor Stl. S",
+      "price": 599.2,
+      "original": 749,
       "discount": 20,
-      "url": "https://www.google.com/search?ibp=oshop&q=Acne Studios herr rea Zalando&prds=catalogid:2562337017729463656,productid:5988447261328398772,headlineOfferDocid:13248102923957823877,imageDocid:4043695391322027066,gpcid:18121648332814011683,mid:576462898022172566,pvt:a&hl=sv&gl=se&udm=28",
-      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRJQYh_ngYY84O_YZCpCjDr5f8q1Dp80aWl7FQmYRKo3beq7gMrSwqO4USBSRqC0uNIHxakd2E_ojZnFb5IWWaBawgQMJDK7JH3QGZxCEPR4GwHHKdiA5Eo",
-      "checkedAt": "2026-11-27T16:51:32.096Z",
-      "lowestObserved": 263,
-      "firstObserved": "2026-11-27T16:51:43.319Z"
+      "url": "https://www.google.com/search?ibp=oshop&q=Acne Studios herr rea Zalando&prds=productid:1750367048593602931,headlineOfferDocid:1750367048593602931,imageDocid:10962109187453737578,pvt:a&hl=sv&gl=se&udm=28",
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRYIAXNafuDM1PcBT2Y9dI9F7xEVZ9saZSDXP_9Evu4tUJdC-7k9iDk61Tu2JSeVR4bqlgvSVKxMan1b35ECgUCxA3NtTeXFIsZuq117MTS1ZvJzrhVT51Dc0w",
+      "checkedAt": "2026-11-28T15:42:40.239Z",
+      "lowestObserved": 599.2,
+      "firstObserved": "2026-11-28T15:42:47.633Z"
+    },
+    {
+      "id": "https://www.google.com/search?ibp=oshop&q=Acne Studios herr rea Zalando&prds=catalogid:4832929416538688106,productid:3994171670806727254,headlineOfferDocid:16246119757307468114,imageDocid:13051657534595777101,rds:PC_10947221898377573663|PROD_PC_10947221898377573663,gpcid:9236899406150802710,mid:576462896862659004,pvt:a&hl=sv&gl=se&udm=28",
+      "brand": "Acne Studios",
+      "retailer": "Zalando",
+      "name": "MANGO MAN Män Tröja 'Willyp' Nattblå Storlek XL",
+      "price": 600,
+      "original": 749,
+      "discount": 20,
+      "url": "https://www.google.com/search?ibp=oshop&q=Acne Studios herr rea Zalando&prds=catalogid:4832929416538688106,productid:3994171670806727254,headlineOfferDocid:16246119757307468114,imageDocid:13051657534595777101,rds:PC_10947221898377573663|PROD_PC_10947221898377573663,gpcid:9236899406150802710,mid:576462896862659004,pvt:a&hl=sv&gl=se&udm=28",
+      "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR2S1dLg1HYkEZSfb4MtAgKi7TdX4SPdFxOZ6BTlIsVllKohCih7nN92VpR9jsLqKtPOHLi3SL7Uk7U-Y2C6hz0T0VdTHhJ2tnJ_WrWSQKj61auGaXoqw6j",
+      "checkedAt": "2026-11-28T15:42:40.239Z",
+      "lowestObserved": 600,
+      "firstObserved": "2026-11-28T15:42:47.633Z"
     },
     {
       "id": "https://www.google.com/search?ibp=oshop&q=J.Lindeberg herr rea Zalando&prds=catalogid:10545191040705839357,productid:5043008159882918530,headlineOfferDocid:7597572603715862975,imageDocid:2428806817285842321,rds:PC_5050917516658966246|PROD_PC_5050917516658966246,gpcid:9754937292848030705,mid:576462916400591105,pvt:a&hl=sv&gl=se&udm=28",
@@ -436,36 +730,8 @@
       "discount": 20,
       "url": "https://www.google.com/search?ibp=oshop&q=J.Lindeberg herr rea Zalando&prds=catalogid:10545191040705839357,productid:5043008159882918530,headlineOfferDocid:7597572603715862975,imageDocid:2428806817285842321,rds:PC_5050917516658966246|PROD_PC_5050917516658966246,gpcid:9754937292848030705,mid:576462916400591105,pvt:a&hl=sv&gl=se&udm=28",
       "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSqYx4yzO71KRhiH49yKPN_KX_6SAUff5HaJqlJwXy2clmbI2sP_NPLn-BOpyjMbjv0YxoT3ChHHsTE4WMW5F-B-B2RHIE_qPp6dFwIN2q5FgzqgQcwGoVMSg",
-      "checkedAt": "2026-11-27T16:51:35.093Z",
+      "checkedAt": "2026-11-28T15:42:42.989Z",
       "lowestObserved": 239,
-      "firstObserved": "2026-11-27T16:51:43.319Z"
-    },
-    {
-      "id": "https://www.google.com/search?ibp=oshop&q=J.Lindeberg herr rea Zalando&prds=catalogid:4305951805494946615,productid:5310637735748929437,headlineOfferDocid:6751724403383701565,imageDocid:15811559841541187545,rds:PC_14372400886120065203|PROD_PC_14372400886120065203,gpcid:9293823269976859220,mid:576462576004789274,pvt:a&hl=sv&gl=se&udm=28",
-      "brand": "J.Lindeberg",
-      "retailer": "Zalando",
-      "name": "adidas Originals Firebird",
-      "price": 545.99,
-      "original": 679,
-      "discount": 20,
-      "url": "https://www.google.com/search?ibp=oshop&q=J.Lindeberg herr rea Zalando&prds=catalogid:4305951805494946615,productid:5310637735748929437,headlineOfferDocid:6751724403383701565,imageDocid:15811559841541187545,rds:PC_14372400886120065203|PROD_PC_14372400886120065203,gpcid:9293823269976859220,mid:576462576004789274,pvt:a&hl=sv&gl=se&udm=28",
-      "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRGfcNrYTSQEe_TaXYErEhaMmA47VSNO4Gzz7xee0_ChiWxp5fWuY46a0DhP-IFlx_lmGmw9eHH0gWUpjUnFkqBmc-UF_b8fwaPsYF-YxdRMpg1fBnVYOCeRg",
-      "checkedAt": "2026-11-27T16:51:35.093Z",
-      "lowestObserved": 545.99,
-      "firstObserved": "2026-11-27T16:51:43.319Z"
-    },
-    {
-      "id": "https://www.google.com/search?ibp=oshop&q=Samsøe Samsøe herr rea Zalando&prds=catalogid:4566172011127203596,productid:14789606260745180448,headlineOfferDocid:12645306143329017704,imageDocid:4386053640720729063,gpcid:12602446755246798759,mid:576462897671408041,pvt:a&hl=sv&gl=se&udm=28",
-      "brand": "Samsøe Samsøe",
-      "retailer": "Zalando",
-      "name": "Samsøe Samsøe Saoscar Shirt Skjorta multicoloured Herr",
-      "price": 558,
-      "original": 698,
-      "discount": 20,
-      "url": "https://www.google.com/search?ibp=oshop&q=Samsøe Samsøe herr rea Zalando&prds=catalogid:4566172011127203596,productid:14789606260745180448,headlineOfferDocid:12645306143329017704,imageDocid:4386053640720729063,gpcid:12602446755246798759,mid:576462897671408041,pvt:a&hl=sv&gl=se&udm=28",
-      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQgprG0uZjuzS28oykTSW-0sz8VtGgfNRkYSlcaHn2uHqRXfKK5OmkZ9a4Yyhfv559a4j7f1o_jRC3SROnJ8nbl4EbUDFPR2G68e2Jc1uABLVkR2BWwVuzI",
-      "checkedAt": "2026-11-27T16:51:42.177Z",
-      "lowestObserved": 558,
       "firstObserved": "2026-11-27T16:51:43.319Z"
     },
     {
@@ -478,115 +744,21 @@
       "discount": 20,
       "url": "https://www.google.com/search?ibp=oshop&q=Samsøe Samsøe herr rea Zalando&prds=catalogid:16232111311591550545,productid:17577651445773784881,headlineOfferDocid:1189822466569915739,imageDocid:9446261307546749663,rds:PC_7387667119193905781|PROD_PC_7387667119193905781,gpcid:7387667119193905781,mid:576462916710936046,pvt:a&hl=sv&gl=se&udm=28",
       "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQOY_F7DqxDhIKwBHkV0w9Lb1cnYTUL6r2mNn4hhbf-8xa68KyJPAZVoS3WANn-YsLbumpMHLhe-vw07Oh0lkoBI9vsJEx_j11InFlKA9K9ZhK3YeyMRms8",
-      "checkedAt": "2026-11-27T16:51:42.177Z",
+      "checkedAt": "2026-11-28T15:42:46.554Z",
       "lowestObserved": 960,
-      "firstObserved": "2026-11-27T16:51:43.319Z"
-    },
-    {
-      "id": "https://www.google.com/search?ibp=oshop&q=Samsøe Samsøe herr rea Zalando&prds=catalogid:2393858463299094634,productid:18209431326495885414,headlineOfferDocid:15758329327550219317,imageDocid:8727744997939333441,gpcid:9453389157393046650,mid:576462889264253303,pvt:a&hl=sv&gl=se&udm=28",
-      "brand": "Samsøe Samsøe",
-      "retailer": "Zalando",
-      "name": "Samsøe Samsøe Pouch Unisex Necessär",
-      "price": 400,
-      "original": 500,
-      "discount": 20,
-      "url": "https://www.google.com/search?ibp=oshop&q=Samsøe Samsøe herr rea Zalando&prds=catalogid:2393858463299094634,productid:18209431326495885414,headlineOfferDocid:15758329327550219317,imageDocid:8727744997939333441,gpcid:9453389157393046650,mid:576462889264253303,pvt:a&hl=sv&gl=se&udm=28",
-      "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcS3pTDXUW9mLoBayUvUDuSuwXSGeM7OhzKhLathRq7g834NrZNE4xgvaBV8cx-QY05eOxSAYDusJoM3ysY2BIBW8vR28iRt7chXzNCidioQzDkE9R0d52zD1X0",
-      "checkedAt": "2026-11-27T16:51:42.177Z",
-      "lowestObserved": 400,
-      "firstObserved": "2026-11-27T16:51:43.319Z"
-    },
-    {
-      "id": "https://www.google.com/search?ibp=oshop&q=Samsøe Samsøe herr rea Zalando&prds=catalogid:12194614044833194841,productid:9457050046577976368,headlineOfferDocid:11131569026086804900,imageDocid:3556645893427493382,rds:PC_6773105528660316567|PROD_PC_6773105528660316567,gpcid:6773105528660316567,mid:576462892994355952,pvt:a&hl=sv&gl=se&udm=28",
-      "brand": "Samsøe Samsøe",
-      "retailer": "Zalando",
-      "name": "Samsøe Samsøe Sapally Z Shirt Jacket Herr 14163",
-      "price": 1238,
-      "original": 1548,
-      "discount": 20,
-      "url": "https://www.google.com/search?ibp=oshop&q=Samsøe Samsøe herr rea Zalando&prds=catalogid:12194614044833194841,productid:9457050046577976368,headlineOfferDocid:11131569026086804900,imageDocid:3556645893427493382,rds:PC_6773105528660316567|PROD_PC_6773105528660316567,gpcid:6773105528660316567,mid:576462892994355952,pvt:a&hl=sv&gl=se&udm=28",
-      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRcCA75iLRbxgdMxhLQlFwJs4SmDxNDL3zXf6MRE_CpVYp_XrTj9QTe3MwuhNqwyU93ilrQYE-ybNTTD-RA2azwKzAEgTtwNzHmx1Ugfvrmaxzep_faAbsd",
-      "checkedAt": "2026-11-27T16:51:42.177Z",
-      "lowestObserved": 1238,
       "firstObserved": "2026-11-27T16:51:43.319Z"
     }
   ],
   "history": {
-    "https://www.google.com/search?ibp=oshop&q=J.Lindeberg herr rea Boozt&prds=catalogid:242830752613892089,productid:13817976135521350420,headlineOfferDocid:18435677969407104728,imageDocid:12515763580500364280,rds:PC_25475620941723451|PROD_PC_25475620941723451,gpcid:25475620941723451,mid:576462556857596484,pvt:a&hl=sv&gl=se&udm=28": [
-      {
-        "price": 975,
-        "at": "2026-11-26T17:08:38.693Z"
-      }
-    ],
-    "https://www.google.com/search?ibp=oshop&q=J.Lindeberg herr rea Boozt&prds=catalogid:3476420402625894828,productid:10139515722931647832,headlineOfferDocid:9967724481065307726,imageDocid:8351500912817672862,rds:PC_14399070457698920053|PROD_PC_14399070457698920053,gpcid:14399070457698920053,mid:576462876190409089,pvt:a&hl=sv&gl=se&udm=28": [
-      {
-        "price": 910,
-        "at": "2026-11-26T17:08:38.693Z"
-      }
-    ],
     "https://www.google.com/search?ibp=oshop&q=J.Lindeberg herr rea Boozt&prds=catalogid:12871801119853874593,productid:1336185550660153682,headlineOfferDocid:7158208918158944771,imageDocid:17313644916412798045,gpcid:10021416872128384580,mid:576462916873398218,pvt:a&hl=sv&gl=se&udm=28": [
       {
         "price": 3375,
         "at": "2026-11-26T17:08:38.693Z"
       }
     ],
-    "https://www.google.com/search?ibp=oshop&q=J.Lindeberg herr rea Boozt&prds=catalogid:6035638499552454905,productid:7611344766908583681,headlineOfferDocid:11583926019830571773,imageDocid:6028744107833819510,rds:PC_12892828167602829432|PROD_PC_12892828167602829432,gpcid:12892828167602829432,mid:576462879836480298,pvt:a&hl=sv&gl=se&udm=28": [
-      {
-        "price": 449.25,
-        "at": "2026-11-26T17:08:38.693Z"
-      }
-    ],
-    "https://www.google.com/search?ibp=oshop&q=J.Lindeberg herr rea Zalando&prds=catalogid:1663011503000845309,productid:8749451837741874163,headlineOfferDocid:17185159878900291005,imageDocid:8561098645799295233,rds:PC_5861244234261199085|PROD_PC_5861244234261199085,gpcid:5861244234261199085,mid:576462550041944949,pvt:a&hl=sv&gl=se&udm=28": [
-      {
-        "price": 239,
-        "at": "2026-11-27T16:51:43.319Z"
-      }
-    ],
     "https://www.google.com/search?ibp=oshop&q=J.Lindeberg herr rea Zalando&prds=catalogid:17247240568166715238,productid:4194119804436887416,headlineOfferDocid:16780526922141689700,imageDocid:11292303028403510858,rds:PC_12314721823526898147|PROD_PC_12314721823526898147,gpcid:12314721823526898147,mid:576462917439487494,pvt:a&hl=sv&gl=se&udm=28": [
       {
         "price": 279.6,
-        "at": "2026-11-27T16:51:43.319Z"
-      }
-    ],
-    "https://www.google.com/search?ibp=oshop&q=Acne Studios herr rea Zalando&prds=catalogid:88015358755988446,productid:12655695403909932212,headlineOfferDocid:12204060678371888796,imageDocid:16075437005737279915,rds:PC_17748074257577572887|PROD_PC_17748074257577572887,gpcid:17748074257577572887,mid:576462574924766847,pvt:a&hl=sv&gl=se&udm=28": [
-      {
-        "price": 509.97,
-        "at": "2026-11-27T16:51:43.319Z"
-      }
-    ],
-    "https://www.google.com/search?ibp=oshop&q=J.Lindeberg herr rea Zalando&prds=catalogid:4579115761372338839,productid:17908244626390950412,headlineOfferDocid:8054190882473382534,imageDocid:17321175366120037447,gpcid:17790742363962292217,mid:576462912339295022,pvt:a&hl=sv&gl=se&udm=28": [
-      {
-        "price": 269,
-        "at": "2026-11-27T16:51:43.319Z"
-      }
-    ],
-    "https://www.google.com/search?ibp=oshop&q=J.Lindeberg herr rea Zalando&prds=catalogid:6772287453699565770,productid:10910011018127520439,headlineOfferDocid:2791682470134733656,imageDocid:6617154094715823947,gpcid:4073249982464434695,mid:576462875916306767,pvt:a&hl=sv&gl=se&udm=28": [
-      {
-        "price": 389,
-        "at": "2026-11-27T16:51:43.319Z"
-      }
-    ],
-    "https://www.google.com/search?ibp=oshop&q=J.Lindeberg herr rea Zalando&prds=catalogid:5867158972140370148,productid:7485047744718912721,headlineOfferDocid:13657129389744053809,imageDocid:15180007561467538676,gpcid:392629158188677505,mid:576462549176301627,pvt:a&hl=sv&gl=se&udm=28": [
-      {
-        "price": 257,
-        "at": "2026-11-27T16:51:43.319Z"
-      }
-    ],
-    "https://www.google.com/search?ibp=oshop&q=J.Lindeberg herr rea Zalando&prds=catalogid:12818976122226287011,productid:7696738389395035208,headlineOfferDocid:11377834706816040008,imageDocid:6634744038523269672,rds:PC_10210947737543391939|PROD_PC_10210947737543391939,gpcid:10210947737543391939,mid:576462503228136076,pvt:a&hl=sv&gl=se&udm=28": [
-      {
-        "price": 599,
-        "at": "2026-11-27T16:51:43.319Z"
-      }
-    ],
-    "https://www.google.com/search?ibp=oshop&q=J.Lindeberg herr rea Boozt&prds=catalogid:6474661371543429508,productid:1539683674062983039,headlineOfferDocid:5357506530015427123,imageDocid:6454874617557538303,rds:PC_8286848601965960200|PROD_PC_8286848601965960200,gpcid:8286848601965960200,mid:576462913759659924,pvt:a&hl=sv&gl=se&udm=28": [
-      {
-        "price": 960,
-        "at": "2026-11-27T16:51:43.319Z"
-      }
-    ],
-    "https://www.google.com/search?ibp=oshop&q=Samsøe Samsøe herr rea Zalando&prds=catalogid:5563144008443402158,productid:1250403432304582397,headlineOfferDocid:2204879597599221319,imageDocid:12040614346896414925,rds:PC_6969495066304917046|PROD_PC_6969495066304917046,gpcid:6969495066304917046,mid:576462898024138067,pvt:a&hl=sv&gl=se&udm=28": [
-      {
-        "price": 573.3,
         "at": "2026-11-27T16:51:43.319Z"
       }
     ],
@@ -596,45 +768,9 @@
         "at": "2026-11-27T16:51:43.319Z"
       }
     ],
-    "https://www.google.com/search?ibp=oshop&q=J.Lindeberg herr rea Zalando&prds=productid:14525913080162529295,headlineOfferDocid:14525913080162529295,imageDocid:7378039712273209833,rds:LO_14525913080162529295|PROD_LO_14525913080162529295,pvt:a&hl=sv&gl=se&udm=28": [
-      {
-        "price": 129,
-        "at": "2026-11-27T16:51:43.319Z"
-      }
-    ],
-    "https://www.google.com/search?ibp=oshop&q=Acne Studios herr rea Zalando&prds=catalogid:1041649991005886789,productid:16173560846246786452,headlineOfferDocid:6661581796260450616,imageDocid:17748786623068235174,gpcid:9333510004113641140,pvt:a&hl=sv&gl=se&udm=28": [
-      {
-        "price": 840,
-        "at": "2026-11-27T16:51:43.319Z"
-      }
-    ],
-    "https://www.google.com/search?ibp=oshop&q=Acne Studios herr rea Zalando&prds=catalogid:5126894356689214663,productid:8307119700594868616,headlineOfferDocid:15437109809536106876,imageDocid:9742567532286811162,rds:PC_17977404540651990920|PROD_PC_17977404540651990920,gpcid:17977404540651990920,mid:576462704037028973,pvt:a&hl=sv&gl=se&udm=28": [
-      {
-        "price": 699,
-        "at": "2026-11-27T16:51:43.319Z"
-      }
-    ],
-    "https://www.google.com/search?ibp=oshop&q=J.Lindeberg herr rea Zalando&prds=catalogid:16448539305214153162,productid:4921006507373048287,headlineOfferDocid:363981414036036376,imageDocid:13732792681255772587,rds:PC_18245330592273053301|PROD_PC_18245330592273053301,gpcid:18245330592273053301,mid:576462917242442424,pvt:a&hl=sv&gl=se&udm=28": [
-      {
-        "price": 559,
-        "at": "2026-11-27T16:51:43.319Z"
-      }
-    ],
-    "https://www.google.com/search?ibp=oshop&q=J.Lindeberg herr rea Zalando&prds=catalogid:6685119715435754546,productid:15863330985834614414,headlineOfferDocid:15249270562194470573,imageDocid:2595673516869624378,gpcid:13515711458424750911,mid:576462879585633039,pvt:a&hl=sv&gl=se&udm=28": [
-      {
-        "price": 279,
-        "at": "2026-11-27T16:51:43.319Z"
-      }
-    ],
     "https://www.google.com/search?ibp=oshop&q=J.Lindeberg herr rea Zalando&prds=catalogid:2503114848740616174,productid:7389225759857664882,headlineOfferDocid:18115073367534318414,imageDocid:16916177629338101440,rds:PC_9377876379328743554|PROD_PC_9377876379328743554,gpcid:9377876379328743554,mid:576462898021028205,pvt:a&hl=sv&gl=se&udm=28": [
       {
         "price": 385,
-        "at": "2026-11-27T16:51:43.319Z"
-      }
-    ],
-    "https://www.google.com/search?ibp=oshop&q=J.Lindeberg herr rea Boozt&prds=catalogid:10307290199576015059,productid:17258555409725470940,headlineOfferDocid:714887267863780629,imageDocid:8791193673256716082,gpcid:14159755231128531058,mid:576462896374849929,pvt:a&hl=sv&gl=se&udm=28": [
-      {
-        "price": 1189.3,
         "at": "2026-11-27T16:51:43.319Z"
       }
     ],
@@ -642,23 +778,15 @@
       {
         "price": 628,
         "at": "2026-11-27T16:51:43.319Z"
+      },
+      {
+        "price": 898,
+        "at": "2026-11-28T15:42:47.633Z"
       }
     ],
     "https://www.google.com/search?ibp=oshop&q=Samsøe Samsøe herr rea Zalando&prds=catalogid:1927646286634341212,productid:655680346833383011,headlineOfferDocid:206990179661077945,imageDocid:9086293897358385165,gpcid:21849385332140062,mid:576462894469799190,pvt:a&hl=sv&gl=se&udm=28": [
       {
         "price": 3048,
-        "at": "2026-11-27T16:51:43.319Z"
-      }
-    ],
-    "https://www.google.com/search?ibp=oshop&q=J.Lindeberg herr rea Zalando&prds=catalogid:4449751877805972368,productid:10318345957416402938,headlineOfferDocid:17018978092106482620,imageDocid:5418702972618674873,rds:PC_9576226411046050516|PROD_PC_9576226411046050516,gpcid:9576226411046050516,mid:576462916823860698,pvt:a&hl=sv&gl=se&udm=28": [
-      {
-        "price": 246.75,
-        "at": "2026-11-27T16:51:43.319Z"
-      }
-    ],
-    "https://www.google.com/search?ibp=oshop&q=J.Lindeberg herr rea Zalando&prds=catalogid:14064503588571833713,productid:2286747993394732932,headlineOfferDocid:14050677531084952751,imageDocid:1365229190965509388,rds:PC_122958909359945191|PROD_PC_122958909359945191,gpcid:122958909359945191,mid:576462913479053088,pvt:a&hl=sv&gl=se&udm=28": [
-      {
-        "price": 524,
         "at": "2026-11-27T16:51:43.319Z"
       }
     ],
@@ -668,45 +796,9 @@
         "at": "2026-11-27T16:51:43.319Z"
       }
     ],
-    "https://www.google.com/search?ibp=oshop&q=J.Lindeberg herr rea Boozt&prds=catalogid:4984960056351362757,productid:10032331846648724636,headlineOfferDocid:18289681592568274056,imageDocid:5084778158927643560,gpcid:14004832814584328027,mid:576462915364769881,pvt:a&hl=sv&gl=se&udm=28": [
-      {
-        "price": 3749.25,
-        "at": "2026-11-27T16:51:43.319Z"
-      }
-    ],
-    "https://www.google.com/search?ibp=oshop&q=Samsøe Samsøe herr rea Zalando&prds=catalogid:8120990605650310459,productid:9719977659380359571,headlineOfferDocid:17816869864815188970,imageDocid:7883256145967623749,gpcid:11514209723696762800,mid:576462543438919374,pvt:a&hl=sv&gl=se&udm=28": [
-      {
-        "price": 898,
-        "at": "2026-11-27T16:51:43.319Z"
-      }
-    ],
-    "https://www.google.com/search?ibp=oshop&q=J.Lindeberg herr rea Boozt&prds=catalogid:8162798477587203586,productid:13838540994454592965,headlineOfferDocid:9730682499654485265,imageDocid:411429674217224132,gpcid:15670972260201804674,mid:576462566251484358,pvt:a&hl=sv&gl=se&udm=28": [
-      {
-        "price": 1162.2,
-        "at": "2026-11-27T16:51:43.319Z"
-      }
-    ],
-    "https://www.google.com/search?ibp=oshop&q=Acne Studios herr rea Zalando&prds=catalogid:2562337017729463656,productid:5988447261328398772,headlineOfferDocid:13248102923957823877,imageDocid:4043695391322027066,gpcid:18121648332814011683,mid:576462898022172566,pvt:a&hl=sv&gl=se&udm=28": [
-      {
-        "price": 263,
-        "at": "2026-11-27T16:51:43.319Z"
-      }
-    ],
     "https://www.google.com/search?ibp=oshop&q=J.Lindeberg herr rea Zalando&prds=catalogid:10545191040705839357,productid:5043008159882918530,headlineOfferDocid:7597572603715862975,imageDocid:2428806817285842321,rds:PC_5050917516658966246|PROD_PC_5050917516658966246,gpcid:9754937292848030705,mid:576462916400591105,pvt:a&hl=sv&gl=se&udm=28": [
       {
         "price": 239,
-        "at": "2026-11-27T16:51:43.319Z"
-      }
-    ],
-    "https://www.google.com/search?ibp=oshop&q=J.Lindeberg herr rea Zalando&prds=catalogid:4305951805494946615,productid:5310637735748929437,headlineOfferDocid:6751724403383701565,imageDocid:15811559841541187545,rds:PC_14372400886120065203|PROD_PC_14372400886120065203,gpcid:9293823269976859220,mid:576462576004789274,pvt:a&hl=sv&gl=se&udm=28": [
-      {
-        "price": 545.99,
-        "at": "2026-11-27T16:51:43.319Z"
-      }
-    ],
-    "https://www.google.com/search?ibp=oshop&q=Samsøe Samsøe herr rea Zalando&prds=catalogid:4566172011127203596,productid:14789606260745180448,headlineOfferDocid:12645306143329017704,imageDocid:4386053640720729063,gpcid:12602446755246798759,mid:576462897671408041,pvt:a&hl=sv&gl=se&udm=28": [
-      {
-        "price": 558,
         "at": "2026-11-27T16:51:43.319Z"
       }
     ],
@@ -720,12 +812,268 @@
       {
         "price": 400,
         "at": "2026-11-27T16:51:43.319Z"
+      },
+      {
+        "price": 500,
+        "at": "2026-11-28T15:42:47.633Z"
       }
     ],
-    "https://www.google.com/search?ibp=oshop&q=Samsøe Samsøe herr rea Zalando&prds=catalogid:12194614044833194841,productid:9457050046577976368,headlineOfferDocid:11131569026086804900,imageDocid:3556645893427493382,rds:PC_6773105528660316567|PROD_PC_6773105528660316567,gpcid:6773105528660316567,mid:576462892994355952,pvt:a&hl=sv&gl=se&udm=28": [
+    "https://www.google.com/search?ibp=oshop&q=Samsøe Samsøe herr rea Boozt&prds=catalogid:14339554396446723072,productid:9843417296429454686,headlineOfferDocid:3886082666415603662,imageDocid:18108919592101739807,gpcid:4720843763346193023,mid:576462896460884187,pvt:a&hl=sv&gl=se&udm=28": [
       {
-        "price": 1238,
-        "at": "2026-11-27T16:51:43.319Z"
+        "price": 512,
+        "at": "2026-11-28T15:42:47.633Z"
+      }
+    ],
+    "https://www.google.com/search?ibp=oshop&q=Samsøe Samsøe herr rea Zalando&prds=catalogid:5861405329269375298,productid:11114917596001686935,headlineOfferDocid:10659819440483599636,imageDocid:9091382140865029584,gpcid:1955552156799380456,mid:576462917253972945,pvt:a&hl=sv&gl=se&udm=28": [
+      {
+        "price": 628,
+        "at": "2026-11-28T15:42:47.633Z"
+      }
+    ],
+    "https://www.google.com/search?ibp=oshop&q=Acne Studios herr rea Zalando&prds=catalogid:13443569414637238959,productid:9969428423428810437,headlineOfferDocid:14843157374621380532,imageDocid:7754473870845642429,gpcid:3482386444253387072,mid:576462915369158288,pvt:a&hl=sv&gl=se&udm=28": [
+      {
+        "price": 495,
+        "at": "2026-11-28T15:42:47.633Z"
+      }
+    ],
+    "https://www.google.com/search?ibp=oshop&q=J.Lindeberg herr rea Boozt&prds=catalogid:5276633306570722000,productid:11887397906315443366,headlineOfferDocid:3683932731040912232,imageDocid:12683304098028474528,rds:PC_12892828167602829432|PROD_PC_12892828167602829432,gpcid:12892828167602829432,mid:576462879836480298,pvt:a&hl=sv&gl=se&udm=28": [
+      {
+        "price": 449,
+        "at": "2026-11-28T15:42:47.633Z"
+      }
+    ],
+    "https://www.google.com/search?ibp=oshop&q=Samsøe Samsøe herr rea Zalando&prds=catalogid:9980856488879322470,productid:12793040134993784129,headlineOfferDocid:16524983969424389969,imageDocid:1182402584790445334,gpcid:752292611222646984,mid:576462889936329641,pvt:a&hl=sv&gl=se&udm=28": [
+      {
+        "price": 648,
+        "at": "2026-11-28T15:42:47.633Z"
+      }
+    ],
+    "https://www.google.com/search?ibp=oshop&q=Samsøe Samsøe herr rea Zalando&prds=catalogid:3819694414016718666,productid:11613875989055814605,headlineOfferDocid:5142507112904051974,imageDocid:4454040723699779632,gpcid:6024384709290420194,mid:576462893170941578,pvt:a&hl=sv&gl=se&udm=28": [
+      {
+        "price": 798,
+        "at": "2026-11-28T15:42:47.633Z"
+      }
+    ],
+    "https://www.google.com/search?ibp=oshop&q=Samsøe Samsøe herr rea Zalando&prds=catalogid:14418200483795933032,productid:12370983423557521568,headlineOfferDocid:3521886481434750789,imageDocid:8107020558507633508,rds:PC_6773105528660316567|PROD_PC_6773105528660316567,gpcid:6773105528660316567,mid:576462892994355952,pvt:a&hl=sv&gl=se&udm=28": [
+      {
+        "price": 1648,
+        "at": "2026-11-28T15:42:47.633Z"
+      }
+    ],
+    "https://www.google.com/search?ibp=oshop&q=Samsøe Samsøe herr rea Zalando&prds=catalogid:1953050105361640632,productid:824117759240114729,headlineOfferDocid:2954200283325391742,imageDocid:11105205891837484022,gpcid:14530171058482505896,mid:576462555444414516,pvt:a&hl=sv&gl=se&udm=28": [
+      {
+        "price": 898,
+        "at": "2026-11-28T15:42:47.633Z"
+      }
+    ],
+    "https://www.google.com/search?ibp=oshop&q=Samsøe Samsøe herr rea Boozt&prds=catalogid:17811980875867622303,productid:15474003700122879695,headlineOfferDocid:17138546288152800672,imageDocid:14663626152653350101,rds:PC_6567739931799695396|PROD_PC_6567739931799695396,gpcid:6567739931799695396,mid:576462476445853775,pvt:a&hl=sv&gl=se&udm=28": [
+      {
+        "price": 199.5,
+        "at": "2026-11-28T15:42:47.633Z"
+      }
+    ],
+    "https://www.google.com/search?ibp=oshop&q=Acne Studios herr rea Zalando&prds=catalogid:1027559202791732082,productid:1018898118325630868,headlineOfferDocid:8968724239636949786,imageDocid:18214798768727646767,gpcid:10185634523290407699,mid:576462576505813606,pvt:a&hl=sv&gl=se&udm=28": [
+      {
+        "price": 161,
+        "at": "2026-11-28T15:42:47.633Z"
+      }
+    ],
+    "https://www.google.com/search?ibp=oshop&q=J.Lindeberg herr rea Zalando&prds=catalogid:15428782484673765873,productid:9739838675273322952,headlineOfferDocid:16222005988522743210,imageDocid:10018872203769057656,rds:PC_15420358582768354106|PROD_PC_15420358582768354106,gpcid:15420358582768354106,mid:576462562434504695,pvt:a&hl=sv&gl=se&udm=28": [
+      {
+        "price": 239,
+        "at": "2026-11-28T15:42:47.633Z"
+      }
+    ],
+    "https://www.google.com/search?ibp=oshop&q=J.Lindeberg herr rea Zalando&prds=catalogid:7880108206127517448,productid:12034583936899738697,headlineOfferDocid:13355834115860657934,imageDocid:1399909011798260164,rds:PC_820464720490124899|PROD_PC_820464720490124899,gpcid:820464720490124899,mid:576462916361680263,pvt:a&hl=sv&gl=se&udm=28": [
+      {
+        "price": 419.4,
+        "at": "2026-11-28T15:42:47.633Z"
+      }
+    ],
+    "https://www.google.com/search?ibp=oshop&q=J.Lindeberg herr rea Zalando&prds=catalogid:15891950559012549085,productid:1852445309891017938,headlineOfferDocid:17437425663458232556,imageDocid:8349161142507406118,gpcid:3386987935112099269,mid:576462917245006203,pvt:a&hl=sv&gl=se&udm=28": [
+      {
+        "price": 389,
+        "at": "2026-11-28T15:42:47.633Z"
+      }
+    ],
+    "https://www.google.com/search?ibp=oshop&q=J.Lindeberg herr rea Boozt&prds=catalogid:10561029871684958270,productid:406395040035096616,headlineOfferDocid:3185693532465927521,imageDocid:9432372451154048177,gpcid:499756230467375003,mid:576462567986181006,pvt:a&hl=sv&gl=se&udm=28": [
+      {
+        "price": 2279,
+        "at": "2026-11-28T15:42:47.633Z"
+      }
+    ],
+    "https://www.google.com/search?ibp=oshop&q=Samsøe Samsøe herr rea Boozt&prds=catalogid:88015358755988446,productid:12655695403909932212,headlineOfferDocid:12204060678371888796,imageDocid:16075437005737279915,rds:PC_17748074257577572887|PROD_PC_17748074257577572887,gpcid:17748074257577572887,mid:576462574924766847,pvt:a&hl=sv&gl=se&udm=28": [
+      {
+        "price": 509.97,
+        "at": "2026-11-28T15:42:47.633Z"
+      }
+    ],
+    "https://www.google.com/search?ibp=oshop&q=Samsøe Samsøe herr rea Zalando&prds=catalogid:5140857791495345417,productid:10259495662375709601,headlineOfferDocid:2742680684936128391,imageDocid:944078031383969184,gpcid:96772076134121066,mid:576462890359481480,pvt:a&hl=sv&gl=se&udm=28": [
+      {
+        "price": 1557,
+        "at": "2026-11-28T15:42:47.633Z"
+      }
+    ],
+    "https://www.google.com/search?ibp=oshop&q=Samsøe Samsøe herr rea Zalando&prds=catalogid:2828867699890254340,productid:15475505548083464871,headlineOfferDocid:4008007865634615103,imageDocid:12101947594105566353,gpcid:15467550921346263496,mid:576462555610818352,pvt:a&hl=sv&gl=se&udm=28": [
+      {
+        "price": 1297,
+        "at": "2026-11-28T15:42:47.633Z"
+      }
+    ],
+    "https://www.google.com/search?ibp=oshop&q=Samsøe Samsøe herr rea Zalando&prds=catalogid:9590427910248125619,productid:1119847411522240869,headlineOfferDocid:5373333399077887823,imageDocid:6484859980858548695,gpcid:11098296265928993832,mid:576462893592930062,pvt:a&hl=sv&gl=se&udm=28": [
+      {
+        "price": 1817,
+        "at": "2026-11-28T15:42:47.633Z"
+      }
+    ],
+    "https://www.google.com/search?ibp=oshop&q=Acne Studios herr rea Zalando&prds=catalogid:7341785674232676658,productid:15367320292671527098,headlineOfferDocid:13250293526251657035,imageDocid:14837115640859614219,rds:PC_17632591277102828977|PROD_PC_17632591277102828977,gpcid:17632591277102828977,mid:576462568256300061,pvt:a&hl=sv&gl=se&udm=28": [
+      {
+        "price": 195,
+        "at": "2026-11-28T15:42:47.633Z"
+      }
+    ],
+    "https://www.google.com/search?ibp=oshop&q=Acne Studios herr rea Boozt&prds=catalogid:7341785674232676658,productid:15367320292671527098,headlineOfferDocid:13250293526251657035,imageDocid:14837115640859614219,rds:PC_17632591277102828977|PROD_PC_17632591277102828977,gpcid:17632591277102828977,mid:576462568256300061,pvt:a&hl=sv&gl=se&udm=28": [
+      {
+        "price": 195,
+        "at": "2026-11-28T15:42:47.633Z"
+      }
+    ],
+    "https://www.google.com/search?ibp=oshop&q=Samsøe Samsøe herr rea Boozt&prds=catalogid:14546619458254948739,productid:5882109326192255310,headlineOfferDocid:11344217255725905535,imageDocid:8680338440594621770,rds:PC_18318459099293233100|PROD_PC_18318459099293233100,gpcid:6971108962539503407,mid:576462918869599874,pvt:a&hl=sv&gl=se&udm=28": [
+      {
+        "price": 199,
+        "at": "2026-11-28T15:42:47.633Z"
+      }
+    ],
+    "https://www.google.com/search?ibp=oshop&q=Acne Studios herr rea Zalando&prds=catalogid:1041649991005886789,productid:16173560846246786452,headlineOfferDocid:6661581796260450616,imageDocid:17748786623068235174,gpcid:4248148343631614386,pvt:a&hl=sv&gl=se&udm=28": [
+      {
+        "price": 840,
+        "at": "2026-11-28T15:42:47.633Z"
+      }
+    ],
+    "https://www.google.com/search?ibp=oshop&q=J.Lindeberg herr rea Zalando&prds=catalogid:6211145207572836108,productid:15216063453789140426,headlineOfferDocid:6485107295216145860,imageDocid:14429445572448423103,rds:PC_10049617394822724391|PROD_PC_10049617394822724391,gpcid:13135371487650174956,pvt:a&hl=sv&gl=se&udm=28": [
+      {
+        "price": 279,
+        "at": "2026-11-28T15:42:47.633Z"
+      }
+    ],
+    "https://www.google.com/search?ibp=oshop&q=J.Lindeberg herr rea Zalando&prds=catalogid:3510492306641190622,productid:2329916874851918924,headlineOfferDocid:16864307549422544900,imageDocid:10870847831111857918,rds:PC_8251419794063869521|PROD_PC_8251419794063869521,gpcid:8251419794063869521,mid:576462524665071862,pvt:a&hl=sv&gl=se&udm=28": [
+      {
+        "price": 279,
+        "at": "2026-11-28T15:42:47.633Z"
+      }
+    ],
+    "https://www.google.com/search?ibp=oshop&q=J.Lindeberg herr rea Boozt&prds=catalogid:10153953520108770316,productid:1119202781767537079,headlineOfferDocid:227734585803586802,imageDocid:4791824804004011671,rds:PC_6849344093081301302|PROD_PC_6849344093081301302,gpcid:6849344093081301302,mid:576462882663965440,pvt:a&hl=sv&gl=se&udm=28": [
+      {
+        "price": 1540,
+        "at": "2026-11-28T15:42:47.633Z"
+      }
+    ],
+    "https://www.google.com/search?ibp=oshop&q=J.Lindeberg herr rea Boozt&prds=catalogid:14465040058509154805,productid:8546715361717659870,headlineOfferDocid:6515507018940029273,imageDocid:8351500912817672862,rds:PC_14399070457698920053|PROD_PC_14399070457698920053,gpcid:14399070457698920053,mid:576462876190409089,pvt:a&hl=sv&gl=se&udm=28": [
+      {
+        "price": 910,
+        "at": "2026-11-28T15:42:47.633Z"
+      }
+    ],
+    "https://www.google.com/search?ibp=oshop&q=Samsøe Samsøe herr rea Boozt&prds=catalogid:1041649991005886789,productid:16173560846246786452,headlineOfferDocid:6661581796260450616,imageDocid:17748786623068235174,gpcid:4248148343631614386,pvt:a&hl=sv&gl=se&udm=28": [
+      {
+        "price": 840,
+        "at": "2026-11-28T15:42:47.633Z"
+      }
+    ],
+    "https://www.google.com/search?ibp=oshop&q=Samsøe Samsøe herr rea Boozt&prds=catalogid:13984575121223703294,productid:1822036090839071597,headlineOfferDocid:9314482880976753047,imageDocid:5589217289456985566,gpcid:10403494809826011038,mid:576462881110659087,pvt:a&hl=sv&gl=se&udm=28": [
+      {
+        "price": 664.3,
+        "at": "2026-11-28T15:42:47.633Z"
+      }
+    ],
+    "https://www.google.com/search?ibp=oshop&q=Acne Studios herr rea Zalando&prds=catalogid:10333633578094137787,productid:8126610647329849261,headlineOfferDocid:6661296794079624736,imageDocid:15422490353172903855,rds:PC_8881306088115887141|PROD_PC_8881306088115887141,gpcid:8881306088115887141,mid:576462917475564294,pvt:a&hl=sv&gl=se&udm=28": [
+      {
+        "price": 149.25,
+        "at": "2026-11-28T15:42:47.633Z"
+      }
+    ],
+    "https://www.google.com/search?ibp=oshop&q=Acne Studios herr rea Zalando&prds=catalogid:2689538615432506569,productid:5924033485911551505,headlineOfferDocid:10440136775457948750,imageDocid:14445940309681293706,gpcid:3994153955662404654,mid:576462916510606808,pvt:a&hl=sv&gl=se&udm=28": [
+      {
+        "price": 412.46,
+        "at": "2026-11-28T15:42:47.633Z"
+      }
+    ],
+    "https://www.google.com/search?ibp=oshop&q=Acne Studios herr rea Boozt&prds=catalogid:10333633578094137787,productid:8126610647329849261,headlineOfferDocid:6661296794079624736,imageDocid:15422490353172903855,rds:PC_8881306088115887141|PROD_PC_8881306088115887141,gpcid:8881306088115887141,mid:576462917475564294,pvt:a&hl=sv&gl=se&udm=28": [
+      {
+        "price": 149.25,
+        "at": "2026-11-28T15:42:47.633Z"
+      }
+    ],
+    "https://www.google.com/search?ibp=oshop&q=J.Lindeberg herr rea Zalando&prds=productid:2049237910793510310,headlineOfferDocid:2049237910793510310,imageDocid:3820852156561596666,pvt:a&hl=sv&gl=se&udm=28": [
+      {
+        "price": 149.25,
+        "at": "2026-11-28T15:42:47.633Z"
+      }
+    ],
+    "https://www.google.com/search?ibp=oshop&q=J.Lindeberg herr rea Zalando&prds=catalogid:1761781824663118472,productid:8609646955530549219,headlineOfferDocid:8991816629581649338,imageDocid:225762808272416906,rds:PC_10825448966223155021|PROD_PC_10825448966223155021,gpcid:10825448966223155021,mid:576462835833321823,pvt:a&hl=sv&gl=se&udm=28": [
+      {
+        "price": 336.75,
+        "at": "2026-11-28T15:42:47.633Z"
+      }
+    ],
+    "https://www.google.com/search?ibp=oshop&q=J.Lindeberg herr rea Zalando&prds=catalogid:12853261946380866419,productid:14643855154269818103,headlineOfferDocid:12854385116286040703,imageDocid:17282936555320093531,gpcid:16417110095793332602,mid:576462914515153487,pvt:a&hl=sv&gl=se&udm=28": [
+      {
+        "price": 374.25,
+        "at": "2026-11-28T15:42:47.633Z"
+      }
+    ],
+    "https://www.google.com/search?ibp=oshop&q=J.Lindeberg herr rea Zalando&prds=catalogid:3110282421905954182,productid:15031319809778461105,headlineOfferDocid:792716875618718805,imageDocid:7394189611720661541,rds:PC_15233581324859710052|PROD_PC_15233581324859710052,gpcid:15233581324859710052,mid:576462770065305559,pvt:a&hl=sv&gl=se&udm=28": [
+      {
+        "price": 374,
+        "at": "2026-11-28T15:42:47.633Z"
+      }
+    ],
+    "https://www.google.com/search?ibp=oshop&q=J.Lindeberg herr rea Boozt&prds=catalogid:4443139925299818849,productid:6512933349678538060,headlineOfferDocid:12098536394083395945,imageDocid:5030321213983676495,gpcid:8172093763904764547,mid:576462894545927264,pvt:a&hl=sv&gl=se&udm=28": [
+      {
+        "price": 1162.2,
+        "at": "2026-11-28T15:42:47.633Z"
+      }
+    ],
+    "https://www.google.com/search?ibp=oshop&q=J.Lindeberg herr rea Boozt&prds=catalogid:15665918649627198608,productid:14352360833656591902,headlineOfferDocid:5343289496730361297,imageDocid:17902617624689526121,rds:PC_11914159252343157199|PROD_PC_11914159252343157199,gpcid:7225735964676556052,mid:576462917393097171,pvt:a&hl=sv&gl=se&udm=28": [
+      {
+        "price": 1084.2,
+        "at": "2026-11-28T15:42:47.633Z"
+      }
+    ],
+    "https://www.google.com/search?ibp=oshop&q=J.Lindeberg herr rea Boozt&prds=catalogid:9902478114567962081,productid:3310201892364757954,headlineOfferDocid:8920042416937274491,imageDocid:2382032931587355042,gpcid:1104964464141155083,mid:576462537662549712,pvt:a&hl=sv&gl=se&udm=28": [
+      {
+        "price": 1474.2,
+        "at": "2026-11-28T15:42:47.633Z"
+      }
+    ],
+    "https://www.google.com/search?ibp=oshop&q=Samsøe Samsøe herr rea Zalando&prds=catalogid:8276778434567045814,productid:7378832420862604106,headlineOfferDocid:9671648629135676084,imageDocid:2236415822778066245,gpcid:4855026365295724591,mid:576462794941063769,pvt:a&hl=sv&gl=se&udm=28": [
+      {
+        "price": 1257,
+        "at": "2026-11-28T15:42:47.633Z"
+      }
+    ],
+    "https://www.google.com/search?ibp=oshop&q=Acne Studios herr rea Boozt&prds=catalogid:1705385309779381801,productid:525904201843732859,headlineOfferDocid:13502009054902180751,imageDocid:8860913622333968385,rds:PC_5749322082533538947|PROD_PC_5749322082533538947,gpcid:5749322082533538947,mid:576462575675635801,pvt:a&hl=sv&gl=se&udm=28": [
+      {
+        "price": 1926,
+        "at": "2026-11-28T15:42:47.633Z"
+      }
+    ],
+    "https://www.google.com/search?ibp=oshop&q=J.Lindeberg herr rea Zalando&prds=catalogid:5084172980436625143,productid:11733903194811771691,headlineOfferDocid:13498954278494612715,imageDocid:18123848714002742895,rds:PC_6123373416352931397|PROD_PC_6123373416352931397,gpcid:6123373416352931397,mid:576462839717673349,pvt:a&hl=sv&gl=se&udm=28": [
+      {
+        "price": 670,
+        "at": "2026-11-28T15:42:47.633Z"
+      }
+    ],
+    "https://www.google.com/search?ibp=oshop&q=Acne Studios herr rea Zalando&prds=productid:1750367048593602931,headlineOfferDocid:1750367048593602931,imageDocid:10962109187453737578,pvt:a&hl=sv&gl=se&udm=28": [
+      {
+        "price": 599.2,
+        "at": "2026-11-28T15:42:47.633Z"
+      }
+    ],
+    "https://www.google.com/search?ibp=oshop&q=Acne Studios herr rea Zalando&prds=catalogid:4832929416538688106,productid:3994171670806727254,headlineOfferDocid:16246119757307468114,imageDocid:13051657534595777101,rds:PC_10947221898377573663|PROD_PC_10947221898377573663,gpcid:9236899406150802710,mid:576462896862659004,pvt:a&hl=sv&gl=se&udm=28": [
+      {
+        "price": 600,
+        "at": "2026-11-28T15:42:47.633Z"
       }
     ]
   },
